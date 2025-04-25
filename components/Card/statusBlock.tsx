@@ -96,7 +96,7 @@ export default function StatDescription({
         return (
           <div className="flex flex-row gap-1 justify-start items-center font-bold text-white">
             <Image
-              src="/assets/icons/abilLifeSteal.svg"
+              src="/assets/icons/abilLifesteal.svg"
               height={"1rem"}
               width={"fit-content"}
               alt="Ability Lifesteal"
