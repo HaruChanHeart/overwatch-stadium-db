@@ -1,0 +1,92 @@
+[
+  {
+    "name": "눈장화",
+    "image": "61EF8",
+    "description": [
+      {
+        "type": "text",
+        "content": "얼어붙은 지면에서 메이의 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "attackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "집중 눈보라",
+    "image": "61EF6",
+    "description": [
+      {
+        "type": "text",
+        "content": "최대 탄약이 "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하지만 재장전이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 더 오래 걸립니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "attackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "히말라야 모자",
+    "image": "61EF4",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": " 안에 있을 때 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "attackSpeed",
+        "value": 0.1
+      }
+    ]
+  }
+]

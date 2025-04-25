@@ -1,0 +1,80 @@
+[
+  {
+    "name": "부스터 로켓",
+    "image": "61D37",
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "shield",
+        "value": 25
+      }
+    ],
+    "extras": [
+      {
+        "value": "25%",
+        "content": "[글라이드 부스터] 지속 시간"
+      }
+    ]
+  },
+  {
+    "name": "강화 활공",
+    "image": "61D3F",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[글라이드 부스터]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "의 피해 감소를 얻습니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "shield",
+        "value": 75
+      }
+    ]
+  },
+  {
+    "name": "태양 폭발 혈청",
+    "image": "61D3A",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[궤도 광선]"
+      },
+      {
+        "type": "text",
+        "content": " 치유량이 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "shield",
+        "value": 75
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "심연 부츠",
+    "image": "60E80",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소멸]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " 더 높게 점프할 수 있습니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  }
+]

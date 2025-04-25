@@ -1,0 +1,366 @@
+[
+  {
+    "name": "그을린 대지",
+    "image": "5B1E4",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[과열]"
+      },
+      {
+        "type": "text",
+        "content": "되면 "
+      },
+      {
+        "type": "number",
+        "content": "6미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내의 적을 불태우고, "
+      },
+      {
+        "type": "number",
+        "content": "5"
+      },
+      {
+        "type": "text",
+        "content": "초에 걸쳐내 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 피해를 줍니다."
+      }
+    ]
+  },
+  {
+    "name": "보호막 발산",
+    "image": "5B1EB",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[과열]"
+      },
+      {
+        "type": "text",
+        "content": "되면 전방에 내구도가 기술 능력 "
+      },
+      {
+        "type": "number",
+        "content": "600"
+      },
+      {
+        "type": "text",
+        "content": "인 방벽을 배치합니다."
+      }
+    ]
+  },
+  {
+    "name": "고급 로봇투척공학",
+    "image": "5B1E7",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수호의 창]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 "
+      },
+      {
+        "type": "strong",
+        "content": "[투창]"
+      },
+      {
+        "type": "text",
+        "content": "을 날립니다."
+      }
+    ]
+  },
+  {
+    "name": "뜨거운 회전감자",
+    "image": "5B1E6",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수호의 창]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "의 재사용 대기시간 감소를 얻지만 "
+      },
+      {
+        "type": "strong",
+        "content": "[열]"
+      },
+      {
+        "type": "text",
+        "content": "을 생성합니다."
+      }
+    ]
+  },
+  {
+    "name": "회전 시스템 업데이트",
+    "image": "5B1E9",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수호의 창]"
+      },
+      {
+        "type": "text",
+        "content": "이 투사체를 튕겨내고, 튕겨낸 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "만큼을 궁극기 충전을 얻습니다."
+      }
+    ]
+  },
+  {
+    "name": "강철 발굽",
+    "image": "5B1E3",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": "가 끝나면, "
+      },
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": " 도중 받은 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 보호막을 얻습니다. 다음에 "
+      },
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": "를 사용하면 초기화됩니다."
+      }
+    ]
+  },
+  {
+    "name": "공장 초기화",
+    "image": "5B1E2",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": "가 활성화되어 있을 때, "
+      },
+      {
+        "type": "strong",
+        "content": "[수호의 창]"
+      },
+      {
+        "type": "text",
+        "content": "과 "
+      },
+      {
+        "type": "strong",
+        "content": "[투창]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "의 재사용 대기시간이 감소합니다."
+      }
+    ]
+  },
+  {
+    "name": "복구와 강화",
+    "image": "5B1EC",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": "가 활성화되어 있을 때 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  {
+    "name": "함께 달리기",
+    "image": "5B1E5",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": "가 활성화되어 있는 동안 시야 내 아군의 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 증가하고, 아군이 내 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 얻습니다."
+      }
+    ]
+  },
+  {
+    "name": "올가미 묶기",
+    "image": "5B1E1",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[투창]"
+      },
+      {
+        "type": "text",
+        "content": "이 꽂히면 "
+      },
+      {
+        "type": "number",
+        "content": "4미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내의 적을 투창으로 끌어당깁니다."
+      }
+    ]
+  },
+  {
+    "name": "구심 충전",
+    "image": "5B1EA",
+    "description": [
+      {
+        "type": "text",
+        "content": "궁극기 비용 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 감소. "
+      },
+      {
+        "type": "strong",
+        "content": "[대지의 창]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후, 기술 재사용 대기시간이 초기화됩니다."
+      }
+    ]
+  },
+  {
+    "name": "초강력 증폭기",
+    "image": "5B1E8",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[대지의 창]"
+      },
+      {
+        "type": "text",
+        "content": "을 사용하면 "
+      },
+      {
+        "type": "strong",
+        "content": "[초강력 증폭기]"
+      },
+      {
+        "type": "text",
+        "content": "를 떨어뜨립니다. 증폭기는 주위 아군이 주는 피해를 "
+      },
+      {
+        "type": "number",
+        "content": "15"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가시킵니다."
+      }
+    ]
+  }
+]

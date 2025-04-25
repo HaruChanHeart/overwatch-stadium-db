@@ -1,0 +1,108 @@
+[
+  {
+    "name": "은빛 박차",
+    "image": "60DF7",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[충격 샷건]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후, 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "B.O.B. 배선 방어",
+    "image": "60DF9",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": "이 돌진을 마치면 "
+      },
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": "의 방어력이 "
+      },
+      {
+        "type": "number",
+        "content": "300"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 50
+      },
+      {
+        "type": "armor",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "방화광",
+    "image": "60DE1",
+    "description": [
+      {
+        "type": "text",
+        "content": "불태우기 효과가 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "의 생명력 흡수를 얻습니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 50
+      }
+    ]
+  }
+]

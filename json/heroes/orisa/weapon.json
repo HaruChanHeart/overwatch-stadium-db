@@ -1,0 +1,87 @@
+[
+  {
+    "name": "개선된 목표 센서",
+    "image": "60E8A",
+    "description": [
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": "보다 멀리 떨어져 있는 적에게 주는 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 2
+  },
+  {
+    "name": "전자광",
+    "image": "60E8B",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[과열]"
+      },
+      {
+        "type": "text",
+        "content": " 상태에서 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 빠르게 회복합니다."
+      }
+    ],
+    "grade": 2,
+    "stats": [
+      {
+        "type": "attackSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "최적화된 에너지",
+    "image": "60E89",
+    "description": [
+      {
+        "type": "text",
+        "content": "치명타 적중 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[열]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ],
+    "grade": 2,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.1
+      }
+    ]
+  }
+]

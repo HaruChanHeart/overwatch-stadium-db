@@ -1,0 +1,536 @@
+[
+  {
+    "name": "수상쩍은 장관",
+    "image": "616C0",
+    "grade": 1,
+    "cost": 1000,
+    "stats": [
+      {
+        "type": "abilityLifeSteal",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "충전 판갑",
+    "image": "610D4",
+    "description": [
+      {
+        "type": "text",
+        "content": "궁극기 충전을 소모한 후, 해당 라운드가 끝날 때까지 "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "의 방어력과 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "의 기술 위력을 얻습니다"
+      }
+    ],
+    "grade": 1,
+    "cost": 1000
+  },
+  {
+    "name": "파워 전술",
+    "image": "55E8C",
+    "grade": 1,
+    "cost": 1000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "승리의 태도",
+    "image": "5A8E7",
+    "description": [
+      {
+        "type": "text",
+        "content": "사망 시 궁극기 충전을 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 얻습니다"
+      }
+    ],
+    "grade": 1,
+    "cost": 1500,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "맞춤형 개머리판",
+    "image": "5A8F4",
+    "grade": 2,
+    "cost": 3750,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.05
+      },
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "생체광 오버플로",
+    "image": "5A8FC",
+    "description": [
+      {
+        "type": "text",
+        "content": "궁극기 충전 사용 시 근처의 아군에게 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초동안 "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 생명력을 부여합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      },
+      {
+        "type": "abilityPower",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "name": "손목 싸개",
+    "image": "610CC",
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.05
+      },
+      {
+        "type": "attackSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "쓰레기촌 뭐더라",
+    "image": "617BB",
+    "grade": 2,
+    "cost": 4000,
+    "extras": [
+      {
+        "value": "25%",
+        "content": "궁극기 충전 시작"
+      }
+    ]
+  },
+  {
+    "name": "에너지 충전 손목 방어구",
+    "image": "617BD",
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      },
+      {
+        "type": "abilityLifeSteal",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "다용도 도구",
+    "image": "5A91B",
+    "grade": 2,
+    "cost": 5000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.05
+      },
+      {
+        "type": "cooldownReduction",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "나노 콜라",
+    "image": "5A8F0",
+    "grade": 2,
+    "cost": 5500,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "name": "3연속 토미건 발사",
+    "image": "617E0",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 후, 다음 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "번의 무기 공격이 대상 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 피해를 줍니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 9500,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      },
+      {
+        "type": "attackSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "루메리코 융합 기관포",
+    "image": "5A917",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 시 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "초에 걸쳐 "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "의 방어력 또는 보호막을 회복합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "armor",
+        "value": 50
+      },
+      {
+        "type": "abilityPower",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "생체기술 극대화",
+    "image": "610CE",
+    "description": [
+      {
+        "type": "text",
+        "content": "치유 기술을 사용하면 치유한 아군 하나당 해당 기술의 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      },
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "초굴근",
+    "image": "617E4",
+    "description": [
+      {
+        "type": "text",
+        "content": "무기 피해 또는 치유가 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "의 기술 위력을 부여합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "5회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      },
+      {
+        "type": "weaponDamage",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "촉매 수정",
+    "image": "610CF",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 피해 및 치유가 궁극기 충전을 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 추가로 부여합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "사이버베놈",
+    "image": "5A904",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술로 피해를 주면 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "의 치유 감소를 적용합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10500,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      },
+      {
+        "type": "cooldownReduction",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "name": "광채 눈동자",
+    "image": "617E3",
+    "description": [
+      {
+        "type": "text",
+        "content": "궁극기 충전 사용 후 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 생명력을 얻습니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 11000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.2
+      },
+      {
+        "type": "cooldownReduction",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "액체질소",
+    "image": "5A902",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술로 피해를 주면 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 대상의 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 11000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      },
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "여우의 징표",
+    "image": "5A906",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 시, 다음 무기 피해 또는 치유량이 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 11000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "챔피언의 도구",
+    "image": "5A901",
+    "grade": 3,
+    "cost": 13500,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.4
+      }
+    ]
+  }
+]

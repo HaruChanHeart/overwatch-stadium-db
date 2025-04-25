@@ -1,0 +1,110 @@
+[
+  {
+    "name": "고용량 튜빙",
+    "image": "60E7E",
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "50",
+        "content": "최대 [생체 에너지]"
+      }
+    ]
+  },
+  {
+    "name": "생체 바늘",
+    "image": "60E82",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 손아귀]"
+      },
+      {
+        "type": "text",
+        "content": " 보조 발사 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 에너지]"
+      },
+      {
+        "type": "text",
+        "content": "를 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 추가로 회복합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "attackSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "대체 에너지",
+    "image": "60E7D",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소멸]"
+      },
+      {
+        "type": "text",
+        "content": "을 사용하면 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 에너지]"
+      },
+      {
+        "type": "text",
+        "content": "를 보충합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      },
+      {
+        "type": "attackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "아원자 분열기",
+    "image": "60E81",
+    "grade": 3,
+    "cost": 11000,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "15%",
+        "content": "[생체 손아귀] 보조 발사 사거리"
+      }
+    ]
+  }
+]

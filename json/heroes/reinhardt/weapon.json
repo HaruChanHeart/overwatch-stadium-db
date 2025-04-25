@@ -1,0 +1,97 @@
+[
+  {
+    "name": "철갑 징",
+    "image": "60EAC",
+    "grade": 2,
+    "stats": [
+      {
+        "type": "armor",
+        "value": 25
+      },
+      {
+        "type": "weaponDamage",
+        "value": 0.05
+      }
+    ],
+    "extras": [
+      {
+        "value": "40%",
+        "content": "밀쳐내기 저항"
+      }
+    ]
+  },
+  {
+    "name": "완충 장치 그립",
+    "image": "591CC",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[로켓 해머]"
+      },
+      {
+        "type": "text",
+        "content": "로 피해를 주면 기술의 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초 감소합니다."
+      }
+    ],
+    "grade": 3,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      },
+      {
+        "type": "attackSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "플랜 Z",
+    "image": "591CE",
+    "description": [
+      {
+        "type": "text",
+        "content": "생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " 잃을 때마다 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ],
+    "grade": 3,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.1
+      }
+    ]
+  }
+]

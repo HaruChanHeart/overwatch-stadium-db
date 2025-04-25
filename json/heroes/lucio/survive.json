@@ -1,0 +1,62 @@
+[
+  {
+    "name": "스피드 스케이팅",
+    "image": "61BD6",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[벽 타기]"
+      },
+      {
+        "type": "text",
+        "content": " 후 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 3750,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "힙합",
+    "image": "61BD4",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[벽 타기]"
+      },
+      {
+        "type": "text",
+        "content": " 후 공중에 떠 있을 때 한 번 더 점프할 수 있습니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 9000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  }
+]

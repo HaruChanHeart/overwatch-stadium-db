@@ -1,0 +1,150 @@
+[
+  {
+    "name": "공기역학적 깃털",
+    "image": "60E6E",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[천사 강림]"
+      },
+      {
+        "type": "text",
+        "content": "의 효과를 받는 동안 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "씩 계속 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "60%"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "천사의 레저 복장",
+    "image": "60E6F",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[천사 강림]"
+      },
+      {
+        "type": "text",
+        "content": " 또는 "
+      },
+      {
+        "type": "strong",
+        "content": "[수호천사]"
+      },
+      {
+        "type": "text",
+        "content": "의 영향을 받고 있을 때 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "축복받은 부스터",
+    "image": "60E70",
+    "description": [
+      {
+        "type": "text",
+        "content": "웅크리기나 점프로 "
+      },
+      {
+        "type": "strong",
+        "content": "[수호천사]"
+      },
+      {
+        "type": "text",
+        "content": "를 취소하면 추진 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 9000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 50
+      }
+    ]
+  },
+  {
+    "name": "연쇄 유발기",
+    "image": "60E74",
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "armor",
+        "value": 50
+      }
+    ],
+    "extras": [
+      {
+        "value": "5%",
+        "content": "[카두세우스 지팡이] 공격력 증폭"
+      },
+      {
+        "value": "15%",
+        "content": "공격력 증폭을 통한 궁극기 충전"
+      }
+    ]
+  }
+]

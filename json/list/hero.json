@@ -1,0 +1,70 @@
+[
+    {
+        "role": 1,
+        "id": "dva"
+    },
+    {
+        "role": 1,
+        "id": "junkerqueen"
+    },
+    {
+        "role": 1,
+        "id": "orisa"
+    },
+    {
+        "role": 1,
+        "id": "reinhardt"
+    },
+    {
+        "role": 1,
+        "id": "zarya"
+    },
+    {
+        "role": 2,
+        "id": "ashe"
+    },
+    {
+        "role": 2,
+        "id": "cassidy"
+    },
+    {
+        "role": 2,
+        "id": "genji"
+    },
+    {
+        "role": 2,
+        "id": "mei"
+    },
+    {
+        "role": 2,
+        "id": "reaper"
+    },
+    {
+        "role": 2,
+        "id": "soldier76"
+    },
+    {
+        "role": 3,
+        "id": "ana"
+    },
+    {
+        "role": 3,
+        "id": "juno"
+    },
+    {
+        "role": 3,
+        "id": "kiriko"
+    },
+    {
+        "role": 3,
+        "id": "lucio"
+    },
+    {
+        "role": 3,
+        "id": "mercy"
+    },
+    {
+        "role": 3,
+        "id": "moira"
+    }
+]

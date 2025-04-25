@@ -1,0 +1,102 @@
+[
+  {
+    "name": "부스터 재사용기",
+    "image": "591CD",
+    "description": [
+      {
+        "type": "text",
+        "content": "적에 의해 "
+      },
+      {
+        "type": "strong",
+        "content": "[돌진]"
+      },
+      {
+        "type": "text",
+        "content": "이 저지당하면 "
+      },
+      {
+        "type": "strong",
+        "content": "[돌진]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간을 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 돌려받습니다."
+      }
+    ],
+    "grade": 2,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "키메라의 아가리",
+    "image": "591D0",
+    "grade": 2,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "50%",
+        "content": "[화염 강타] 반경"
+      }
+    ]
+  },
+  {
+    "name": "그리핀 글라이더",
+    "image": "591CF",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[돌진]"
+      },
+      {
+        "type": "text",
+        "content": " 중 비행할 수 있습니다."
+      }
+    ],
+    "grade": 3,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      },
+      {
+        "type": "abilityLifeSteal",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "로켓 타격",
+    "image": "591D5",
+    "grade": 3,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.2
+      }
+    ],
+    "extras": [
+      {
+        "value": "50%",
+        "content": "화염 강타 투사체 속도"
+      }
+    ]
+  }
+]

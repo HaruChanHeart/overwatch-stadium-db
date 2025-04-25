@@ -1,0 +1,156 @@
+[
+  {
+    "name": "득점 사격",
+    "image": "61D3D",
+    "description": [
+      {
+        "type": "text",
+        "content": "공중에 떠 있을 때 "
+      },
+      {
+        "type": "strong",
+        "content": "[메디블라스터]"
+      },
+      {
+        "type": "text",
+        "content": " 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "name": "펄스 쐐기",
+    "image": "61D3C",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[펄사 어뢰]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "4"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 11000,
+    "stats": [
+      {
+        "type": "attackSpeed",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "35%",
+        "content": "[펄사 어뢰] 투사체 속도"
+      }
+    ]
+  },
+  {
+    "name": "장거리 블라스터",
+    "image": "61D39",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[메디블라스터]"
+      },
+      {
+        "type": "text",
+        "content": "가 "
+      },
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": "보다 멀리 떨어져 있는 대상에게 주는 피해와 치유량이 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 12000,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "중력 척력",
+    "image": "5B223",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[글라이드 부스터]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고 "
+      },
+      {
+        "type": "strong",
+        "content": "[빠른 근접 공격]"
+      },
+      {
+        "type": "text",
+        "content": "이 적을 밀쳐냅니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "weaponDamage",
+        "value": 0.15
+      }
+    ]
+  }
+]

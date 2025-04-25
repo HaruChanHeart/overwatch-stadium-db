@@ -1,0 +1,132 @@
+[
+  {
+    "name": "반광선 코팅",
+    "image": "60E0C",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[튕겨내기]"
+      },
+      {
+        "type": "text",
+        "content": "가 광선 공격을 막습니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "armor",
+        "value": 25
+      },
+      {
+        "type": "attackSpeed",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "name": "새매 깃털",
+    "image": "60E0B",
+    "description": [
+      {
+        "type": "text",
+        "content": "한 번 더 점프할 수 있습니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "평형 장비",
+    "image": "60E07",
+    "description": [
+      {
+        "type": "text",
+        "content": "벽을 오르는 동안 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 치유합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "싹싹 베는 냉각수",
+    "image": "60E04",
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "armor",
+        "value": 50
+      },
+      {
+        "type": "cooldownReduction",
+        "value": 0.05
+      }
+    ],
+    "extras": [
+      {
+        "value": "1",
+        "content": "초 [튕겨내기] 지속 시간"
+      }
+    ]
+  },
+  {
+    "name": "전이 델타",
+    "image": "60E03",
+    "description": [
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "의 생명력을 방어력으로 전환합니다. "
+      },
+      {
+        "type": "strong",
+        "content": "[용검]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 방어력을 완전히 회복합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "extras": [
+      {
+        "value": "15%",
+        "content": "궁극기 비용 감소"
+      }
+    ]
+  }
+]

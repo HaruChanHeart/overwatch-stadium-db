@@ -1,0 +1,430 @@
+[
+  {
+    "name": "빨리감기",
+    "image": "5B244",
+    "description": [
+      {
+        "type": "text",
+        "content": "이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "보다 높을 때, 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  {
+    "name": "소닉 붐",
+    "image": "5B243",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[분위기 전환!]"
+      },
+      {
+        "type": "text",
+        "content": "의 영향을 받은 모든 아군을 "
+      },
+      {
+        "type": "strong",
+        "content": "[음파 증폭기]"
+      },
+      {
+        "type": "text",
+        "content": "로 준 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  {
+    "name": "시그니처 전환",
+    "image": "5B242",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 후 다음 "
+      },
+      {
+        "type": "strong",
+        "content": "[음파 증폭기]"
+      },
+      {
+        "type": "text",
+        "content": " 사격 시, 투사체 크기가 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가한 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "6발"
+      },
+      {
+        "type": "text",
+        "content": " 연사합니다."
+      }
+    ]
+  },
+  {
+    "name": "믹스테이프",
+    "image": "5B247",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[치유 증폭]"
+      },
+      {
+        "type": "text",
+        "content": "으로 전환하면, "
+      },
+      {
+        "type": "strong",
+        "content": "[분위기 전환!]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "strong",
+        "content": "[속도 증폭]"
+      },
+      {
+        "type": "text",
+        "content": "이 활성화되어 있던 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 "
+      },
+      {
+        "type": "strong",
+        "content": "[분위기 전환!]"
+      },
+      {
+        "type": "text",
+        "content": " 치유량의 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  {
+    "name": "라디오 편집",
+    "image": "5B24B",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[볼륨을 높여라!]"
+      },
+      {
+        "type": "text",
+        "content": "를 사용하면 추가 생명력이 "
+      },
+      {
+        "type": "number",
+        "content": "85%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 "
+      },
+      {
+        "type": "strong",
+        "content": "[소리 방벽]"
+      },
+      {
+        "type": "text",
+        "content": "이 발동합니다."
+      }
+    ]
+  },
+  {
+    "name": "확성기",
+    "image": "5B24A",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[볼륨을 높여라!]"
+      },
+      {
+        "type": "text",
+        "content": " 지속 시간 +"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": ". "
+      },
+      {
+        "type": "strong",
+        "content": "[볼륨을 높여라!]"
+      },
+      {
+        "type": "text",
+        "content": "가 활성화되어 있을 때 "
+      },
+      {
+        "type": "strong",
+        "content": "[분위기 전환!]"
+      },
+      {
+        "type": "text",
+        "content": " 반경이 "
+      },
+      {
+        "type": "number",
+        "content": "150%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  {
+    "name": "벽 타기 바이브",
+    "image": "5B240",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[벽 타기]"
+      },
+      {
+        "type": "text",
+        "content": " 중이거나 공중에 떠 있을 때 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 임시 추가 생명력을 얻습니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ]
+  },
+  {
+    "name": "비바체",
+    "image": "5B245",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[벽 타기]"
+      },
+      {
+        "type": "text",
+        "content": " 중이거나 공중에 떠 있을 때 "
+      },
+      {
+        "type": "strong",
+        "content": "[소리 파동]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 빠르게 초기화되며, 재장전 전까지 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 최대 탄약이 "
+      },
+      {
+        "type": "number",
+        "content": "1발"
+      },
+      {
+        "type": "text",
+        "content": " 추가됩니다."
+      }
+    ]
+  },
+  {
+    "name": "솜씨 좋은 공연자",
+    "image": "5B248",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소리 파동]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후, "
+      },
+      {
+        "type": "strong",
+        "content": "[분위기 전환!]"
+      },
+      {
+        "type": "text",
+        "content": "의 영향을 받는 모든 아군을 "
+      },
+      {
+        "type": "strong",
+        "content": "[분위기 전환!]"
+      },
+      {
+        "type": "text",
+        "content": " 치유량의 "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  {
+    "name": "잔향",
+    "image": "5B241",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소리 파동]"
+      },
+      {
+        "type": "text",
+        "content": " 충전 횟수가 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  {
+    "name": "통통 튀어 보자고",
+    "image": "5B246",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소리 파동]"
+      },
+      {
+        "type": "text",
+        "content": " 밀쳐내기 효과가 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고, 대상이 벽에 부딪히면 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "40"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 줍니다."
+      }
+    ]
+  },
+  {
+    "name": "비트 드롭",
+    "image": "5B249",
+    "description": [
+      {
+        "type": "text",
+        "content": "궁극기 비용이 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다. "
+      },
+      {
+        "type": "strong",
+        "content": "[소리 방벽]"
+      },
+      {
+        "type": "text",
+        "content": "이 적에게 적중하면 최대 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다. "
+      }
+    ]
+  }
+]

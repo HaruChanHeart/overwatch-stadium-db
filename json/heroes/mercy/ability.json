@@ -1,0 +1,60 @@
+[
+  {
+    "name": "장거리 날개",
+    "image": "60E6D",
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "33%",
+        "content": "[수호천사] 사거리"
+      }
+    ]
+  },
+  {
+    "name": "부활 거리 측정기",
+    "image": "60E3C",
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "cooldownReduction",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "75%",
+        "content": "[부활] 사거리"
+      }
+    ]
+  },
+  {
+    "name": "천사의 곡예",
+    "image": "60E71",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수호천사]"
+      },
+      {
+        "type": "text",
+        "content": "의 재사용 대기시간이 점프하거나 웅크리는 즉시 시작됩니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "extras": [
+      {
+        "value": "15%",
+        "content": "[수호천사] 이동 속도"
+      }
+    ]
+  }
+]

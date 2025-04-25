@@ -1,0 +1,338 @@
+[
+  {
+    "name": "과녁",
+    "image": "61BB8",
+    "description": [
+      {
+        "type": "text",
+        "content": "치명타 적중 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[구르기]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "초 감소합니다."
+      }
+    ]
+  },
+  {
+    "name": "망자가 걷는다",
+    "image": "5B206",
+    "description": [
+      {
+        "type": "text",
+        "content": "최근 치명타를 적중한 적을 처치하면 그 라운드에서 최대 탄약이 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  {
+    "name": "반응 속도",
+    "image": "5B207",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[구르기]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후 재사용 대기시간 중 "
+      },
+      {
+        "type": "strong",
+        "content": "[피스키퍼]"
+      },
+      {
+        "type": "text",
+        "content": "의 다음 기본 발사가 "
+      },
+      {
+        "type": "number",
+        "content": "9미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내의 적을 자동 조준합니다."
+      }
+    ]
+  },
+  {
+    "name": "섬광처럼 빠른 판단",
+    "image": "5B210",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[구르기]"
+      },
+      {
+        "type": "text",
+        "content": "를 시작하면 뒤에 "
+      },
+      {
+        "type": "strong",
+        "content": "[섬광탄]"
+      },
+      {
+        "type": "text",
+        "content": "을 하나 남깁니다."
+      }
+    ]
+  },
+  {
+    "name": "풀 하우스",
+    "image": "61BB6",
+    "description": [
+      {
+        "type": "text",
+        "content": "발사할 수 있는 탄약 한 발당 "
+      },
+      {
+        "type": "strong",
+        "content": "[피스키퍼]"
+      },
+      {
+        "type": "text",
+        "content": "의 기본 발사 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "1%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ]
+  },
+  {
+    "name": "그냥 굴러 버려",
+    "image": "61BB7",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[구르기]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 모든 피해를 막습니다. "
+      },
+      {
+        "type": "strong",
+        "content": "[구르기]"
+      },
+      {
+        "type": "text",
+        "content": "가 끝나면 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초에 걸쳐 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  {
+    "name": "연속 횡전",
+    "image": "5B205",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[구르기]"
+      },
+      {
+        "type": "text",
+        "content": " 거리가 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고 적에게 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "65"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  {
+    "name": "뜨거운 감자",
+    "image": "5B209",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[섬광탄]"
+      },
+      {
+        "type": "text",
+        "content": " 적중 시 "
+      },
+      {
+        "type": "number",
+        "content": "3발"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 탄약을 제공합니다. 이 효과는 "
+      },
+      {
+        "type": "strong",
+        "content": "[피스키퍼]"
+      },
+      {
+        "type": "text",
+        "content": "를 재장전하기 전까지 유지됩니다."
+      }
+    ]
+  },
+  {
+    "name": "헛방",
+    "image": "5B20C",
+    "description": [
+      {
+        "type": "text",
+        "content": "최근 "
+      },
+      {
+        "type": "strong",
+        "content": "[섬광탄]"
+      },
+      {
+        "type": "text",
+        "content": "으로 피해를 준 적을 처치하면 궁극기 충전을 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 얻습니다."
+      }
+    ]
+  },
+  {
+    "name": "석양",
+    "image": "5B20F",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[황야의 무법자]"
+      },
+      {
+        "type": "text",
+        "content": "로 처치할 때마다 궁극기 충전을 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 얻습니다."
+      }
+    ]
+  },
+  {
+    "name": "일출",
+    "image": "5B20E",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[황야의 무법자]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 보이는 모든 적을 "
+      },
+      {
+        "type": "number",
+        "content": "1.5"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " 감속시킵니다."
+      }
+    ]
+  },
+  {
+    "name": "한량",
+    "image": "5B20A",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[황야의 무법자]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 추가 생명력을 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " 얻고 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  }
+]

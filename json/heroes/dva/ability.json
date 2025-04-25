@@ -1,0 +1,202 @@
+[
+  {
+    "name": "대현의 격발기",
+    "image": "60EE1",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[메카]"
+      },
+      {
+        "type": "text",
+        "content": "가 공중에서 폭발하면 "
+      },
+      {
+        "type": "strong",
+        "content": "[자폭]"
+      },
+      {
+        "type": "text",
+        "content": " 폭발 피해와 범위가 "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "abilityLifeSteal",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "마스터마인드의 완화기",
+    "image": "60EDE",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[방어 매트릭스]"
+      },
+      {
+        "type": "text",
+        "content": "로 피해를 "
+      },
+      {
+        "type": "number",
+        "content": "300"
+      },
+      {
+        "type": "text",
+        "content": " 완화할 때마다, "
+      },
+      {
+        "type": "strong",
+        "content": "[마이크로 미사일]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초씩 감소합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000
+  },
+  {
+    "name": "베수비우스 프로토콜",
+    "image": "60EE5",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[자폭]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 주위에 용암을 남깁니다. 용암은 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초마다 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "부산 블라스터",
+    "image": "612A9",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[광선총]"
+      },
+      {
+        "type": "text",
+        "content": "에 보조 발사가 생깁니다. 보조 발사 시 광선총을 충전해 기술 능력 "
+      },
+      {
+        "type": "number",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 주고 폭발하는 관통 사격을 합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "name": "매크로 미사일",
+    "image": "60EE6",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[마이크로 미사일]"
+      },
+      {
+        "type": "text",
+        "content": " 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고 반동이 매우 크게 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 12000
+  },
+  {
+    "name": "맹공 조례",
+    "image": "60EDD",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[마이크로 미사일]"
+      },
+      {
+        "type": "text",
+        "content": " 발사 개수와 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 12000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.15
+      }
+    ]
+  }
+]

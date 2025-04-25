@@ -1,0 +1,158 @@
+[
+  {
+    "name": "복용량 2배",
+    "image": "60DDF",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 수류탄]"
+      },
+      {
+        "type": "text",
+        "content": "의 영향을 받는 적에게 "
+      },
+      {
+        "type": "strong",
+        "content": "[수면총]"
+      },
+      {
+        "type": "text",
+        "content": "을 적중시키면 수면총 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "치사량",
+    "image": "60DDD",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수면총]"
+      },
+      {
+        "type": "text",
+        "content": "을 명중시키면 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 줍니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 9000,
+    "stats": [
+      {
+        "type": "abilityLifeSteal",
+        "value": 0.5
+      }
+    ]
+  },
+  {
+    "name": "진정제",
+    "image": "60DD9",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수면총]"
+      },
+      {
+        "type": "text",
+        "content": "이 다음을 얻습니다. "
+      },
+      {
+        "type": "number",
+        "content": "500%"
+      },
+      {
+        "type": "text",
+        "content": " 충돌 범위, "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " 투사체 속도, "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 수면 지속 시간"
+      }
+    ],
+    "grade": 3,
+    "cost": 10000
+  },
+  {
+    "name": "클러스터 코어",
+    "image": "60DDA",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 수류탄]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간이 명중한 대상 하나당 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초 감소합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "abilityLifeSteal",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "name": "수류탄 핀",
+    "image": "60DDB",
+    "grade": 3,
+    "cost": 12000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.2
+      }
+    ],
+    "extras": [
+      {
+        "value": "30%",
+        "content": "[생체 수류탄] 반경"
+      }
+    ]
+  }
+]

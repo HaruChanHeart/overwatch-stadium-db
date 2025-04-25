@@ -1,0 +1,98 @@
+[
+  {
+    "name": "밤의 엄습자",
+    "image": "60E99",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[망령화]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[그림자 밟기]"
+      },
+      {
+        "type": "text",
+        "content": "의 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "초 감소합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 9500,
+    "stats": [
+      {
+        "type": "movementSpeed",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "30%",
+        "content": "[그림자 밟기] 시전 속도"
+      }
+    ]
+  },
+  {
+    "name": "파괴의 화환",
+    "image": "60E94",
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.2
+      }
+    ],
+    "extras": [
+      {
+        "value": "25%",
+        "content": "[죽음의 꽃] 반경"
+      },
+      {
+        "value": "20%",
+        "content": "[죽음의 꽃] 도중 이동 속도"
+      }
+    ]
+  },
+  {
+    "name": "군중 제어",
+    "image": "60E95",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[죽음의 꽃]"
+      },
+      {
+        "type": "text",
+        "content": "이 사거리 내에 있는 적 하나당 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "의 기술 위력을 얻습니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 11000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.15
+      }
+    ]
+  }
+]

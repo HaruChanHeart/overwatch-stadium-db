@@ -1,0 +1,99 @@
+[
+  {
+    "name": "방벽을 넘어서",
+    "image": "61F4D",
+    "description": [
+      {
+        "type": "text",
+        "content": "대상이 시야 내에 없어도 "
+      },
+      {
+        "type": "strong",
+        "content": "[방벽 씌우기]"
+      },
+      {
+        "type": "text",
+        "content": "를 사용할 수 있습니다."
+      }
+    ],
+    "grade": 2,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ],
+    "extras": [
+      {
+        "value": "20%",
+        "content": "[방벽 씌우기] 사거리"
+      }
+    ]
+  },
+  {
+    "name": "링크스의 데이터 드라이브",
+    "image": "5B229",
+    "description": [
+      {
+        "type": "text",
+        "content": "아군에게 "
+      },
+      {
+        "type": "strong",
+        "content": "[방벽 씌우기]"
+      },
+      {
+        "type": "text",
+        "content": "를 시전하면 "
+      },
+      {
+        "type": "strong",
+        "content": "[방벽]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간을 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 돌려받습니다."
+      }
+    ],
+    "grade": 3,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      },
+      {
+        "type": "abilityPower",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "초전도체",
+    "image": "61F52",
+    "grade": 3,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      },
+      {
+        "type": "abilityPower",
+        "value": 0.15
+      }
+    ],
+    "extras": [
+      {
+        "value": "40%",
+        "content": "[방벽] 지속 시간"
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "name": "사이버네틱 속도",
+    "image": "5B1DA",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수리검]"
+      },
+      {
+        "type": "text",
+        "content": "으로 피해를 주면 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "2%"
+      },
+      {
+        "type": "text",
+        "content": "의 "
+      },
+      {
+        "type": "strong",
+        "content": "[수리검]"
+      },
+      {
+        "type": "text",
+        "content": " 공격 속도를 얻습니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "15회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ]
+  },
+  {
+    "name": "신성한 수리검",
+    "image": "5B1D6",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수리검]"
+      },
+      {
+        "type": "text",
+        "content": " 기본 발사 시 탄약을 소모하지 않는 "
+      },
+      {
+        "type": "strong",
+        "content": "[수리검]"
+      },
+      {
+        "type": "text",
+        "content": "을 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "개 추가로 던집니다."
+      }
+    ]
+  },
+  {
+    "name": "하시모토의 파멸",
+    "image": "5B1D4",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 후 다음 보조 발사 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[수리검]"
+      },
+      {
+        "type": "text",
+        "content": "을 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "개 추가로 던집니다. 이 수리검은 적을 추적하지만 피해량이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  {
+    "name": "숨겨진 칼날",
+    "image": "5B1D7",
+    "description": [
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "의 근접 공격 생명력 흡수를 얻고, "
+      },
+      {
+        "type": "strong",
+        "content": "[빠른 근접 공격]"
+      },
+      {
+        "type": "text",
+        "content": " 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  {
+    "name": "열상",
+    "image": "5B1D2",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[질풍참]"
+      },
+      {
+        "type": "text",
+        "content": "이 적중한 적에게 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초에 걸쳐 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 줍니다."
+      }
+    ]
+  },
+  {
+    "name": "용의 아가리",
+    "image": "5B1D9",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수리검]"
+      },
+      {
+        "type": "text",
+        "content": "에 적중한 적이 "
+      },
+      {
+        "type": "number",
+        "content": "4"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "strong",
+        "content": "[질풍참]"
+      },
+      {
+        "type": "text",
+        "content": "에 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 받습니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "5회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ]
+  },
+  {
+    "name": "하나무라 치유",
+    "image": "5B1D5",
+    "description": [
+      {
+        "type": "text",
+        "content": "치명타와 "
+      },
+      {
+        "type": "strong",
+        "content": "[질풍참]"
+      },
+      {
+        "type": "text",
+        "content": "으로 준 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "만큼을 "
+      },
+      {
+        "type": "number",
+        "content": "5"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 추가 생명력으로 얻습니다."
+      }
+    ]
+  },
+  {
+    "name": "거합 베기",
+    "image": "5B1D1",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[튕겨내기]"
+      },
+      {
+        "type": "text",
+        "content": "가 끝나면 빠르게 "
+      },
+      {
+        "type": "strong",
+        "content": "[용검]"
+      },
+      {
+        "type": "text",
+        "content": "을 한 번 휘두릅니다."
+      }
+    ]
+  },
+  {
+    "name": "불로 벼린 것",
+    "image": "5B1DB",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[튕겨내기]"
+      },
+      {
+        "type": "text",
+        "content": "가 활성화되어 있을 때, 튕겨내기로 막은 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "60%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  {
+    "name": "소지로의 영혼",
+    "image": "5B1D8",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[튕겨내기]"
+      },
+      {
+        "type": "text",
+        "content": "로 피해를 막아내면 "
+      },
+      {
+        "type": "strong",
+        "content": "[질풍참]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "초 감소합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "5"
+      },
+      {
+        "type": "text",
+        "content": "초)."
+      }
+    ]
+  },
+  {
+    "name": "튕겨내기봇",
+    "image": "5B1D3",
+    "description": [
+      {
+        "type": "text",
+        "content": "튕겨낸 투사체 속도 +"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": ". "
+      },
+      {
+        "type": "strong",
+        "content": "[튕겨내기]"
+      },
+      {
+        "type": "text",
+        "content": " 첫 "
+      },
+      {
+        "type": "number",
+        "content": "1.5"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 적에게 자동으로 투사체를 튕깁니다."
+      }
+    ]
+  },
+  {
+    "name": "용의 숨결",
+    "image": "5B1DC",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[용검]"
+      },
+      {
+        "type": "text",
+        "content": "을 휘두르면 "
+      },
+      {
+        "type": "strong",
+        "content": "[용검]"
+      },
+      {
+        "type": "text",
+        "content": " 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 피해를 주는 거대한 관통 투사체를 발사합니다."
+      }
+    ]
+  }
+]

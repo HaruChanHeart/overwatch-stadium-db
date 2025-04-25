@@ -1,0 +1,36 @@
+[
+  {
+    "name": "펄스 전환기",
+    "image": "60EB2",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 회복합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "attackSpeed",
+        "value": 0.05
+      },
+      {
+        "type": "cooldownReduction",
+        "value": 0.05
+      }
+    ]
+  }
+]

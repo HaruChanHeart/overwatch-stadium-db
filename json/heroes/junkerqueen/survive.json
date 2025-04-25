@@ -1,0 +1,234 @@
+[
+  {
+    "name": "데즈의 피해 완충기",
+    "image": "61EE2",
+    "description": [
+      {
+        "type": "text",
+        "content": "밀려나면 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ],
+    "extras": [
+      {
+        "value": "50%",
+        "content": "밀쳐내기 저항"
+      }
+    ]
+  },
+  {
+    "name": "마구잡이 절단",
+    "image": "60E12",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": "를 입은 적에게서 "
+      },
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내에 있을 때 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": ", 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "movementSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "name": "반항 정신",
+    "image": "61EE3",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": "가 만료가 아니라 제거될 경우, 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "만큼을 추가 생명력으로 얻습니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "꺾이지 않은 충절",
+    "image": "60E0E",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[지휘의 외침]"
+      },
+      {
+        "type": "text",
+        "content": "의 영향을 받은 아군을 매초 정커퀸 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 50
+      }
+    ],
+    "extras": [
+      {
+        "value": "30%",
+        "content": "지휘의 외침 추가 생명력"
+      }
+    ]
+  },
+  {
+    "name": "단단한 해골",
+    "image": "60E11",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[살육]"
+      },
+      {
+        "type": "text",
+        "content": " 또는 "
+      },
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": " 시전 중 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "의 피해 감소를 얻습니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "armor",
+        "value": 50
+      }
+    ]
+  },
+  {
+    "name": "스캐빈저 고철",
+    "image": "60E13",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": "과 "
+      },
+      {
+        "type": "strong",
+        "content": "[톱니칼]"
+      },
+      {
+        "type": "text",
+        "content": "이 명중해 피해를 주면 준 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 얻습니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 50
+      },
+      {
+        "type": "cooldownReduction",
+        "value": 0.05
+      }
+    ]
+  }
+]

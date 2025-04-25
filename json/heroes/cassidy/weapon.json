@@ -1,0 +1,62 @@
+[
+  {
+    "name": "빠른 장전 약실",
+    "image": "61BBC",
+    "description": [
+      {
+        "type": "text",
+        "content": "적으로부터 "
+      },
+      {
+        "type": "number",
+        "content": "6미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내 거리에서 재장전할 경우, 최대 탄약의 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "만큼을 추가 탄약으로 얻습니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "reloadSpeed",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "name": "경쟁 분석",
+    "image": "61BBB",
+    "description": [
+      {
+        "type": "text",
+        "content": "공격 역할 적에게 주는 기본 발사 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 11000,
+    "stats": [
+      {
+        "type": "weaponLifeSteal",
+        "value": 0.2
+      }
+    ]
+  }
+]

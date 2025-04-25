@@ -1,0 +1,92 @@
+[
+  {
+    "name": "지명 수배 포스터",
+    "image": "61BBA",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[황야의 무법자]"
+      },
+      {
+        "type": "text",
+        "content": "로 적을 처치할 때마다 "
+      },
+      {
+        "type": "number",
+        "content": "500"
+      },
+      {
+        "type": "text",
+        "content": "의 스타디움 재화를 추가로 얻습니다."
+      }
+    ],
+    "grade": 2,
+    "cost": 4000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "프랭키의 해결사",
+    "image": "61BC0",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[구르기]"
+      },
+      {
+        "type": "text",
+        "content": "를 사용해 장전한 탄약 한 발당 생명력을 기술 능력 "
+      },
+      {
+        "type": "number",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": " 치유합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 50
+      }
+    ]
+  },
+  {
+    "name": "독수리의 눈",
+    "image": "61BBD",
+    "description": [
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": "보다 멀리 있는 적에게서 받는 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 12000,
+    "stats": [
+      {
+        "type": "health",
+        "value": 50
+      }
+    ]
+  }
+]

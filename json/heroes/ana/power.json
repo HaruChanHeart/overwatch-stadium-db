@@ -1,0 +1,318 @@
+[
+  {
+    "name": "전술 소총",
+    "image": "5B1FD",
+    "description": [
+      {
+        "type": "text",
+        "content": "조준경으로 조준하는 동안, "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 소총]"
+      },
+      {
+        "type": "text",
+        "content": "이 아군에게 고정되어 반드시 명중합니다."
+      }
+    ]
+  },
+  {
+    "name": "정확한 처방",
+    "image": "5B1F9",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 소총]"
+      },
+      {
+        "type": "text",
+        "content": "이 아군과 적군 모두에게 치명타로 적중합니다."
+      }
+    ]
+  },
+  {
+    "name": "조준경 따위 필요 없어",
+    "image": "5B1FF",
+    "description": [
+      {
+        "type": "text",
+        "content": "조준하지 않고 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 소총]"
+      },
+      {
+        "type": "text",
+        "content": "을 적중시키면 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "3회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ]
+  },
+  {
+    "name": "몽롱함",
+    "image": "5B200",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수면총]"
+      },
+      {
+        "type": "text",
+        "content": "을 아군에게 맞혀 잠재우는 대신 "
+      },
+      {
+        "type": "number",
+        "content": "8"
+      },
+      {
+        "type": "text",
+        "content": "초에 걸쳐 아군 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  {
+    "name": "수면 요법",
+    "image": "5B1FC",
+    "description": [
+      {
+        "type": "text",
+        "content": "생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " 얻습니다. 적에게 수면을 적용하면 생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": " 얻습니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ]
+  },
+  {
+    "name": "안락한 구름",
+    "image": "5B1FB",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[수면총]"
+      },
+      {
+        "type": "text",
+        "content": "이 닿으면 폭발하여 "
+      },
+      {
+        "type": "number",
+        "content": "3미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내의 대상을 공격하지만, 수면 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  {
+    "name": "가정 치료",
+    "image": "5B202",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 수류탄]"
+      },
+      {
+        "type": "text",
+        "content": "이 치유량의 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 부여합니다."
+      }
+    ]
+  },
+  {
+    "name": "맹독성",
+    "image": "5B1FA",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 수류탄]"
+      },
+      {
+        "type": "text",
+        "content": "이 지속 시간 동안 수류탄의 영향을 받는 적에게 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 줍니다."
+      }
+    ]
+  },
+  {
+    "name": "시간 초과",
+    "image": "5B201",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 수류탄]"
+      },
+      {
+        "type": "text",
+        "content": "이 적을 밀쳐내고 적의 이동 속도를 "
+      },
+      {
+        "type": "number",
+        "content": "1.5"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소시킵니다."
+      }
+    ]
+  },
+  {
+    "name": "내 차례",
+    "image": "5B203",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나노 강화제]"
+      },
+      {
+        "type": "text",
+        "content": "를 지속 시간의 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 자신에게도 적용합니다."
+      }
+    ]
+  },
+  {
+    "name": "완전한 잠재력",
+    "image": "5B1FE",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나노 강화제]"
+      },
+      {
+        "type": "text",
+        "content": "가 대상에게 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "의 궁극기 충전과 기술 위력 "
+      },
+      {
+        "type": "number",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 생명력도 부여합니다."
+      }
+    ]
+  },
+  {
+    "name": "우리 차례",
+    "image": "5B204",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나노 강화제]"
+      },
+      {
+        "type": "text",
+        "content": "가 시야 내 다른 아군에게도 영향을 주지만, 해당 아군에게는 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "굳건한 눈 요새",
+    "image": "61EF7",
+    "description": [
+      {
+        "type": "text",
+        "content": "생성한 얼음 기둥 하나당 기술 위력이 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "name": "탐사 기지 냉동 수면실",
+    "image": "61EF3",
+    "description": [
+      {
+        "type": "text",
+        "content": "빈사 상태일 때 "
+      },
+      {
+        "type": "strong",
+        "content": "[급속 빙결]"
+      },
+      {
+        "type": "text",
+        "content": "에 들어가 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "의 궁극기 충전을 얻습니다. 이 효과는 라운드당 한 번만 발생합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000
+  },
+  {
+    "name": "얼음 핏줄",
+    "image": "61EF2",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": " 기본 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "grade": 3,
+    "cost": 10000,
+    "stats": [
+      {
+        "type": "abilityPower",
+        "value": 0.1
+      }
+    ]
+  }
+]

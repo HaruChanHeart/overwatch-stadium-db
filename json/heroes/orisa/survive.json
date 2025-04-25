@@ -1,0 +1,116 @@
+[
+  {
+    "name": "충전 섀시",
+    "image": "60E8C",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": "가 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 부여합니다."
+      }
+    ],
+    "grade": 2,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "태양 재생 에너지",
+    "image": "60E85",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 후 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 방어력을 회복합니다."
+      }
+    ],
+    "grade": 2,
+    "stats": [
+      {
+        "type": "health",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "name": "흡수의 창",
+    "image": "60E8F",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[투창]"
+      },
+      {
+        "type": "text",
+        "content": "으로 피해를 주면 "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "초에 걸쳐 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "를 치유합니다."
+      }
+    ],
+    "grade": 2
+  },
+  {
+    "name": "홀라그램 헬멧",
+    "image": "60E8D",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[방어 강화]"
+      },
+      {
+        "type": "text",
+        "content": "를 사용하면 시야 내 아군이 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "초 동안 저지 불가 상태가 됩니다."
+      }
+    ],
+    "grade": 3,
+    "stats": [
+      {
+        "type": "armor",
+        "value": 50
+      }
+    ]
+  }
+]
