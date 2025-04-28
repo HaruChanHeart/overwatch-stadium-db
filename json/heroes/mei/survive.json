@@ -1,21 +1,6 @@
 [
   {
-    "name": "냉점",
     "image": "61EF5",
-    "description": [
-      {
-        "type": "text",
-        "content": "기본 발사와 "
-      },
-      {
-        "type": "strong",
-        "content": "[눈보라]"
-      },
-      {
-        "type": "text",
-        "content": "로 불태우기 효과를 제거할 수 있습니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -26,26 +11,7 @@
     ]
   },
   {
-    "name": "메이 고드름",
     "image": "61EF9",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[급속 빙결]"
-      },
-      {
-        "type": "text",
-        "content": " 지속 시간이 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -56,34 +22,7 @@
     ]
   },
   {
-    "name": "얼음판",
     "image": "61EF1",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[빙벽]"
-      },
-      {
-        "type": "text",
-        "content": " 지속 시간이 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초 증가하고 생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [

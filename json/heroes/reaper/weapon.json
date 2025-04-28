@@ -1,25 +1,6 @@
 [
   {
-    "name": "망령 산탄",
     "image": "60E91",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[그림자 밟기]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 시 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -34,34 +15,7 @@
     ]
   },
   {
-    "name": "맹공",
     "image": "60E90",
-    "description": [
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "번째 사격할 때마다 양손의 "
-      },
-      {
-        "type": "strong",
-        "content": "[헬파이어 샷건]"
-      },
-      {
-        "type": "text",
-        "content": "을 모두 발사합니다. 추가 사격 시 탄약을 소모하지 않지만 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "80%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [

@@ -1,0 +1,1299 @@
+{
+  "55E91": {
+    "name": "Weapon Grease"
+  },
+  "616BC": {
+    "name": "Compensator"
+  },
+  "616BD": {
+    "name": "Plasma Converter"
+  },
+  "610BD": {
+    "name": "Frenzy Amplifier",
+    "description": [
+      {
+        "type": "text",
+        "content": "Eliminations grant "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed and "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "616B9": {
+    "name": "Ammo Reserves"
+  },
+  "5A900": {
+    "name": "Aftermarket Firing Pin"
+  },
+  "5A91D": {
+    "name": "Advanced Nanobiotics",
+    "description": [
+      {
+        "type": "text",
+        "content": "After healing an ally, gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A8F8": {
+    "name": "Shieldbuster",
+    "description": [
+      {
+        "type": "text",
+        "content": "After dealing damage to Shields or Armor, gain "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "617BA": {
+    "name": "Stockpile"
+  },
+  "617BC": {
+    "name": "Technoleech"
+  },
+  "610CD": {
+    "name": "Icy Coolant"
+  },
+  "5A8FF": {
+    "name": "Talon Modification Module"
+  },
+  "5A912": {
+    "name": "Codebreaker",
+    "description": [
+      {
+        "type": "text",
+        "content": "Ignore "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of Armor's damage reduction."
+      }
+    ]
+  },
+  "5A913": {
+    "name": "Volskaya Ordnance",
+    "description": [
+      {
+        "type": "text",
+        "content": "Deal "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " increased Weapon Damage for every "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Max Life the target has more than you, up to "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A909": {
+    "name": "Salvaged Slugs",
+    "description": [
+      {
+        "type": "text",
+        "content": "Dealing Weapon Damage to Barriers has a "
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": " chance to restore "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " ammo."
+      }
+    ],
+    "extras": [
+      {
+        "content": "Increased Damage to Barriers"
+      }
+    ]
+  },
+  "5A8E5": {
+    "name": "Weapon Jammer",
+    "description": [
+      {
+        "type": "text",
+        "content": "Dealing Weapon Damage negates "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of the target's bonus Attack Speed and increases your Attack Speed by "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A905": {
+    "name": "Commander's Clip",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability, restore "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of your Max Ammo."
+      }
+    ]
+  },
+  "617E1": {
+    "name": "Hardlight Accelerator",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability, gain "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Weapon Power for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": ", stacking up to "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " times."
+      }
+    ]
+  },
+  "5A911": {
+    "name": "Booster Jets",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability, gain "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A90D": {
+    "name": "Amari's Antidote",
+    "description": [
+      {
+        "type": "text",
+        "content": "While healing an ally below "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " Life with your Weapon, deal "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " increased Weapon Healing."
+      }
+    ]
+  },
+  "5A8E4": {
+    "name": "El-Sa'ka Suppressor",
+    "description": [
+      {
+        "type": "text",
+        "content": "Critical Hits apply "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Healing Reduction to the target for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A919": {
+    "name": "The Closer",
+    "description": [
+      {
+        "type": "text",
+        "content": "Critical Hits reveal the target for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "617DE": {
+    "name": "Eye of the Spider",
+    "description": [
+      {
+        "type": "text",
+        "content": "Deal "
+      },
+      {
+        "type": "number",
+        "content": "0"
+      },
+      {
+        "type": "text",
+        "content": " increased damage to enemies below "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Life."
+      }
+    ]
+  },
+  "616C0": {
+    "name": "Shady Spectacles"
+  },
+  "610D4": {
+    "name": "Charged Plating",
+    "description": [
+      {
+        "type": "text",
+        "content": "After you spend your Ultimate Charge, gain "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " Armor and "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Ability Power for the rest of the round."
+      }
+    ]
+  },
+  "55E8C": {
+    "name": "Power Playbook"
+  },
+  "5A8E7": {
+    "name": "Winning Attitude",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you die, gain "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge."
+      }
+    ]
+  },
+  "5A8F4": {
+    "name": "Custom Stock"
+  },
+  "5A8FC": {
+    "name": "Biolight Overflow",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you spend your Ultimate Charge, grant nearby allies "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "610CC": {
+    "name": "Wrist Wraps"
+  },
+  "617BB": {
+    "name": "Junker Whatchamajig",
+    "extras": [
+      {
+        "content": "Starting Ultimate Charge"
+      }
+    ]
+  },
+  "617BD": {
+    "name": "Energized Bracers"
+  },
+  "5A91B": {
+    "name": "Multi-tool"
+  },
+  "5A8F0": {
+    "name": "Nano Cola"
+  },
+  "617E0": {
+    "name": "Three-Tap Tommygun",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using an ability, your next "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " instances of Weapon Damage deal additional damage equal to "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " of the target's Life."
+      }
+    ]
+  },
+  "5A917": {
+    "name": "LumériCo Fusion Drive",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability, restore "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " Armor or Shields over "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "610CE": {
+    "name": "Biotech Maximizer",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability that heals, reduce its cooldown by "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " for each unique ally it heals."
+      }
+    ]
+  },
+  "617E4": {
+    "name": "Superflexor",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you deal Weapon Damage or Healing, gain "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Ability Power for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": ", stacking up to "
+      },
+      {
+        "type": "number",
+        "content": "5"
+      },
+      {
+        "type": "text",
+        "content": " times."
+      }
+    ]
+  },
+  "610CF": {
+    "name": "Catalytic Crystal",
+    "description": [
+      {
+        "type": "text",
+        "content": "Ability Damage and Healing grants "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " more Ultimate Charge."
+      }
+    ]
+  },
+  "5A904": {
+    "name": "Cybervenom",
+    "description": [
+      {
+        "type": "text",
+        "content": "Dealing Ability Damage applies "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Healing Reduction for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "617E3": {
+    "name": "Iridescent Iris",
+    "description": [
+      {
+        "type": "text",
+        "content": "After spending your Ultimate Charge, gain "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A902": {
+    "name": "Liquid Nitrogen",
+    "description": [
+      {
+        "type": "text",
+        "content": "Dealing Ability Damage slows the target's Move Speed by "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A906": {
+    "name": "Mark of the Kitsune",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability, your next instance of Weapon Damage or Healing deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " bonus damage or healing."
+      }
+    ]
+  },
+  "5A901": {
+    "name": "Champion's Kit"
+  },
+  "610D7": {
+    "name": "Running Shoes",
+    "description": [
+      {
+        "type": "text",
+        "content": "At the start of the round and when you first respawn, gain "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "10s"
+      },
+      {
+        "type": "text",
+        "content": " while out of combat."
+      }
+    ]
+  },
+  "616BE": {
+    "name": "Adrenaline Shot",
+    "description": [
+      {
+        "type": "text",
+        "content": "Health Packs grant "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": " and "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth."
+      }
+    ]
+  },
+  "610D3": {
+    "name": "Field Rations",
+    "description": [
+      {
+        "type": "text",
+        "content": "While on the Objective, restore "
+      },
+      {
+        "type": "number",
+        "content": "8"
+      },
+      {
+        "type": "text",
+        "content": " Life every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "610D5": {
+    "name": "Electrolytes",
+    "description": [
+      {
+        "type": "text",
+        "content": "At the start of the round, gain "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " unrecoverable Overhealth."
+      }
+    ]
+  },
+  "610D6": {
+    "name": "Heartbeat Sensor",
+    "description": [
+      {
+        "type": "text",
+        "content": "Enemies below "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Life are Revealed to you."
+      }
+    ]
+  },
+  "55E8E": {
+    "name": "First Aid Kit",
+    "description": [
+      {
+        "type": "text",
+        "content": "Reduce the time before your Life begins regenerating by "
+      },
+      {
+        "type": "number",
+        "content": "33%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "616C1": {
+    "name": "Armored Vest"
+  },
+  "616BF": {
+    "name": "Siphon Gloves",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Quick Melee]"
+      },
+      {
+        "type": "text",
+        "content": " damage heals for "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " Life."
+      }
+    ]
+  },
+  "5A8EE": {
+    "name": "Reinforced Titanium",
+    "description": [
+      {
+        "type": "text",
+        "content": "While you have Shields, take "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " reduced Ability Damage."
+      }
+    ]
+  },
+  "5A8F5": {
+    "name": "Vital-E-Tee",
+    "description": [
+      {
+        "type": "text",
+        "content": "Convert "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Health into Armor."
+      }
+    ]
+  },
+  "5A8F1": {
+    "name": "Vishkar Condensor",
+    "description": [
+      {
+        "type": "text",
+        "content": "Convert "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Health into Shields."
+      }
+    ]
+  },
+  "5A8F3": {
+    "name": "Cushioned Padding",
+    "description": [
+      {
+        "type": "text",
+        "content": "When affected by Stun, Sleep, or Hinder, restore "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Life over "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ],
+    "extras": [
+      {
+        "content": "Incoming Negative Effect Duration"
+      }
+    ]
+  },
+  "5A8F2": {
+    "name": "Ironclad Exhaust Ports",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability, gain "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A90A": {
+    "name": "Iron Eyes",
+    "description": [
+      {
+        "type": "text",
+        "content": "You take "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " reduced damage from Critical Hits."
+      }
+    ]
+  },
+  "5A8F7": {
+    "name": "Crusader Hydraulics",
+    "description": [
+      {
+        "type": "text",
+        "content": "While you have Armor, take "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " reduced Weapon Damage."
+      }
+    ]
+  },
+  "5A8FA": {
+    "name": "MEKA Z-Series"
+  },
+  "5A908": {
+    "name": "Geneticist's Vial",
+    "description": [
+      {
+        "type": "text",
+        "content": "The first time you would die each round, revive instead with "
+      },
+      {
+        "type": "number",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": " Life after "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A90B": {
+    "name": "Divine Intervention",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you take more than "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " damage at once, restore "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " of damage taken and start regenerating your Shields."
+      }
+    ]
+  },
+  "617E2": {
+    "name": "Gloomgauntlet",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Melee]"
+      },
+      {
+        "type": "text",
+        "content": " Damage grants "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed and restores "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " of Max Life over "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "610D2": {
+    "name": "Bloodbound",
+    "description": [
+      {
+        "type": "text",
+        "content": "The last enemy to deal a final blow to you is Revealed when nearby. Deal "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " more damage to them and take "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " reduced damage from them."
+      }
+    ]
+  },
+  "5A910": {
+    "name": "Rüstung von Wilhelm",
+    "description": [
+      {
+        "type": "text",
+        "content": "While below "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Life, gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Damage Reduction."
+      }
+    ]
+  },
+  "5A914": {
+    "name": "Vanadium Injection",
+    "description": [
+      {
+        "type": "text",
+        "content": "While at "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge, gain: "
+      },
+      {
+        "type": "health",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "attackSpeed",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "cooldownReduction",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "movementSpeed",
+        "content": "10%"
+      }
+    ]
+  },
+  "5A90E": {
+    "name": "Martian Mender",
+    "description": [
+      {
+        "type": "text",
+        "content": "Restore "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " of your Life every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A90F": {
+    "name": "Phantasmic Flux",
+    "description": [
+      {
+        "type": "text",
+        "content": "While at full Life, Lifesteal grants up to "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth."
+      }
+    ]
+  },
+  "610D1": {
+    "name": "Nebula Conduit",
+    "description": [
+      {
+        "type": "text",
+        "content": "Prevent "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " of incoming damage and instead take that prevented damage over "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5A91A": {
+    "name": "Ogundimu Reduction Field",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you take damage, gain "
+      },
+      {
+        "type": "number",
+        "content": "0.5%"
+      },
+      {
+        "type": "text",
+        "content": " Damage Reduction for "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": ", stacking up to "
+      },
+      {
+        "type": "number",
+        "content": "20"
+      },
+      {
+        "type": "text",
+        "content": " times."
+      }
+    ]
+  }
+}

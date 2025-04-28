@@ -7,7 +7,7 @@ export interface Hero {
 }
 
 export type DescriptionBlock = {
-  type: "text" | "number" | "cooldown" | "ability" | "strong";
+  type: "text" | "number" | "health" | "weaponDamage" | "abilityDamage" | "attackSpeed" | "movementSpeed" | "cooldownReduction" | "strong";
   content: string;
 };
 

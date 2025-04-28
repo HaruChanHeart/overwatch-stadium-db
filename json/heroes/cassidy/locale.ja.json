@@ -1,0 +1,534 @@
+{
+  "61BBC": {
+    "name": "クイック・ロード",
+    "description": [
+      {
+        "type": "number",
+        "content": "6メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内に敵がいる状態でリロードすると、最大弾薬数"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "分の弾が追加で装填される"
+      }
+    ]
+  },
+  "61BBB": {
+    "name": "弱点解析",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵のダメージヒーローに対するメイン攻撃のダメージが"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "61BBE": {
+    "name": "ブラックウォッチ・ガンマン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デッド・アイ]"
+      },
+      {
+        "type": "text",
+        "content": "でキルを達成すると、"
+      },
+      {
+        "type": "strong",
+        "content": "[フラッシュバン]"
+      },
+      {
+        "type": "text",
+        "content": "の最大クールダウン時間が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "縮まる。ラウンドごとに最大"
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      }
+    ]
+  },
+  "61BBF": {
+    "name": "フレキシブル・ポンチョ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、"
+      },
+      {
+        "type": "strong",
+        "content": "[フラッシュバン]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "61BB9": {
+    "name": "手製ダイナマイト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フラッシュバン]"
+      },
+      {
+        "type": "text",
+        "content": "の爆風の範囲が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "広がる"
+      }
+    ]
+  },
+  "61BBA": {
+    "name": "お尋ね者",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デッド・アイ]"
+      },
+      {
+        "type": "text",
+        "content": "で敵を"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人キルするたびに、キャッシュが"
+      },
+      {
+        "type": "number",
+        "content": "500"
+      },
+      {
+        "type": "text",
+        "content": "手に入る"
+      }
+    ]
+  },
+  "61BC0": {
+    "name": "フランキーズ・フィクサー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "でリロードした弾"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "につきライフが"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "61BBD": {
+    "name": "イーグル・アイ",
+    "description": [
+      {
+        "type": "number",
+        "content": "12メートル"
+      },
+      {
+        "type": "text",
+        "content": "より離れた場所にいる敵からのダメージが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "少なくなる"
+      }
+    ]
+  },
+  "61BB8": {
+    "name": "ブルズアイ",
+    "description": [
+      {
+        "type": "text",
+        "content": "クリティカル・ヒットすると、"
+      },
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "5B206": {
+    "name": "デッドマン・ウォーキング",
+    "description": [
+      {
+        "type": "text",
+        "content": "クリティカル・ヒットしたばかりの相手をキルすると、そのラウンドの最大弾薬数が"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B207": {
+    "name": "クイック・ドロー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "を使用後クールダウンの間、"
+      },
+      {
+        "type": "strong",
+        "content": "[ピースキーパー]"
+      },
+      {
+        "type": "text",
+        "content": "の次のメイン攻撃は"
+      },
+      {
+        "type": "number",
+        "content": "9メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内の敵に自動で照準を合わせる"
+      }
+    ]
+  },
+  "5B210": {
+    "name": "シンク・フラッシュ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "の開始地点に"
+      },
+      {
+        "type": "strong",
+        "content": "[フラッシュバン]"
+      },
+      {
+        "type": "text",
+        "content": "を設置する"
+      }
+    ]
+  },
+  "61BB6": {
+    "name": "フル・ハウス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ピースキーパー]"
+      },
+      {
+        "type": "text",
+        "content": "（メイン攻撃）のダメージが、残弾数"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "ごとに"
+      },
+      {
+        "type": "number",
+        "content": "1%"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増加"
+      }
+    ]
+  },
+  "61BB7": {
+    "name": "鉛の雨に飛び込め",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "中、すべてのダメージを防ぐ "
+      },
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "の終了後、ライフが"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "5B205": {
+    "name": "バレル・ロール",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コンバット・ロール]"
+      },
+      {
+        "type": "text",
+        "content": "の距離が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "伸び、敵に"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "65"
+      },
+      {
+        "type": "text",
+        "content": "のダメージを与える"
+      }
+    ]
+  },
+  "5B209": {
+    "name": "フラッシュ・ボム",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フラッシュバン]"
+      },
+      {
+        "type": "text",
+        "content": "をヒットさせると、"
+      },
+      {
+        "type": "strong",
+        "content": "[ピースキーパー]"
+      },
+      {
+        "type": "text",
+        "content": "の弾薬が"
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "増える。この効果はリロードするまで有効"
+      }
+    ]
+  },
+  "5B20C": {
+    "name": "空砲",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フラッシュバン]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えたばかりの敵をキルすると、アルティメット・チャージを"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "5B20F": {
+    "name": "夕焼け",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デッド・アイ]"
+      },
+      {
+        "type": "text",
+        "content": "で敵を"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人キルするたびに、アルティメット・チャージを"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "5B20E": {
+    "name": "朝焼け",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デッド・アイ]"
+      },
+      {
+        "type": "text",
+        "content": "を発動してから"
+      },
+      {
+        "type": "number",
+        "content": "1.5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、視界内のあらゆる敵の移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "遅くなる"
+      }
+    ]
+  },
+  "5B20A": {
+    "name": "イージー・ライダー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デッド・アイ]"
+      },
+      {
+        "type": "text",
+        "content": "の発動中、"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "の追加ライフと、"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "の移動速度ボーナスを得る"
+      }
+    ]
+  }
+}

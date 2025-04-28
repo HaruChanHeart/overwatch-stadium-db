@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   i18n: {
-    locales: ['en', 'ko'],
+    locales: ['ko', 'en', 'ja'],
     defaultLocale: 'ko',
     // localePath: path.resolve('./public/locales')
   },

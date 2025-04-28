@@ -25,11 +25,11 @@ export default function Home({ herolist }: { herolist: HeroList }) {
               <div className="flex flex-col justify-center items-center gap-2">
                 <Image
                   src={`/assets/heroes/${hero.id}.webp`}
-                  alt={herolist.language[hero.id]}
+                  alt={herolist.language?.[hero.id] || "Unknown"}
                   className="bg-linear-to-b from-indigo-400 to-blue-200 border-2 border-white rounded"
                 />
                 <div className="text-xl font-bold text-white">
-                  {herolist.language[hero.id]}
+                  {herolist.language?.[hero.id] ?? "Unknown"}
                 </div>
               </div>
             </Link>

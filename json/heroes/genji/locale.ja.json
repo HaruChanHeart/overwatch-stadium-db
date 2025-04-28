@@ -1,0 +1,616 @@
+{
+  "60E01": {
+    "name": "スパイク・グリップ",
+    "description": [
+      {
+        "type": "text",
+        "content": "壁登り中、手裏剣が"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "ごとに"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "%枚回復する"
+      }
+    ]
+  },
+  "60E08": {
+    "name": "奇襲用センサー",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵の背後から"
+      },
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "を当てることでクリティカル・ヒットが可能となり、与えるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "60E0A": {
+    "name": "抜刀装填",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[風斬り]"
+      },
+      {
+        "type": "text",
+        "content": "で敵"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人にダメージを与えると、手裏剣が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "枚回復する"
+      }
+    ]
+  },
+  "60E05": {
+    "name": "不滅の刃",
+    "extras": [
+      {
+        "content": "[龍撃剣]持続時間（秒）"
+      }
+    ]
+  },
+  "60E09": {
+    "name": "トラヴァーサル・キネクト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[風斬り]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えなかった場合、同アビリティのクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "60E06": {
+    "name": "忍の足具"
+  },
+  "60E0D": {
+    "name": "抜き一文字"
+  },
+  "60E02": {
+    "name": "烈風",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[風斬り]"
+      },
+      {
+        "type": "text",
+        "content": "中、自分に向かってくる投射物を照準先に跳ね返す"
+      }
+    ]
+  },
+  "60E0C": {
+    "name": "拡散コーティング",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[木の葉返し]"
+      },
+      {
+        "type": "text",
+        "content": "でビームを跳ね返せる"
+      }
+    ]
+  },
+  "60E0B": {
+    "name": "燕雀の翼",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ウォール・ライド]"
+      },
+      {
+        "type": "text",
+        "content": "後、空中でもう"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "ジャンプを繰り出せる"
+      }
+    ]
+  },
+  "60E07": {
+    "name": "開眼の武具",
+    "description": [
+      {
+        "type": "text",
+        "content": "壁登り中、ライフが"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "ごとに"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60E04": {
+    "name": "スライシー・クーラント"
+  },
+  "60E03": {
+    "name": "トランスファレンス・デルタ",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフを"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "、アーマーに変換する "
+      },
+      {
+        "type": "strong",
+        "content": "[龍撃剣]"
+      },
+      {
+        "type": "text",
+        "content": "を発動すると、アーマーが全回復する"
+      }
+    ]
+  },
+  "5B1DA": {
+    "name": "サイバネティック・スピード",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[手裏剣]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えてから"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、同アビリティの攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "2%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "15回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  },
+  "5B1D6": {
+    "name": "神手裏剣",
+    "description": [
+      {
+        "type": "text",
+        "content": "一度に投げる"
+      },
+      {
+        "type": "strong",
+        "content": "[手裏剣]"
+      },
+      {
+        "type": "text",
+        "content": "（メイン攻撃）の枚数が"
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "増える "
+      },
+      {
+        "type": "strong",
+        "content": "[手裏剣]"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "あたりの消費枚数は変わらない"
+      }
+    ]
+  },
+  "5B1D4": {
+    "name": "虎狩り",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティ使用後、最初のサブ攻撃で追加の"
+      },
+      {
+        "type": "strong",
+        "content": "[手裏剣]"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "枚投げる。追加の手裏剣にはホーミング機能があるが、与えるダメージは"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "少ない"
+      }
+    ]
+  },
+  "5B1D7": {
+    "name": "仕込み刀",
+    "description": [
+      {
+        "type": "text",
+        "content": "近接攻撃に"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "のライフ吸収効果が付き、"
+      },
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "のダメージが"
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B1D2": {
+    "name": "刀の傷",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[風斬り]"
+      },
+      {
+        "type": "text",
+        "content": "を当てた相手に追加で"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "5B1D9": {
+    "name": "龍のあぎと",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵に"
+      },
+      {
+        "type": "strong",
+        "content": "[手裏剣]"
+      },
+      {
+        "type": "text",
+        "content": "を当ててから"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、その敵に対する"
+      },
+      {
+        "type": "strong",
+        "content": "[風斬り]"
+      },
+      {
+        "type": "text",
+        "content": "のダメージが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大"
+      },
+      {
+        "type": "number",
+        "content": "5回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  },
+  "5B1D5": {
+    "name": "ハナムラ・ヒーリング",
+    "description": [
+      {
+        "type": "text",
+        "content": "クリティカル・ヒットまたは"
+      },
+      {
+        "type": "strong",
+        "content": "[風斬り]"
+      },
+      {
+        "type": "text",
+        "content": "を当てると、"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、与えたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る"
+      }
+    ]
+  },
+  "5B1D1": {
+    "name": "居合斬り",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[木の葉返し]"
+      },
+      {
+        "type": "text",
+        "content": "の終了後、"
+      },
+      {
+        "type": "strong",
+        "content": "[龍撃剣]"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "振るう"
+      }
+    ]
+  },
+  "5B1DB": {
+    "name": "堅忍不抜",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[木の葉返し]"
+      },
+      {
+        "type": "text",
+        "content": "の発動中、跳ね返したダメージの"
+      },
+      {
+        "type": "number",
+        "content": "60%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "5B1D8": {
+    "name": "宗次郎の精神",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[木の葉返し]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを回避すると、"
+      },
+      {
+        "type": "strong",
+        "content": "[風斬り]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "短くなる。最大"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "短縮"
+      }
+    ]
+  },
+  "5B1D3": {
+    "name": "ハジキロボ",
+    "description": [
+      {
+        "type": "text",
+        "content": "=+"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 跳ね返した弾の速度 "
+      },
+      {
+        "type": "strong",
+        "content": "[木の葉返し]"
+      },
+      {
+        "type": "text",
+        "content": "を発動してから"
+      },
+      {
+        "type": "number",
+        "content": "1.5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、弾を敵へと自動的に跳ね返す"
+      }
+    ]
+  },
+  "5B1DC": {
+    "name": "龍神の吐息",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[龍撃剣]"
+      },
+      {
+        "type": "text",
+        "content": "を振るうごとに、"
+      },
+      {
+        "type": "strong",
+        "content": "[龍撃剣]"
+      },
+      {
+        "type": "text",
+        "content": "の"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "分のダメージと貫通力のある大きな投射物を射出する"
+      }
+    ]
+  }
+}

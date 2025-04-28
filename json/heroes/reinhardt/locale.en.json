@@ -1,0 +1,680 @@
+{
+  "60EAC": {
+    "name": "Ironclad Cleats",
+    "extras": [
+      {
+        "content": "Knockback Resist"
+      }
+    ]
+  },
+  "591CC": {
+    "name": "Dampener Grip",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you deal damage with "
+      },
+      {
+        "type": "strong",
+        "content": "[Rocket Hammer]"
+      },
+      {
+        "type": "text",
+        "content": ", reduce the cooldown of your abilities by "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591CE": {
+    "name": "Plan Z",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed every "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " missing Life, up to "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591CD": {
+    "name": "Boost Recycler",
+    "description": [
+      {
+        "type": "text",
+        "content": "If "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": " is interrupted by the enemy, refund "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": " cooldown."
+      }
+    ]
+  },
+  "591D0": {
+    "name": "Chimera's Maw"
+  },
+  "591CF": {
+    "name": "Gryphon Glider",
+    "description": [
+      {
+        "type": "text",
+        "content": "You can now fly during "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591D5": {
+    "name": "Rocket Strike"
+  },
+  "591D2": {
+    "name": "Crusader's Cure",
+    "description": [
+      {
+        "type": "text",
+        "content": "Using "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": " cleanses all negative effects."
+      }
+    ]
+  },
+  "591D4": {
+    "name": "Rocket Boots",
+    "description": [
+      {
+        "type": "text",
+        "content": "Holding crouch increases the height of your next jump by up to "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591D6": {
+    "name": "Overclocked Barrier",
+    "extras": [
+      {
+        "content": "[Barrier Field] Size"
+      }
+    ]
+  },
+  "591D3": {
+    "name": "Phoenix Protocol",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Barrier Field]"
+      },
+      {
+        "type": "text",
+        "content": " regenerates "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " faster and begins regenerating "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " sooner after being destroyed."
+      }
+    ]
+  },
+  "591D1": {
+    "name": "Infusion Generator",
+    "description": [
+      {
+        "type": "text",
+        "content": "Increase "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier Field]"
+      },
+      {
+        "type": "text",
+        "content": " Health by "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Life."
+      }
+    ]
+  },
+  "591DA": {
+    "name": "To Me, My Friends!",
+    "description": [
+      {
+        "type": "text",
+        "content": "While "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier Field]"
+      },
+      {
+        "type": "text",
+        "content": " is active, allies within "
+      },
+      {
+        "type": "number",
+        "content": "5m"
+      },
+      {
+        "type": "text",
+        "content": " are healed equal to "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Life every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591DF": {
+    "name": "Barrier Reconstruction",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you deal damage with "
+      },
+      {
+        "type": "strong",
+        "content": "[Rocket Hammer]"
+      },
+      {
+        "type": "text",
+        "content": " or "
+      },
+      {
+        "type": "strong",
+        "content": "[Fire Strike]"
+      },
+      {
+        "type": "text",
+        "content": ", restore health to "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier Field]"
+      },
+      {
+        "type": "text",
+        "content": " equal to "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of its max Health."
+      }
+    ]
+  },
+  "591D8": {
+    "name": "Wilhelmwagen",
+    "description": [
+      {
+        "type": "text",
+        "content": "While "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier Field]"
+      },
+      {
+        "type": "text",
+        "content": " is deployed, you heal for "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " of the damage it mitigates and gain "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed."
+      }
+    ]
+  },
+  "591E2": {
+    "name": "Amplification Barrier",
+    "description": [
+      {
+        "type": "text",
+        "content": "Friendly projectiles that pass through your "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier Field]"
+      },
+      {
+        "type": "text",
+        "content": " deal "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " more damage."
+      }
+    ]
+  },
+  "591D7": {
+    "name": "Shield Stampede",
+    "description": [
+      {
+        "type": "text",
+        "content": "+"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": " Knockback Power. During "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": ", automatically deploy "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier Field]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591DC": {
+    "name": "Vroom Boom Boom",
+    "description": [
+      {
+        "type": "text",
+        "content": "During "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": ", colliding with a wall triggers an explosion that deals "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": "'s pin damage."
+      }
+    ]
+  },
+  "591D9": {
+    "name": "Vanguard",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Charge]"
+      },
+      {
+        "type": "text",
+        "content": " grants nearby allies Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Life and "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591E0": {
+    "name": "Magma Strike",
+    "description": [
+      {
+        "type": "text",
+        "content": "If "
+      },
+      {
+        "type": "strong",
+        "content": "[Fire Strike]"
+      },
+      {
+        "type": "text",
+        "content": " is cast twice within "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": ", the second strike leaves a trail of lava that Burns enemies for "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Fire Strike]"
+      },
+      {
+        "type": "text",
+        "content": " damage."
+      }
+    ]
+  },
+  "591DD": {
+    "name": "Blazing Blitz",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Earthshatter]"
+      },
+      {
+        "type": "text",
+        "content": ", every "
+      },
+      {
+        "type": "strong",
+        "content": "[Rocket Hammer]"
+      },
+      {
+        "type": "text",
+        "content": " swing launches a "
+      },
+      {
+        "type": "strong",
+        "content": "[Fire Strike]"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591DE": {
+    "name": "Impact Burst",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Fire Strike]"
+      },
+      {
+        "type": "text",
+        "content": " triggers an explosion the first time it hits an enemy, dealing "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of its damage in a "
+      },
+      {
+        "type": "number",
+        "content": "3m"
+      },
+      {
+        "type": "text",
+        "content": " radius."
+      }
+    ]
+  },
+  "591E1": {
+    "name": "Feeling The Burn",
+    "description": [
+      {
+        "type": "text",
+        "content": "Every "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "rd "
+      },
+      {
+        "type": "strong",
+        "content": "[Rocket Hammer]"
+      },
+      {
+        "type": "text",
+        "content": " swing applies Burn, dealing "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Rocket Hammer]"
+      },
+      {
+        "type": "text",
+        "content": " damage over "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "591DB": {
+    "name": "Smashing!",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you deal damage with "
+      },
+      {
+        "type": "strong",
+        "content": "[Rocket Hammer]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed and "
+      },
+      {
+        "type": "number",
+        "content": "4%"
+      },
+      {
+        "type": "text",
+        "content": " Weapon Lifesteal for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": ", stacking up to "
+      },
+      {
+        "type": "number",
+        "content": "5"
+      },
+      {
+        "type": "text",
+        "content": " times."
+      }
+    ]
+  }
+}

@@ -1,29 +1,6 @@
 [
   {
-    "name": "나노 뿝",
     "image": "61BD0",
-    "description": [
-      {
-        "type": "text",
-        "content": "환경 요소로 처치하면 "
-      },
-      {
-        "type": "number",
-        "content": "5"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "strong",
-        "content": "[나노 강화제]"
-      },
-      {
-        "type": "text",
-        "content": "를 얻습니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -34,30 +11,7 @@
     ]
   },
   {
-    "name": "넘버 원 싱글",
     "image": "61BD2",
-    "description": [
-      {
-        "type": "text",
-        "content": "아군이 "
-      },
-      {
-        "type": "strong",
-        "content": "[분위기 전환!]"
-      },
-      {
-        "type": "text",
-        "content": " 범위를 떠나면 효과가 "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 유지됩니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -68,26 +22,7 @@
     ]
   },
   {
-    "name": "로우플라이 비트",
     "image": "61BD1",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[속도 증폭]"
-      },
-      {
-        "type": "text",
-        "content": " 상태에서 "
-      },
-      {
-        "type": "strong",
-        "content": "[소리 파동]"
-      },
-      {
-        "type": "text",
-        "content": "이 자신도 밀쳐냅니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -102,50 +37,7 @@
     ]
   },
   {
-    "name": "방송 전파",
     "image": "61BD5",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[소리 방벽]"
-      },
-      {
-        "type": "text",
-        "content": " 효율이 "
-      },
-      {
-        "type": "strong",
-        "content": "[소리 방벽]"
-      },
-      {
-        "type": "text",
-        "content": "에 정신을 집중하는 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초마다 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": ")."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -160,7 +52,6 @@
     ]
   },
   {
-    "name": "총력의 아우지치바",
     "image": "61BD3",
     "grade": 3,
     "cost": 11000,
@@ -172,8 +63,7 @@
     ],
     "extras": [
       {
-        "value": "33%",
-        "content": "[볼륨을 높여라!] 지속 시간"
+        "value": "33%"
       }
     ]
   }

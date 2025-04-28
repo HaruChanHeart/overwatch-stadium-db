@@ -1,0 +1,561 @@
+{
+  "62205": {
+    "name": "Crepuscular Circle",
+    "description": [
+      {
+        "type": "text",
+        "content": "While "
+      },
+      {
+        "type": "strong",
+        "content": "[Valkyrie]"
+      },
+      {
+        "type": "text",
+        "content": " is active, the healing and damage boost of "
+      },
+      {
+        "type": "strong",
+        "content": "[Caduceus Staff]"
+      },
+      {
+        "type": "text",
+        "content": " are automatically applied to nearby allies."
+      }
+    ]
+  },
+  "62206": {
+    "name": "Glass Extra Full",
+    "description": [
+      {
+        "type": "text",
+        "content": "Healing from "
+      },
+      {
+        "type": "strong",
+        "content": "[Caduceus Staff]"
+      },
+      {
+        "type": "text",
+        "content": " targeting full health allies is converted to Overhealth, up to "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "62207": {
+    "name": "The Whambulance",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[Guardian Angel]"
+      },
+      {
+        "type": "text",
+        "content": " ends, heal your target for "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "4"
+      },
+      {
+        "type": "text",
+        "content": " Life for every "
+      },
+      {
+        "type": "number",
+        "content": "1m"
+      },
+      {
+        "type": "text",
+        "content": " you traveled."
+      }
+    ]
+  },
+  "60E72": {
+    "name": "Mid-Air Mobilizer",
+    "description": [
+      {
+        "type": "text",
+        "content": "While airborne gain: "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Weapon Power, "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed"
+      }
+    ]
+  },
+  "60E73": {
+    "name": "Celestial Clip",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Caduceus Blaster]"
+      },
+      {
+        "type": "text",
+        "content": " has a "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " chance to fire an extra shot that doesn't consume additional ammo."
+      }
+    ]
+  },
+  "60E75": {
+    "name": "Caduceus EX"
+  },
+  "60E6D": {
+    "name": "Long Distance Wings"
+  },
+  "60E3C": {
+    "name": "Resurrection Rangefinder"
+  },
+  "60E71": {
+    "name": "Angelic Acrobatics",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Guardian Angel]"
+      },
+      {
+        "type": "text",
+        "content": "'s cooldown starts as soon as you jump or crouch."
+      }
+    ]
+  },
+  "60E6E": {
+    "name": "Aerodynamic Feathers",
+    "description": [
+      {
+        "type": "text",
+        "content": "While affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Angelic Descent]"
+      },
+      {
+        "type": "text",
+        "content": ", continuously gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " up to "
+      },
+      {
+        "type": "number",
+        "content": "60%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E6F": {
+    "name": "Angeleisure Wear",
+    "description": [
+      {
+        "type": "text",
+        "content": "While affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Angelic Descent]"
+      },
+      {
+        "type": "text",
+        "content": " or "
+      },
+      {
+        "type": "strong",
+        "content": "[Guardian Angel]"
+      },
+      {
+        "type": "text",
+        "content": ", heal "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " of your Life every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E70": {
+    "name": "Blessed Boosters",
+    "description": [
+      {
+        "type": "text",
+        "content": "Your launch velocity is increased by "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " when canceling "
+      },
+      {
+        "type": "strong",
+        "content": "[Guardian Angel]"
+      },
+      {
+        "type": "text",
+        "content": " with crouch or jump."
+      }
+    ]
+  },
+  "60E74": {
+    "name": "Chain Evoker",
+    "extras": [
+      {
+        "content": "Ultimate Charge from Damage Boost"
+      }
+    ]
+  },
+  "5B1B6": {
+    "name": "Serenity",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sympathetic Recovery]"
+      },
+      {
+        "type": "text",
+        "content": " heals for "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " more and heals you even while you are healing a full health ally."
+      }
+    ]
+  },
+  "5B1B5": {
+    "name": "Protective Beam",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Caduceus Staff]"
+      },
+      {
+        "type": "text",
+        "content": " targets above "
+      },
+      {
+        "type": "number",
+        "content": "80%"
+      },
+      {
+        "type": "text",
+        "content": " Life gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Damage Reduction."
+      }
+    ]
+  },
+  "5B1B7": {
+    "name": "Distortion",
+    "description": [
+      {
+        "type": "text",
+        "content": "Allies boosted by "
+      },
+      {
+        "type": "strong",
+        "content": "[Caduceus Staff]"
+      },
+      {
+        "type": "text",
+        "content": " gain "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Lifesteal."
+      }
+    ]
+  },
+  "5B1B4": {
+    "name": "Threads of Fate",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Caduceus Staff]"
+      },
+      {
+        "type": "text",
+        "content": " chains to your previous target for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": ", at "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " effectiveness."
+      }
+    ]
+  },
+  "5B1B3": {
+    "name": "Battle Medic",
+    "description": [
+      {
+        "type": "text",
+        "content": "Every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " your Staff is attached, "
+      },
+      {
+        "type": "strong",
+        "content": "[Caduceus Blaster]"
+      },
+      {
+        "type": "text",
+        "content": " gains "
+      },
+      {
+        "type": "number",
+        "content": "4%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed (stacks "
+      },
+      {
+        "type": "number",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": " times) until you reload or swap to your Staff."
+      }
+    ]
+  },
+  "5B1B8": {
+    "name": "First Responder",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you "
+      },
+      {
+        "type": "strong",
+        "content": "[Resurrect]"
+      },
+      {
+        "type": "text",
+        "content": " an ally, you both gain "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "250"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth for "
+      },
+      {
+        "type": "number",
+        "content": "6s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1B2": {
+    "name": "Equivalent Exchange",
+    "description": [
+      {
+        "type": "text",
+        "content": "You have "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " charges of "
+      },
+      {
+        "type": "strong",
+        "content": "[Resurrect]"
+      },
+      {
+        "type": "text",
+        "content": " with "
+      },
+      {
+        "type": "number",
+        "content": "33%"
+      },
+      {
+        "type": "text",
+        "content": " reduced cast time, but their cooldowns only reset at the start of a round."
+      }
+    ]
+  },
+  "5B1B1": {
+    "name": "Renaissance",
+    "description": [
+      {
+        "type": "text",
+        "content": "After succesfully using "
+      },
+      {
+        "type": "strong",
+        "content": "[Resurrect]"
+      },
+      {
+        "type": "text",
+        "content": ", activate "
+      },
+      {
+        "type": "strong",
+        "content": "[Valkyrie]"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1AF": {
+    "name": "Triage Unit",
+    "description": [
+      {
+        "type": "text",
+        "content": "When using "
+      },
+      {
+        "type": "strong",
+        "content": "[Guardian Angel]"
+      },
+      {
+        "type": "text",
+        "content": " on allies below "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " Life, "
+      },
+      {
+        "type": "strong",
+        "content": "[Caduceus Staff]"
+      },
+      {
+        "type": "text",
+        "content": " heals them "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " more for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "60E1A": {
+    "name": "朝流投射術",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クナイ]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "跳ね返る"
+      }
+    ]
+  },
+  "60E25": {
+    "name": "気合の飾り帯",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵にダメージを与えてから"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "strong",
+        "content": "[快気の御札]"
+      },
+      {
+        "type": "text",
+        "content": "の投射速度が"
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E23": {
+    "name": "俊足のご加護",
+    "description": [
+      {
+        "type": "text",
+        "content": "回復した味方の移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E24": {
+    "name": "リョータ仕込みの一手",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、クナイが"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "本回復する"
+      }
+    ]
+  },
+  "60E19": {
+    "name": "神々の導き",
+    "extras": [
+      {
+        "content": "[快気の御札]弾速"
+      }
+    ]
+  },
+  "60E1B": {
+    "name": "ヨーカイの目",
+    "extras": [
+      {
+        "content": "[狐走り]持続時間"
+      }
+    ]
+  },
+  "60E20": {
+    "name": "サイクリスト・グローブ",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E1C": {
+    "name": "ドーナツ便",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[神出鬼没]"
+      },
+      {
+        "type": "text",
+        "content": "を使用すると、"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて付近の味方のライフを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60E1D": {
+    "name": "サイクリスト・トレイル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[狐走り]"
+      },
+      {
+        "type": "text",
+        "content": "の足跡を辿った味方のライフが毎秒"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60E1E": {
+    "name": "疾風の御守",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[鈴のご加護]"
+      },
+      {
+        "type": "text",
+        "content": "により、"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E21": {
+    "name": "狐の跳躍",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[二段ジャンプ]"
+      },
+      {
+        "type": "text",
+        "content": "を繰り出せる"
+      }
+    ]
+  },
+  "60E22": {
+    "name": "神秘の後光",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[神出鬼没]"
+      },
+      {
+        "type": "text",
+        "content": "の使用後"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、追加ライフを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "60E1F": {
+    "name": "生命の御守",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[鈴のご加護]"
+      },
+      {
+        "type": "text",
+        "content": "で"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、追加ライフを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "与える"
+      }
+    ]
+  },
+  "5B1F4": {
+    "name": "三重の刃",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[神出鬼没]"
+      },
+      {
+        "type": "text",
+        "content": "の使用後"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "strong",
+        "content": "[クナイ]"
+      },
+      {
+        "type": "text",
+        "content": "（サブ攻撃）の本数が"
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "増える。追加のクナイは扇状に拡散し、与えるダメージは"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "少ない"
+      }
+    ]
+  },
+  "5B1EE": {
+    "name": "狐火の刃",
+    "description": [
+      {
+        "type": "text",
+        "content": "リロード後に投げる"
+      },
+      {
+        "type": "strong",
+        "content": "[クナイ]"
+      },
+      {
+        "type": "text",
+        "content": "の最初の"
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "本が命中時に爆発し、付近の敵に"
+      },
+      {
+        "type": "weaponDamage",
+        "content": "20"
+      },
+      {
+        "type": "text",
+        "content": "のダメージを与える"
+      }
+    ]
+  },
+  "5B1F0": {
+    "name": "鋭利なクナイ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クナイ]"
+      },
+      {
+        "type": "text",
+        "content": "がクリティカル・ヒットすると、進行中のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "短くなり、クナイが"
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "本回復する"
+      }
+    ]
+  },
+  "5B1F6": {
+    "name": "木の葉の舞",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[快気の御札]"
+      },
+      {
+        "type": "text",
+        "content": "が別の味方のもとへ最大"
+      },
+      {
+        "type": "number",
+        "content": "2回"
+      },
+      {
+        "type": "text",
+        "content": "跳ね返る。回復量は通常の"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      }
+    ]
+  },
+  "5B1F1": {
+    "name": "自己快気",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[快気の御札]"
+      },
+      {
+        "type": "text",
+        "content": "の使用時、ライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "分、自己回復する"
+      }
+    ]
+  },
+  "5B1F5": {
+    "name": "武者の御札",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[快気の御札]"
+      },
+      {
+        "type": "text",
+        "content": "で回復した味方の攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "5B1F8": {
+    "name": "分身の魔法",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[神出鬼没]"
+      },
+      {
+        "type": "text",
+        "content": "の使用後、"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間持続する自分の分身を展開する"
+      }
+    ]
+  },
+  "5B1EF": {
+    "name": "俊足",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[神出鬼没]"
+      },
+      {
+        "type": "text",
+        "content": "をターゲットへのロックオンなしで、進行方向に繰り出せる"
+      }
+    ]
+  },
+  "5B1ED": {
+    "name": "双子鈴",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[鈴のご加護]"
+      },
+      {
+        "type": "text",
+        "content": "のチャージが"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B1F7": {
+    "name": "浄化チャージ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[鈴のご加護]"
+      },
+      {
+        "type": "text",
+        "content": "で味方"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人の状態異常を解除するごとに、アルティメット・チャージを"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "5B1F3": {
+    "name": "天の衣",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[狐走り]"
+      },
+      {
+        "type": "text",
+        "content": "を発動すると、キリコ自身の状態異常が消え、"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、無敵状態になる"
+      }
+    ]
+  },
+  "5B1F2": {
+    "name": "結界",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[狐走り]"
+      },
+      {
+        "type": "text",
+        "content": "で"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、敵の移動速度を"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "下げる"
+      }
+    ]
+  }
+}

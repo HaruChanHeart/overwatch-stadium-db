@@ -1,0 +1,540 @@
+{
+  "60E7E": {
+    "name": "고용량 튜빙",
+    "extras": [
+      {
+        "content": "최대 [생체 에너지]"
+      }
+    ]
+  },
+  "60E82": {
+    "name": "생체 바늘",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 손아귀]"
+      },
+      {
+        "type": "text",
+        "content": " 보조 발사 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 에너지]"
+      },
+      {
+        "type": "text",
+        "content": "를 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 추가로 회복합니다."
+      }
+    ]
+  },
+  "60E7D": {
+    "name": "대체 에너지",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소멸]"
+      },
+      {
+        "type": "text",
+        "content": "을 사용하면 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 에너지]"
+      },
+      {
+        "type": "text",
+        "content": "를 보충합니다."
+      }
+    ]
+  },
+  "60E81": {
+    "name": "아원자 분열기",
+    "extras": [
+      {
+        "content": "[생체 손아귀] 보조 발사 사거리"
+      }
+    ]
+  },
+  "60E7C": {
+    "name": "스마트 구슬",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 구슬]"
+      },
+      {
+        "type": "text",
+        "content": "이 대상을 치유하거나 피해를 주는 중에는 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 느리게 움직입니다."
+      }
+    ]
+  },
+  "60E7F": {
+    "name": "공중부양 숄",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[융화]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 자유롭게 비행할 수 있습니다."
+      }
+    ]
+  },
+  "60E83": {
+    "name": "융화 군단",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[융화]"
+      },
+      {
+        "type": "text",
+        "content": "로 치유된 아군이 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 증가한 피해를 줍니다."
+      }
+    ]
+  },
+  "60E7B": {
+    "name": "늘어난 덩굴손",
+    "extras": [
+      {
+        "content": "[생체 구슬] 촉수 사거리"
+      }
+    ]
+  },
+  "60E80": {
+    "name": "심연 부츠",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소멸]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " 더 높게 점프할 수 있습니다."
+      }
+    ]
+  },
+  "5B1B9": {
+    "name": "그대에게 힘을",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 손아귀]"
+      },
+      {
+        "type": "text",
+        "content": "의 보조 발사가 아군을 대상으로 할 수 있으며, 아군 피해를 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 증가시킵니다."
+      }
+    ]
+  },
+  "5B1BB": {
+    "name": "불안정한 위력",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 손아귀]"
+      },
+      {
+        "type": "text",
+        "content": "로 치유한 아군을 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": "에 걸쳐 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 손아귀]"
+      },
+      {
+        "type": "text",
+        "content": " 치유량의 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 추가로 치유합니다."
+      }
+    ]
+  },
+  "5B1BC": {
+    "name": "사슬 손아귀",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 구슬]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후, "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 손아귀]"
+      },
+      {
+        "type": "text",
+        "content": "의 보조 발사가 "
+      },
+      {
+        "type": "number",
+        "content": "10미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내에 있는 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "명의 추가 대상에게 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 연쇄됩니다."
+      }
+    ]
+  },
+  "5B1BE": {
+    "name": "천상의 절개",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 손아귀]"
+      },
+      {
+        "type": "text",
+        "content": " 보조 발사로 적의 머리를 조준하는 동안 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고, "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "의 생명력 흡수를 얻으며, 생체 에너지를 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " 더 회복합니다."
+      }
+    ]
+  },
+  "5B1C3": {
+    "name": "최적의 오버플로",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 에너지]"
+      },
+      {
+        "type": "text",
+        "content": "를 "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " 소모하면 마지막으로 선택한 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 구슬]"
+      },
+      {
+        "type": "text",
+        "content": "을 발사합니다. 이 생체 구슬의 지속 시간은 "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  "5B1BA": {
+    "name": "해체",
+    "description": [
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "의 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 에너지]"
+      },
+      {
+        "type": "text",
+        "content": "를 소모하면 "
+      },
+      {
+        "type": "number",
+        "content": "6초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B1C4": {
+    "name": "다중 구슬",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 구슬]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시, 선택한 유형의 효율이 "
+      },
+      {
+        "type": "number",
+        "content": "85%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 구슬을 "
+      },
+      {
+        "type": "number",
+        "content": "2개"
+      },
+      {
+        "type": "text",
+        "content": " 추가로 날립니다."
+      }
+    ]
+  },
+  "5B1BF": {
+    "name": "십자구",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체 구슬]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시, 유형이 다르고 용량이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 추가 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 구슬]"
+      },
+      {
+        "type": "text",
+        "content": " 하나를 발사합니다."
+      }
+    ]
+  },
+  "5B1C2": {
+    "name": "환영",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소멸]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시, 마지막으로 선택하고 지속시간이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체 구슬]"
+      },
+      {
+        "type": "text",
+        "content": "의 움직이지 않는 고정 복제본을 생성합니다."
+      }
+    ]
+  },
+  "5B1C1": {
+    "name": "공허 이동가",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소멸]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "8미터"
+      },
+      {
+        "type": "text",
+        "content": " 내에 있는 아군의 위상 또한 "
+      },
+      {
+        "type": "number",
+        "content": "0.25초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 바꾸며, 내 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력도 부여합니다."
+      }
+    ]
+  },
+  "5B1C0": {
+    "name": "과학적인 사망 방법",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[소멸]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 적을 통과하면, "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "의 궁극기 충전과 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 얻습니다."
+      }
+    ]
+  },
+  "5B1BD": {
+    "name": "파괴의 분할",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[융화]"
+      },
+      {
+        "type": "text",
+        "content": "를 순수 치유와 순수 공격 간 전환할 수 있습니다. 효과가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  }
+}

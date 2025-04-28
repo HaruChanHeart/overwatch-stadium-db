@@ -1,0 +1,479 @@
+{
+  "61EF8": {
+    "name": "スノー・ブーツ",
+    "description": [
+      {
+        "type": "text",
+        "content": "凍結した地面上でのメイの移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "61EF6": {
+    "name": "豪雪",
+    "description": [
+      {
+        "type": "text",
+        "content": "最大弾薬数が"
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": "増えるが、リロード時間が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "長くなる"
+      }
+    ]
+  },
+  "61EF4": {
+    "name": "ヒマラヤの頂",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブリザード]"
+      },
+      {
+        "type": "text",
+        "content": "内にいる間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "61EF7": {
+    "name": "氷の要塞",
+    "description": [
+      {
+        "type": "text",
+        "content": "氷の柱を"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "本展開するごとに、アビリティ・パワーが"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "61EF3": {
+    "name": "コールド・スリープ",
+    "description": [
+      {
+        "type": "text",
+        "content": "キルされそうになると"
+      },
+      {
+        "type": "strong",
+        "content": "[クリオフリーズ]"
+      },
+      {
+        "type": "text",
+        "content": "を発動し、アルティメット・チャージを"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "得る。各ラウンドで"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "のみ発動"
+      }
+    ]
+  },
+  "61EF2": {
+    "name": "氷の世界",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブリザード]"
+      },
+      {
+        "type": "text",
+        "content": "の基本ダメージが"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "61EF5": {
+    "name": "消火",
+    "description": [
+      {
+        "type": "text",
+        "content": "メイン攻撃と"
+      },
+      {
+        "type": "strong",
+        "content": "[ブリザード]"
+      },
+      {
+        "type": "text",
+        "content": "で炎上を除去できる"
+      }
+    ]
+  },
+  "61EF9": {
+    "name": "アイス・バー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クリオフリーズ]"
+      },
+      {
+        "type": "text",
+        "content": "の持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "長くなる"
+      }
+    ]
+  },
+  "61EF1": {
+    "name": "氷冠",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[アイス・ウォール]"
+      },
+      {
+        "type": "text",
+        "content": "の持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "、ライフが"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "61EEF": {
+    "name": "フロスト・アーマー",
+    "description": [
+      {
+        "type": "text",
+        "content": "メイン攻撃で与えたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "分のアーマーをラウンド終了時まで得る。最大"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "獲得"
+      }
+    ]
+  },
+  "61EE7": {
+    "name": "スノーボール",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[凍結ブラスター]"
+      },
+      {
+        "type": "text",
+        "content": "（サブ攻撃）の氷が雪玉に変わり、クリティカル・ヒットすると、敵の動きが"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "間"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "遅くなる"
+      }
+    ]
+  },
+  "61EE8": {
+    "name": "エクステンド・サーミクス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[凍結ブラスター]"
+      },
+      {
+        "type": "text",
+        "content": "（メイン攻撃）の射程が"
+      },
+      {
+        "type": "number",
+        "content": "6メートル"
+      },
+      {
+        "type": "text",
+        "content": "長くなる"
+      }
+    ]
+  },
+  "61EE9": {
+    "name": "永久凍土",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフの最大値がアビリティ・パワー"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "分増える"
+      }
+    ]
+  },
+  "61EE5": {
+    "name": "スノーボール・フライト",
+    "description": [
+      {
+        "type": "text",
+        "content": "空中でジャンプすると、大きな"
+      },
+      {
+        "type": "strong",
+        "content": "[アイス・ウォール]"
+      },
+      {
+        "type": "text",
+        "content": "の柱が足元に形成される。クールダウンは"
+      },
+      {
+        "type": "number",
+        "content": "12秒"
+      }
+    ]
+  },
+  "61EEA": {
+    "name": "氷山",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[アイス・ウォール]"
+      },
+      {
+        "type": "text",
+        "content": "の展開時に、敵の移動速度を遅くする小規模な"
+      },
+      {
+        "type": "strong",
+        "content": "[ブリザード]"
+      },
+      {
+        "type": "text",
+        "content": "が発生する"
+      }
+    ]
+  },
+  "61EF0": {
+    "name": "ダブル・アイス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クリオフリーズ]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、次に使う"
+      },
+      {
+        "type": "strong",
+        "content": "[アイス・ウォール]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンがリセットされる"
+      }
+    ]
+  },
+  "61EEB": {
+    "name": "サイクロン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クリオフリーズ]"
+      },
+      {
+        "type": "text",
+        "content": "の展開時に、敵の移動速度を遅くする小規模な"
+      },
+      {
+        "type": "strong",
+        "content": "[ブリザード]"
+      },
+      {
+        "type": "text",
+        "content": "が発生する"
+      }
+    ]
+  },
+  "61EEE": {
+    "name": "フロスト・ノヴァ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クリオフリーズ]"
+      },
+      {
+        "type": "text",
+        "content": "の終了と同時に付近の敵をノックバックし、ダメージを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "60"
+      },
+      {
+        "type": "text",
+        "content": "与える"
+      }
+    ]
+  },
+  "61EE6": {
+    "name": "コールダー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クリオフリーズ]"
+      },
+      {
+        "type": "text",
+        "content": "の氷の塊が転がる雪玉に変わり、敵に体当たりすると、"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": "のダメージとノックバックが発生する"
+      }
+    ]
+  },
+  "61EED": {
+    "name": "ヒーリング・ブリザード",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブリザード]"
+      },
+      {
+        "type": "text",
+        "content": "内にいる間、ライフが毎秒"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "61EEC": {
+    "name": "アバランチ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブリザード]"
+      },
+      {
+        "type": "text",
+        "content": "の中心から"
+      },
+      {
+        "type": "number",
+        "content": "20メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内にいる、視界内の敵の動きが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "遅くなる"
+      }
+    ]
+  }
+}

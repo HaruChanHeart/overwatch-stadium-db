@@ -1,0 +1,617 @@
+{
+  "61F4E": {
+    "name": "ハイブリッド・バッテリー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "の残量が"
+      },
+      {
+        "type": "number",
+        "content": "20"
+      },
+      {
+        "type": "text",
+        "content": "を下回らなくなる"
+      }
+    ]
+  },
+  "61F50": {
+    "name": "軽量ランチャー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[パーティクル・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "（サブ攻撃）を連続で撃つと、弾薬の消費が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "減る。最大"
+      },
+      {
+        "type": "number",
+        "content": "60%"
+      },
+      {
+        "type": "text",
+        "content": "減少し、リロードでリセットされる"
+      }
+    ]
+  },
+  "61F4B": {
+    "name": "ビッグ・ビーム",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[パーティクル・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "（メイン攻撃）の射程が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "長くなる"
+      }
+    ]
+  },
+  "61F4D": {
+    "name": "ビヨンド・バリア",
+    "extras": [
+      {
+        "content": "[バリア・ショット]射程"
+      }
+    ]
+  },
+  "5B229": {
+    "name": "リンクス・データドライブ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・ショット]"
+      },
+      {
+        "type": "text",
+        "content": "を味方"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人に与えるごとに、"
+      },
+      {
+        "type": "strong",
+        "content": "[バリア]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "61F52": {
+    "name": "超電導ユニット",
+    "extras": [
+      {
+        "content": "[バリア]持続時間"
+      }
+    ]
+  },
+  "61F4C": {
+    "name": "対爆ブーツ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[パーティクル・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "（サブ攻撃）の自分へのノックバックが"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "増え、自爆ダメージがなくなる"
+      }
+    ]
+  },
+  "61F51": {
+    "name": "プロテイン・シェイク",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[パーティクル・バリア]"
+      },
+      {
+        "type": "text",
+        "content": "の展開中、動きの妨害を受け付けなくなるうえ、"
+      },
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "で敵をノックバックできる"
+      }
+    ]
+  },
+  "61F4F": {
+    "name": "ジャンプ・スタート",
+    "description": [
+      {
+        "type": "text",
+        "content": "シールドの回復が"
+      },
+      {
+        "type": "strong",
+        "content": "[バリア]"
+      },
+      {
+        "type": "text",
+        "content": "の使用直後から始まる"
+      }
+    ]
+  },
+  "61F4A": {
+    "name": "貫通ビーム",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": "を上回っている間、"
+      },
+      {
+        "type": "strong",
+        "content": "[パーティクル・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "（メイン攻撃）のビームが敵を貫通する"
+      }
+    ]
+  },
+  "5B228": {
+    "name": "パーティクル・アクセラレーター",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[パーティクル・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "（サブ攻撃）の攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。いずれかのアビリティを使用すると、"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、このボーナスは"
+      },
+      {
+        "type": "number",
+        "content": "4"
+      },
+      {
+        "type": "text",
+        "content": "倍になる"
+      }
+    ]
+  },
+  "5B232": {
+    "name": "リミット・ブレイカー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "の最大値が"
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": "まで増える。"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "の残量が"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "より高い時は常に、エネルギーが"
+      },
+      {
+        "type": "number",
+        "content": "150%"
+      },
+      {
+        "type": "text",
+        "content": "速い速度で減少する"
+      }
+    ]
+  },
+  "5B22A": {
+    "name": "プレ・ワークアウト",
+    "description": [
+      {
+        "type": "text",
+        "content": "武器とアビリティに、"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "の"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "に相当するライフ吸収能力が付く"
+      }
+    ]
+  },
+  "5B22F": {
+    "name": "バイオティック・シールド",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア]"
+      },
+      {
+        "type": "text",
+        "content": "で対象のライフが"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "回復し、持続中、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上昇する。回復量は"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "に応じて増加"
+      }
+    ]
+  },
+  "5B22B": {
+    "name": "あたしが見守っている",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・ショット]"
+      },
+      {
+        "type": "text",
+        "content": "を与えた相手の元へと引っ張られ、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけてライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "5B22D": {
+    "name": "バリア・ベネフィット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア]"
+      },
+      {
+        "type": "text",
+        "content": "の持続時間が終わると"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、バリアの残りライフ"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフをターゲットに与える"
+      }
+    ]
+  },
+  "61F47": {
+    "name": "ヴォルスカヤ・ヴォルテックス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア]"
+      },
+      {
+        "type": "text",
+        "content": "展開後、最初の"
+      },
+      {
+        "type": "strong",
+        "content": "[パーティクル・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "（サブ攻撃）で、相手の動きを遅くする渦を発生させ、"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "61F48": {
+    "name": "核分裂フィールド",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・ショット]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "10メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内にいるもう"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人の味方の周囲にも発生する。ただし、持続時間は"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "短い"
+      }
+    ]
+  },
+  "61F49": {
+    "name": "ライフ・リフト",
+    "description": [
+      {
+        "type": "text",
+        "content": "+"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[パーティクル・バリア]"
+      },
+      {
+        "type": "text",
+        "content": "サイズ "
+      },
+      {
+        "type": "strong",
+        "content": "[パーティクル・バリア]"
+      },
+      {
+        "type": "text",
+        "content": "のライフが、ライフ最大値のボーナスの"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "分増える"
+      }
+    ]
+  },
+  "5B22C": {
+    "name": "大胸筋",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア]"
+      },
+      {
+        "type": "text",
+        "content": "の周囲"
+      },
+      {
+        "type": "number",
+        "content": "5メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内にいる敵を毎秒ノックバック攻撃する。ダメージは"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "で、"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "に応じて増加"
+      }
+    ]
+  },
+  "5B231": {
+    "name": "グラビトン・アノマリー",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメットのコストが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "減り"
+      },
+      {
+        "type": "strong",
+        "content": "[グラビトン・サージ]"
+      },
+      {
+        "type": "text",
+        "content": "の基礎ダメージが"
+      },
+      {
+        "type": "number",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "に増える。ダメージは"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー]"
+      },
+      {
+        "type": "text",
+        "content": "に応じて増えるが、持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  }
+}

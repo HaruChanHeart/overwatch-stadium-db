@@ -1,0 +1,698 @@
+{
+  "60E16": {
+    "name": "군주의 칙령",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[지휘의 외침]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E18": {
+    "name": "명치 펀치 건틀릿",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[톱니칼]"
+      },
+      {
+        "type": "text",
+        "content": "을 들고 있지 않을 때, "
+      },
+      {
+        "type": "strong",
+        "content": "[빠른 근접 공격]"
+      },
+      {
+        "type": "text",
+        "content": " 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고 대상을 밀쳐냅니다."
+      }
+    ]
+  },
+  "60E14": {
+    "name": "찢고 이끌기",
+    "description": [
+      {
+        "type": "text",
+        "content": "적에게 "
+      },
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": "를 입히면 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "4초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "3회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ]
+  },
+  "60E17": {
+    "name": "블러드하운드 가면",
+    "description": [
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내 "
+      },
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": " 입은 적 하나당 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "의 무기 공격력을 얻습니다."
+      }
+    ]
+  },
+  "60E0F": {
+    "name": "더 큰 자석",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[톱니칼]"
+      },
+      {
+        "type": "text",
+        "content": "의 당기기 강도가 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E10": {
+    "name": "땜장이 운동복",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": "과 "
+      },
+      {
+        "type": "strong",
+        "content": "[살육]"
+      },
+      {
+        "type": "text",
+        "content": "이 적중하면 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "4초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E15": {
+    "name": "우렁찬 목소리",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[지휘의 외침]"
+      },
+      {
+        "type": "text",
+        "content": "이 시야 밖에 있는 아군에게 영향을 줍니다."
+      }
+    ],
+    "extras": [
+      {
+        "content": "[지휘의 외침] 반경"
+      }
+    ]
+  },
+  "61EE2": {
+    "name": "데즈의 피해 완충기",
+    "description": [
+      {
+        "type": "text",
+        "content": "밀려나면 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ],
+    "extras": [
+      {
+        "content": "밀쳐내기 저항"
+      }
+    ]
+  },
+  "60E12": {
+    "name": "마구잡이 절단",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": "를 입은 적에게서 "
+      },
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내에 있을 때 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": ", 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EE3": {
+    "name": "반항 정신",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": "가 만료가 아니라 제거될 경우, 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "만큼을 추가 생명력으로 얻습니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ]
+  },
+  "60E0E": {
+    "name": "꺾이지 않은 충절",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[지휘의 외침]"
+      },
+      {
+        "type": "text",
+        "content": "의 영향을 받는 아군을 매초 정커퀸 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ],
+    "extras": [
+      {
+        "content": "지휘의 외침 추가 생명력"
+      }
+    ]
+  },
+  "60E11": {
+    "name": "단단한 해골",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[살육]"
+      },
+      {
+        "type": "text",
+        "content": " 또는 "
+      },
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": " 시전 중 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "의 피해 감소를 얻습니다."
+      }
+    ]
+  },
+  "60E13": {
+    "name": "스캐빈저 고철",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": "과 "
+      },
+      {
+        "type": "strong",
+        "content": "[톱니칼]"
+      },
+      {
+        "type": "text",
+        "content": "이 명중해 피해를 주면 준 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 얻습니다."
+      }
+    ]
+  },
+  "5B23C": {
+    "name": "전투의 전율",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[아드레날린 촉진]"
+      },
+      {
+        "type": "text",
+        "content": "이 자신 치유량의 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 "
+      },
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내의 아군 또한 치유합니다."
+      }
+    ]
+  },
+  "5B239": {
+    "name": "고귀한 총알",
+    "description": [
+      {
+        "type": "number",
+        "content": "12미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내의 적에게 "
+      },
+      {
+        "type": "strong",
+        "content": "[산탄총]"
+      },
+      {
+        "type": "text",
+        "content": "이 치명타로 적중하면, "
+      },
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": "를 입히고 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": "에 걸쳐 "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  "5B23B": {
+    "name": "칼 꽂아 비틀기",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[산탄총]"
+      },
+      {
+        "type": "text",
+        "content": " 치명타 적중 시, 대상의 모든 "
+      },
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": " 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "0.5초"
+      },
+      {
+        "type": "text",
+        "content": " 연장됩니다."
+      }
+    ]
+  },
+  "5B23A": {
+    "name": "그레이시, 베어 버려!",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[톱니칼]"
+      },
+      {
+        "type": "text",
+        "content": "이 돌아오는 중 적에게 적중할 때마다 톱니칼 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "씩 감소합니다."
+      }
+    ]
+  },
+  "5B237": {
+    "name": "칼의 행진",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[톱니칼]"
+      },
+      {
+        "type": "text",
+        "content": "을 들고 있으면 충전되어 피해가 최대 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "까지 증가하고 대상을 밀쳐냅니다."
+      }
+    ]
+  },
+  "5B23F": {
+    "name": "무자비한 자력",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[지휘의 외침]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[톱니칼]"
+      },
+      {
+        "type": "text",
+        "content": "이 대상에게 유도됩니다."
+      }
+    ]
+  },
+  "5B234": {
+    "name": "이기고 돌아오자",
+    "description": [
+      {
+        "type": "text",
+        "content": "처치 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[지휘의 외침]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간을 초기화합니다."
+      }
+    ]
+  },
+  "5B236": {
+    "name": "청산자의 포효",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[지휘의 외침]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시, "
+      },
+      {
+        "type": "number",
+        "content": "10미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내의 적에게 "
+      },
+      {
+        "type": "strong",
+        "content": "[상처]"
+      },
+      {
+        "type": "text",
+        "content": "를 입히고 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": "에 걸쳐 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  "5B23E": {
+    "name": "비상하는 돌",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": " 시전 중 점프하면 도륙이 도약 강타가 됩니다."
+      }
+    ]
+  },
+  "5B238": {
+    "name": "빨리빨리",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": " 충전 횟수가 "
+      },
+      {
+        "type": "number",
+        "content": "1회"
+      },
+      {
+        "type": "text",
+        "content": " 증가하지만, 적중당 재사용 대기시간 감소가 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "로 감소합니다."
+      }
+    ]
+  },
+  "5B23D": {
+    "name": "고개를 조아려라",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[살육]"
+      },
+      {
+        "type": "text",
+        "content": "이 적중한 적을 "
+      },
+      {
+        "type": "number",
+        "content": "1.5초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 넘어뜨립니다."
+      }
+    ]
+  },
+  "5B235": {
+    "name": "피의 광란",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[살육]"
+      },
+      {
+        "type": "text",
+        "content": "과 "
+      },
+      {
+        "type": "strong",
+        "content": "[도륙]"
+      },
+      {
+        "type": "text",
+        "content": "이 적중할 때마다 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "만큼을 추가 생명력으로 얻습니다."
+      }
+    ]
+  }
+}

@@ -1,0 +1,674 @@
+{
+  "61BCF": {
+    "name": "B-Side Bop",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Soundwave]"
+      },
+      {
+        "type": "text",
+        "content": ", your next "
+      },
+      {
+        "type": "strong",
+        "content": "[Quick Melee]"
+      },
+      {
+        "type": "text",
+        "content": " grants decaying Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": " of damage dealt."
+      }
+    ]
+  },
+  "61BCD": {
+    "name": "Riff Repeater",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sonic Amplifier]"
+      },
+      {
+        "type": "text",
+        "content": " projectiles ricochet off walls "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " times."
+      }
+    ]
+  },
+  "61BD0": {
+    "name": "Nano Boop",
+    "description": [
+      {
+        "type": "text",
+        "content": "Environmental Kills grant "
+      },
+      {
+        "type": "strong",
+        "content": "[Nano Boost]"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BD2": {
+    "name": "#1 Single",
+    "description": [
+      {
+        "type": "text",
+        "content": "When allies leave your "
+      },
+      {
+        "type": "strong",
+        "content": "[Crossfade]"
+      },
+      {
+        "type": "text",
+        "content": " area, the effect lingers for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BD1": {
+    "name": "LoFly Beats",
+    "description": [
+      {
+        "type": "text",
+        "content": "While in "
+      },
+      {
+        "type": "strong",
+        "content": "[Speed Boost]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Soundwave]"
+      },
+      {
+        "type": "text",
+        "content": " also knocks you back."
+      }
+    ]
+  },
+  "61BD5": {
+    "name": "Airwaves",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sound Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " effectiveness is increased by "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " for every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Sound Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " is channeled, up to "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BD3": {
+    "name": "All-Out Auditiva",
+    "extras": [
+      {
+        "content": "[Amp It Up] Duration"
+      }
+    ]
+  },
+  "61BD6": {
+    "name": "Speed Skates",
+    "description": [
+      {
+        "type": "text",
+        "content": "After "
+      },
+      {
+        "type": "strong",
+        "content": "[Wallriding]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BD4": {
+    "name": "Hip Hop",
+    "description": [
+      {
+        "type": "text",
+        "content": "After "
+      },
+      {
+        "type": "strong",
+        "content": "[Wallriding]"
+      },
+      {
+        "type": "text",
+        "content": ", gain an additional jump while airborne."
+      }
+    ]
+  },
+  "5B244": {
+    "name": "Fast Forward",
+    "description": [
+      {
+        "type": "text",
+        "content": "While above "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed, increase damage by "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B243": {
+    "name": "Sonic Boom",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sonic Amplifier]"
+      },
+      {
+        "type": "text",
+        "content": " Damage heals all allies affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Crossfade]"
+      },
+      {
+        "type": "text",
+        "content": " equal to "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of damage dealt."
+      }
+    ]
+  },
+  "5B242": {
+    "name": "Signature Shift",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using an ability, your next "
+      },
+      {
+        "type": "strong",
+        "content": "[Sonic Amplifier]"
+      },
+      {
+        "type": "text",
+        "content": " shot shoots a volley of "
+      },
+      {
+        "type": "number",
+        "content": "6"
+      },
+      {
+        "type": "text",
+        "content": " ammo with "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " increased projectile size."
+      }
+    ]
+  },
+  "5B247": {
+    "name": "Mixtape",
+    "description": [
+      {
+        "type": "text",
+        "content": "When switching to "
+      },
+      {
+        "type": "strong",
+        "content": "[Healing Boost]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Crossfade]"
+      },
+      {
+        "type": "text",
+        "content": " heals for "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Crossfade]"
+      },
+      {
+        "type": "text",
+        "content": " healing for every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Speed Boost]"
+      },
+      {
+        "type": "text",
+        "content": " was active."
+      }
+    ]
+  },
+  "5B24B": {
+    "name": "Radio Edit",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Amp It Up]"
+      },
+      {
+        "type": "text",
+        "content": ", trigger a "
+      },
+      {
+        "type": "strong",
+        "content": "[Sound Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " with "
+      },
+      {
+        "type": "number",
+        "content": "85%"
+      },
+      {
+        "type": "text",
+        "content": " reduced Overhealth."
+      }
+    ]
+  },
+  "5B24A": {
+    "name": "Megaphone",
+    "description": [
+      {
+        "type": "text",
+        "content": "=+"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Amp It Up]"
+      },
+      {
+        "type": "text",
+        "content": " Duration While "
+      },
+      {
+        "type": "strong",
+        "content": "[Amp It Up]"
+      },
+      {
+        "type": "text",
+        "content": " is active, "
+      },
+      {
+        "type": "strong",
+        "content": "[Crossfade]"
+      },
+      {
+        "type": "text",
+        "content": " radius is increased by "
+      },
+      {
+        "type": "number",
+        "content": "150%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B240": {
+    "name": "Wallvibing",
+    "description": [
+      {
+        "type": "text",
+        "content": "While "
+      },
+      {
+        "type": "strong",
+        "content": "[Wallriding]"
+      },
+      {
+        "type": "text",
+        "content": " or airborne, gain temporary Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " of your life every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": ", up to "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B245": {
+    "name": "Vivace",
+    "description": [
+      {
+        "type": "text",
+        "content": "While "
+      },
+      {
+        "type": "strong",
+        "content": "[Wallriding]"
+      },
+      {
+        "type": "text",
+        "content": " or airborne, "
+      },
+      {
+        "type": "strong",
+        "content": "[Soundwave]"
+      },
+      {
+        "type": "text",
+        "content": " cooldown refreshes "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " faster and adds "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " Max Ammo per "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " until you reload."
+      }
+    ]
+  },
+  "5B248": {
+    "name": "Crowd Pleaser",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Soundwave]"
+      },
+      {
+        "type": "text",
+        "content": ", heal all allies affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Crossfade]"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Crossfade]"
+      },
+      {
+        "type": "text",
+        "content": " healing."
+      }
+    ]
+  },
+  "5B241": {
+    "name": "Reverb",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " extra charge of "
+      },
+      {
+        "type": "strong",
+        "content": "[Soundwave]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B246": {
+    "name": "Let's Bounce",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Soundwave]"
+      },
+      {
+        "type": "text",
+        "content": " has "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " increased knockback and deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "40"
+      },
+      {
+        "type": "text",
+        "content": " bonus damage if the target hits a wall."
+      }
+    ]
+  },
+  "5B249": {
+    "name": "Beat Drop",
+    "description": [
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Cost Reduction. Landing on an enemy with "
+      },
+      {
+        "type": "strong",
+        "content": "[Sound Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " deals up to "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": " damage."
+      }
+    ]
+  }
+}

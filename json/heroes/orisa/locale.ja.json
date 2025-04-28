@@ -1,0 +1,607 @@
+{
+  "60E8A": {
+    "name": "強化ターゲット・センサー",
+    "description": [
+      {
+        "type": "number",
+        "content": "12メートル"
+      },
+      {
+        "type": "text",
+        "content": "より離れている敵に対するダメージが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "60E8B": {
+    "name": "放熱効率アップ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[オーバーヒート]"
+      },
+      {
+        "type": "text",
+        "content": "からのリカバリー速度が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E89": {
+    "name": "エネルギー最適化",
+    "description": [
+      {
+        "type": "text",
+        "content": "クリティカル・ヒットすると、"
+      },
+      {
+        "type": "strong",
+        "content": "[熱量]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "60E84": {
+    "name": "次世代手首ユニット"
+  },
+  "60E87": {
+    "name": "会心の投擲",
+    "description": [
+      {
+        "type": "number",
+        "content": "12メートル"
+      },
+      {
+        "type": "text",
+        "content": "より離れている敵への"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー・ジャベリン]"
+      },
+      {
+        "type": "text",
+        "content": "のダメージが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "61EE4": {
+    "name": "反射プレート",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ジャベリン・スピン]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、オリーサが受けるビームのダメージが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "60E86": {
+    "name": "エフィの法則"
+  },
+  "60E8E": {
+    "name": "3Dプリンテッド・ランス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エネルギー・ジャベリン]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる。ただし、ジャベリンを使うたびに、"
+      },
+      {
+        "type": "strong",
+        "content": "[熱量]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "60E88": {
+    "name": "ヘリコプター・ブレード",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ジャベリン・スピン]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、飛行できるようになり、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E8C": {
+    "name": "チャージ・シークエンス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フォーティファイ]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、ライフ最大値"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る"
+      }
+    ]
+  },
+  "60E85": {
+    "name": "ソーラー・リチャージ",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、ライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "分、アーマーが回復する"
+      }
+    ]
+  },
+  "60E8F": {
+    "name": "ジャベリン・グラスプ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エネルギー・ジャベリン]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えると、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて最大ライフ値の"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60E8D": {
+    "name": "ホログラム・ヘルメット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フォーティファイ]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、射線内にいる味方の移動も"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間妨害されなくなる"
+      }
+    ]
+  },
+  "5B1E4": {
+    "name": "焦土",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[オーバーヒート]"
+      },
+      {
+        "type": "text",
+        "content": "時、"
+      },
+      {
+        "type": "number",
+        "content": "6メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内にいる敵を炎上させ、"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて自身の最大ライフ値"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分の継続ダメージを与える"
+      }
+    ]
+  },
+  "5B1EB": {
+    "name": "シールド・プロジェクション",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[オーバーヒート]"
+      },
+      {
+        "type": "text",
+        "content": "時に、ライフが"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "600"
+      },
+      {
+        "type": "text",
+        "content": "のバリアを前方に展開する"
+      }
+    ]
+  },
+  "5B1E7": {
+    "name": "アドバンスト・スローボティクス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ジャベリン・スピン]"
+      },
+      {
+        "type": "text",
+        "content": "の使用時に、与えるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "少ない"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー・ジャベリン]"
+      },
+      {
+        "type": "text",
+        "content": "を投げる"
+      }
+    ]
+  },
+  "5B1E6": {
+    "name": "ホット・スピン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ジャベリン・スピン]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる。ただし、ジャベリンを使うたびに"
+      },
+      {
+        "type": "strong",
+        "content": "[熱量]"
+      },
+      {
+        "type": "text",
+        "content": "が増える"
+      }
+    ]
+  },
+  "5B1E9": {
+    "name": "スピン吸収",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ジャベリン・スピン]"
+      },
+      {
+        "type": "text",
+        "content": "で弾をはじき返し、与えたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "分、アルティメット・チャージを得る"
+      }
+    ]
+  },
+  "5B1E3": {
+    "name": "鋼鉄の蹄",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フォーティファイ]"
+      },
+      {
+        "type": "text",
+        "content": "の終了後、使用中に受けたダメージ"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "分のシールドを得る シールドは、"
+      },
+      {
+        "type": "strong",
+        "content": "[フォーティファイ]"
+      },
+      {
+        "type": "text",
+        "content": "を再び使うとリセットされる"
+      }
+    ]
+  },
+  "5B1E2": {
+    "name": "ジャベリン・リセット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フォーティファイ]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、"
+      },
+      {
+        "type": "strong",
+        "content": "[ジャベリン・スピン]"
+      },
+      {
+        "type": "text",
+        "content": "と"
+      },
+      {
+        "type": "strong",
+        "content": "[エネルギー・ジャベリン]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "5B1EC": {
+    "name": "リジェネ・フォーティファイ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フォーティファイ]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、毎秒ライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "5B1E5": {
+    "name": "騎馬隊突撃",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フォーティファイ]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、射線内にいる味方は移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "上がり、オリーサのライフ最大値"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る"
+      }
+    ]
+  },
+  "5B1E1": {
+    "name": "ジャベリン・キャプチャー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エネルギー・ジャベリン]"
+      },
+      {
+        "type": "text",
+        "content": "の着弾時、着弾地点の周囲"
+      },
+      {
+        "type": "number",
+        "content": "4メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内にいる敵がジャベリンへと引き寄せられる"
+      }
+    ]
+  },
+  "5B1EA": {
+    "name": "向心力アップ",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメットのコストが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "減る "
+      },
+      {
+        "type": "strong",
+        "content": "[テラ・サージ]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、アビリティのクールダウンがリセットされる"
+      }
+    ]
+  },
+  "5B1E8": {
+    "name": "スーパーチャージャー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[テラ・サージ]"
+      },
+      {
+        "type": "text",
+        "content": "使用時に、"
+      },
+      {
+        "type": "strong",
+        "content": "[スーパーチャージャー]"
+      },
+      {
+        "type": "text",
+        "content": "を設置し、 "
+      },
+      {
+        "type": "number",
+        "content": "15秒"
+      },
+      {
+        "type": "text",
+        "content": "間、付近の味方が与えるダメージを"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増やす"
+      }
+    ]
+  }
+}

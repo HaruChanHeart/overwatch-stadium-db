@@ -1,25 +1,6 @@
 [
   {
-    "name": "복합 배터리",
     "image": "61F4E",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[에너지]"
-      },
-      {
-        "type": "text",
-        "content": "가 "
-      },
-      {
-        "type": "number",
-        "content": "20"
-      },
-      {
-        "type": "text",
-        "content": " 아래로 떨어지지 않습니다."
-      }
-    ],
     "grade": 2,
     "stats": [
       {
@@ -29,34 +10,7 @@
     ]
   },
   {
-    "name": "빛 발사기",
     "image": "61F50",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[입자포]"
-      },
-      {
-        "type": "text",
-        "content": "를 연속으로 보조 발사하면 현재 탄창의 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 덜 소모합니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "60%"
-      },
-      {
-        "type": "text",
-        "content": ")."
-      }
-    ],
     "grade": 3,
     "stats": [
       {
@@ -66,26 +20,7 @@
     ]
   },
   {
-    "name": "더 큰 광선",
     "image": "61F4B",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[입자포]"
-      },
-      {
-        "type": "text",
-        "content": "의 기본 발사 사거리가 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "stats": [
       {

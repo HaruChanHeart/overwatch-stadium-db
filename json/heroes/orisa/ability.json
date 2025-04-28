@@ -1,6 +1,5 @@
 [
   {
-    "name": "특급 회전중개",
     "image": "60E84",
     "grade": 2,
     "stats": [
@@ -11,63 +10,16 @@
     ],
     "extras": [
       {
-        "value": "35%",
-        "content": "[수호의 창] 지속 시간"
+        "value": "35%"
       }
     ]
   },
   {
-    "name": "호 궤적 탐색기",
     "image": "60E87",
-    "description": [
-      {
-        "type": "number",
-        "content": "12미터"
-      },
-      {
-        "type": "text",
-        "content": "보다 멀리 있는 적에게 주는 "
-      },
-      {
-        "type": "strong",
-        "content": "[투창]"
-      },
-      {
-        "type": "text",
-        "content": " 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2
   },
   {
-    "name": "굴절 타일",
     "image": "61EE4",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[수호의 창]"
-      },
-      {
-        "type": "text",
-        "content": "이 활성화되어 있을 때 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": "의 광선 피해 감소를 얻습니다."
-      }
-    ],
     "grade": 2,
     "stats": [
       {
@@ -77,7 +29,6 @@
     ]
   },
   {
-    "name": "에피의 정리",
     "image": "60E86",
     "grade": 3,
     "stats": [
@@ -88,48 +39,12 @@
     ],
     "extras": [
       {
-        "value": "50%",
-        "content": "[방어 강화] 지속 시간"
+        "value": "50%"
       }
     ]
   },
   {
-    "name": "3D 프린팅 창",
     "image": "60E8E",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[투창]"
-      },
-      {
-        "type": "text",
-        "content": " 재사용 대기시간이 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 감소하지만, 사용할 때마다 "
-      },
-      {
-        "type": "number",
-        "content": "25"
-      },
-      {
-        "type": "text",
-        "content": "의 "
-      },
-      {
-        "type": "strong",
-        "content": "[열]"
-      },
-      {
-        "type": "text",
-        "content": "이 발생합니다."
-      }
-    ],
     "grade": 3,
     "stats": [
       {
@@ -139,26 +54,7 @@
     ]
   },
   {
-    "name": "올라델레콥터 칼날",
     "image": "60E88",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[수호의 창]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 중 자유롭게 비행할 수 있으며 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "stats": [
       {

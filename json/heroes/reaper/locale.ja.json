@@ -1,0 +1,627 @@
+{
+  "60E91": {
+    "name": "ゴースト・ショットシェル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[シャドウ・ステップ]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、弾薬が"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60E90": {
+    "name": "死神の猛攻",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘルファイア・ショットガン]"
+      },
+      {
+        "type": "text",
+        "content": "のショットが"
+      },
+      {
+        "type": "number",
+        "content": "3発"
+      },
+      {
+        "type": "text",
+        "content": "ごとに二丁同時撃ちになる。弾の追加消費はないが、与えるダメージは"
+      },
+      {
+        "type": "number",
+        "content": "80%"
+      },
+      {
+        "type": "text",
+        "content": "少ない"
+      }
+    ]
+  },
+  "60E99": {
+    "name": "影の住人",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[レイス・フォーム]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、"
+      },
+      {
+        "type": "strong",
+        "content": "[シャドウ・ステップ]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ],
+    "extras": [
+      {
+        "content": "[シャドウ・ステップ]発動所要時間"
+      }
+    ]
+  },
+  "60E94": {
+    "name": "破滅の亡霊"
+  },
+  "60E95": {
+    "name": "クラウド・コントロール",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デス・ブロッサム]"
+      },
+      {
+        "type": "text",
+        "content": "の射程内にいる敵"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人ごとに、アビリティ・パワーが"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "61EE0": {
+    "name": "死神は怯まず",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵がリーパーに与えた移動速度低下の効果が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "60E98": {
+    "name": "幽かな影",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "未満の間、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E96": {
+    "name": "破滅の輪舞",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デス・ブロッサム]"
+      },
+      {
+        "type": "text",
+        "content": "で敵を"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人キルするたびに、ライフが"
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "まで増加し、ラウンド終了時にリセットされる"
+      }
+    ]
+  },
+  "60E92": {
+    "name": "亡霊の翼",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[レイス・フォーム]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、飛行できるようになり、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E93": {
+    "name": "不屈の亡霊",
+    "extras": [
+      {
+        "content": "[レイス・フォーム]持続時間"
+      }
+    ]
+  },
+  "60E97": {
+    "name": "紅の外套",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[デス・ブロッサム]"
+      },
+      {
+        "type": "text",
+        "content": "を発動すると、ライフ最大値"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る"
+      }
+    ]
+  },
+  "5B19B": {
+    "name": "生気共有",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ザ・リーピング]"
+      },
+      {
+        "type": "text",
+        "content": "の回復効果が"
+      },
+      {
+        "type": "number",
+        "content": "10メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内の一番近くにいる味方にも及ぶようになり、リーパーが与えたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "相当を回復する"
+      }
+    ]
+  },
+  "5B198": {
+    "name": "死神の奇襲",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティの使用後、最初の攻撃を敵の背後から当てた場合、追加で"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "5B19D": {
+    "name": "こみ上げる衝動",
+    "description": [
+      {
+        "type": "text",
+        "content": "キルすると、クールダウンがリセットされる"
+      }
+    ]
+  },
+  "5B19F": {
+    "name": "精魂収穫",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘルファイア・ショットガン]"
+      },
+      {
+        "type": "text",
+        "content": "を敵に当てると、"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "の確率でソウル・グローブが出現する。ソウル・グローブを拾うと、ライフが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "、弾薬が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "回復し、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "5B1A0": {
+    "name": "亡霊の装弾",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[レイス・フォーム]"
+      },
+      {
+        "type": "text",
+        "content": "を使用すると、次のマガジン内の弾"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "ごとのペレット数が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増え、拡散率が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "5B1A3": {
+    "name": "破滅の輪舞",
+    "description": [
+      {
+        "type": "text",
+        "content": "近距離（"
+      },
+      {
+        "type": "number",
+        "content": "7メートル"
+      },
+      {
+        "type": "text",
+        "content": "）の敵に"
+      },
+      {
+        "type": "strong",
+        "content": "[ヘルファイア・ショットガン]"
+      },
+      {
+        "type": "text",
+        "content": "を当てると"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "8回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  },
+  "5B1A1": {
+    "name": "死神の爪痕",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "を当てた敵を"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間マークする。マークした敵を味方（自身を含む）が攻撃すると、ライフを"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "吸収できる"
+      }
+    ]
+  },
+  "5B19E": {
+    "name": "グレイブ・ステップ",
+    "description": [
+      {
+        "type": "text",
+        "content": "足音と"
+      },
+      {
+        "type": "strong",
+        "content": "[シャドウ・ステップ]"
+      },
+      {
+        "type": "text",
+        "content": "の音が大幅に小さくなる"
+      }
+    ]
+  },
+  "5B199": {
+    "name": "搾取の舞",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[シャドウ・ステップ]"
+      },
+      {
+        "type": "text",
+        "content": "の使用後"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、ライフ吸収量が"
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "倍になる"
+      }
+    ]
+  },
+  "5B19A": {
+    "name": "デス・ステップ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[シャドウ・ステップ]"
+      },
+      {
+        "type": "text",
+        "content": "使用後"
+      },
+      {
+        "type": "number",
+        "content": "1.5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、ダメージが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "少ない"
+      },
+      {
+        "type": "strong",
+        "content": "[デス・ブロッサム]"
+      },
+      {
+        "type": "text",
+        "content": "を発動する"
+      }
+    ]
+  },
+  "5B1A2": {
+    "name": "死霊復活",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[レイス・フォーム]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、毎秒ライフが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "回復する。ライフが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "を下回っている場合、回復量は"
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "倍になる"
+      }
+    ]
+  },
+  "5B19C": {
+    "name": "亡霊の吐息",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[レイス・フォーム]"
+      },
+      {
+        "type": "text",
+        "content": "中に敵を通過すると、その相手の移動速度と攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "下がる"
+      }
+    ]
+  }
+}

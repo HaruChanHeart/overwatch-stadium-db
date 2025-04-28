@@ -1,33 +1,6 @@
 [
   {
-    "name": "B사이드 비밥",
     "image": "61BCF",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[소리 파동]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 후 다음 "
-      },
-      {
-        "type": "strong",
-        "content": "[빠른 근접 공격]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 시 준 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "200%"
-      },
-      {
-        "type": "text",
-        "content": "만큼 점차 감소하는 추가 생명력을 얻습니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -42,26 +15,7 @@
     ]
   },
   {
-    "name": "리프 반복기",
     "image": "61BCD",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[음파 증폭기]"
-      },
-      {
-        "type": "text",
-        "content": " 투사체가 벽에서 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "번 튕깁니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [

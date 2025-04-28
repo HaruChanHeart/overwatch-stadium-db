@@ -1,0 +1,616 @@
+{
+  "60EAC": {
+    "name": "アイアンクラッド・クリート",
+    "extras": [
+      {
+        "content": "ノックバック抵抗力"
+      }
+    ]
+  },
+  "591CC": {
+    "name": "ダンパー・グリップ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ロケット・ハンマー]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えると、全アビリティのクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "591CE": {
+    "name": "プランZ",
+    "description": [
+      {
+        "type": "text",
+        "content": "失っているライフ"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "ごとに、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "上昇"
+      }
+    ]
+  },
+  "591CD": {
+    "name": "ブースト・リサイクラー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "が敵に阻止されると、同アビリティのクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "591D0": {
+    "name": "キメラ・ストライク"
+  },
+  "591CF": {
+    "name": "グリフォン・ライダー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "中に飛行できる"
+      }
+    ]
+  },
+  "591D5": {
+    "name": "ロケット・ストライク"
+  },
+  "591D2": {
+    "name": "クルセイダーの血清",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、すべての状態異常が消える"
+      }
+    ]
+  },
+  "591D4": {
+    "name": "ロケット・ブーツ",
+    "description": [
+      {
+        "type": "text",
+        "content": "しゃがみの長押しで、次のジャンプが最大"
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "高くなる"
+      }
+    ]
+  },
+  "591D6": {
+    "name": "オーバークロック・バリア",
+    "extras": [
+      {
+        "content": "[バリア・フィールド]サイズ"
+      }
+    ]
+  },
+  "591D3": {
+    "name": "フェニックス・プロトコル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "の回復速度が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "上がる バリアが壊れた後の回復が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "速く始まる"
+      }
+    ]
+  },
+  "591D1": {
+    "name": "バイタル・ジェネレーター",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "のライフが、ライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "分増える"
+      }
+    ]
+  },
+  "591DA": {
+    "name": "我が輩のもとへ！",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "の展開中、"
+      },
+      {
+        "type": "number",
+        "content": "5メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内の味方のライフが毎秒、ラインハルトのライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "591DF": {
+    "name": "バリア再生",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ロケット・ハンマー]"
+      },
+      {
+        "type": "text",
+        "content": "または"
+      },
+      {
+        "type": "strong",
+        "content": "[ファイア・ストライク]"
+      },
+      {
+        "type": "text",
+        "content": "で敵にダメージを与えると、"
+      },
+      {
+        "type": "strong",
+        "content": "[バリア・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "のライフが、シールドのライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "591D8": {
+    "name": "諸突猛進",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "の展開中、軽減したダメージの"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "分回復し、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "591E2": {
+    "name": "アンプリフィケーション・バリア",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バリア・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "を通過した味方の投射物のダメージが"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "591D7": {
+    "name": "シールド・チャージ",
+    "description": [
+      {
+        "type": "text",
+        "content": "+"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "ノックバック・パワー "
+      },
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "中、"
+      },
+      {
+        "type": "strong",
+        "content": "[バリア・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "が自動で展開する"
+      }
+    ]
+  },
+  "591DC": {
+    "name": "ブーン・ブン・ブン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "で壁に当たると爆発し、"
+      },
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "による叩きつけの"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "分のダメージを与える"
+      }
+    ]
+  },
+  "591D9": {
+    "name": "ヴァンガード",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[チャージ]"
+      },
+      {
+        "type": "text",
+        "content": "を使用すると、付近の味方がラインハルトのライフ最大値"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得て、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "591E0": {
+    "name": "マグマ・ストライク",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ファイア・ストライク]"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "以内に"
+      },
+      {
+        "type": "number",
+        "content": "2回"
+      },
+      {
+        "type": "text",
+        "content": "発射すると、"
+      },
+      {
+        "type": "number",
+        "content": "2発"
+      },
+      {
+        "type": "text",
+        "content": "目の軌道に沿ってマグマが広がり、同アビリティのダメージ"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "分の炎上ダメージを与える"
+      }
+    ]
+  },
+  "591DD": {
+    "name": "ブレイジング・ストライク",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[アース・シャター]"
+      },
+      {
+        "type": "text",
+        "content": "の発動後"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "strong",
+        "content": "[ロケット・ハンマー]"
+      },
+      {
+        "type": "text",
+        "content": "のスイングで"
+      },
+      {
+        "type": "strong",
+        "content": "[ファイア・ストライク]"
+      },
+      {
+        "type": "text",
+        "content": "を繰り出せる"
+      }
+    ]
+  },
+  "591DE": {
+    "name": "バースト・インパクト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ファイア・ストライク]"
+      },
+      {
+        "type": "text",
+        "content": "が最初に敵にヒットした際に爆発し、同アビリティの"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "のダメージを周囲"
+      },
+      {
+        "type": "number",
+        "content": "3メートル"
+      },
+      {
+        "type": "text",
+        "content": "に与える"
+      }
+    ]
+  },
+  "591E1": {
+    "name": "真っ赤に燃える！",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ロケット・ハンマー]"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "number",
+        "content": "3回"
+      },
+      {
+        "type": "text",
+        "content": "振るうごとに炎上効果が付き、追加で"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて"
+      },
+      {
+        "type": "strong",
+        "content": "[ロケット・ハンマー]"
+      },
+      {
+        "type": "text",
+        "content": "の"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "591DB": {
+    "name": "このカボチャ頭が！",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ロケット・ハンマー]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えると、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "上がり、武器に"
+      },
+      {
+        "type": "number",
+        "content": "4%"
+      },
+      {
+        "type": "text",
+        "content": "のライフ吸収効果が付く。最大"
+      },
+      {
+        "type": "number",
+        "content": "5回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  }
+}

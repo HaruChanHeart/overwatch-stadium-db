@@ -1,25 +1,6 @@
 [
   {
-    "name": "아사의 병기",
     "image": "60E1A",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[쿠나이]"
-      },
-      {
-        "type": "text",
-        "content": "가 표면에서 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "번 튕깁니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -30,38 +11,7 @@
     ]
   },
   {
-    "name": "원경 집중의 띠",
     "image": "60E25",
-    "description": [
-      {
-        "type": "text",
-        "content": "피해를 주면 "
-      },
-      {
-        "type": "strong",
-        "content": "[치유의 부적]"
-      },
-      {
-        "type": "text",
-        "content": " 투사체 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "5"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "200%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 5000,
     "stats": [
@@ -72,30 +22,7 @@
     ]
   },
   {
-    "name": "팀워크 수단",
     "image": "60E23",
-    "description": [
-      {
-        "type": "text",
-        "content": "아군을 치유하면 아군의 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 5000,
     "stats": [
@@ -106,22 +33,7 @@
     ]
   },
   {
-    "name": "료타의 재장전기",
     "image": "60E24",
-    "description": [
-      {
-        "type": "text",
-        "content": "기술 사용 후 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -132,7 +44,6 @@
     ]
   },
   {
-    "name": "혼령의 인도",
     "image": "60E19",
     "grade": 3,
     "cost": 12000,
@@ -144,8 +55,7 @@
     ],
     "extras": [
       {
-        "value": "100%",
-        "content": "[치유의 부적] 투사체 속도"
+        "value": "100%"
       }
     ]
   }

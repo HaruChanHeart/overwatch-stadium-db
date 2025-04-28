@@ -1,6 +1,5 @@
 [
   {
-    "name": "무기 기름칠",
     "image": "55E91",
     "grade": 1,
     "cost": 1000,
@@ -12,7 +11,6 @@
     ]
   },
   {
-    "name": "보정기",
     "image": "616BC",
     "grade": 1,
     "cost": 1000,
@@ -24,7 +22,6 @@
     ]
   },
   {
-    "name": "플라스마 전환기",
     "image": "616BD",
     "grade": 1,
     "cost": 1000,
@@ -36,43 +33,11 @@
     ]
   },
   {
-    "name": "광란 증폭기",
     "image": "610BD",
-    "description": [
-      {
-        "type": "text",
-        "content": "처치 시 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 공격 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": ", 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 1,
     "cost": 1500
   },
   {
-    "name": "탄약 보존",
     "image": "616B9",
     "grade": 1,
     "cost": 1500,
@@ -84,7 +49,6 @@
     ]
   },
   {
-    "name": "부품 시장 발사 핀",
     "image": "5A900",
     "grade": 2,
     "cost": 3750,
@@ -100,30 +64,7 @@
     ]
   },
   {
-    "name": "고급 나노생물학",
     "image": "5A91D",
-    "description": [
-      {
-        "type": "text",
-        "content": "아군 치유 후 공격 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -134,30 +75,7 @@
     ]
   },
   {
-    "name": "보호막 파쇄자",
     "image": "5A8F8",
-    "description": [
-      {
-        "type": "text",
-        "content": "보호막이나 방어력에 피해를 주면 공격 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -168,7 +86,6 @@
     ]
   },
   {
-    "name": "화약고",
     "image": "617BA",
     "grade": 2,
     "cost": 4000,
@@ -184,7 +101,6 @@
     ]
   },
   {
-    "name": "테크노흡혈",
     "image": "617BC",
     "grade": 2,
     "cost": 4500,
@@ -200,7 +116,6 @@
     ]
   },
   {
-    "name": "차가운 냉각수",
     "image": "610CD",
     "grade": 2,
     "cost": 5000,
@@ -216,7 +131,6 @@
     ]
   },
   {
-    "name": "탈론 개조 모듈",
     "image": "5A8FF",
     "grade": 2,
     "cost": 5000,
@@ -228,22 +142,7 @@
     ]
   },
   {
-    "name": "코드브레이커",
     "image": "5A912",
-    "description": [
-      {
-        "type": "text",
-        "content": "방어력의 피해 감소를 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": "만큼 무시합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9000,
     "stats": [
@@ -254,38 +153,7 @@
     ]
   },
   {
-    "name": "볼스카야 군수품",
     "image": "5A913",
-    "description": [
-      {
-        "type": "text",
-        "content": "내 영웅보다 대상의 최대 생명력이 높을 경우, 대상의 최대 생명력 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "당 무기 공격력이 "
-      },
-      {
-        "type": "number",
-        "content": "3%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": ")."
-      }
-    ],
     "grade": 3,
     "cost": 9500,
     "stats": [
@@ -296,30 +164,7 @@
     ]
   },
   {
-    "name": "회수 산탄",
     "image": "5A909",
-    "description": [
-      {
-        "type": "text",
-        "content": "방벽에 무기 피해를 주면 "
-      },
-      {
-        "type": "number",
-        "content": "40%"
-      },
-      {
-        "type": "text",
-        "content": " 확률로 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "1발"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9500,
     "stats": [
@@ -330,44 +175,12 @@
     ],
     "extras": [
       {
-        "value": "25%",
-        "content": "방벽에 대한 피해 증가"
+        "value": "30%"
       }
     ]
   },
   {
-    "name": "무기 재머",
     "image": "5A8E5",
-    "description": [
-      {
-        "type": "text",
-        "content": "무기 피해를 주면 "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 공격 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 증가하고 대상의 추가 공격 속도를 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 무효화합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -382,22 +195,7 @@
     ]
   },
   {
-    "name": "사령관의 탄창",
     "image": "5A905",
-    "description": [
-      {
-        "type": "text",
-        "content": "기술 사용 시 최대 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -412,38 +210,7 @@
     ]
   },
   {
-    "name": "강화광 가속기",
     "image": "617E1",
-    "description": [
-      {
-        "type": "text",
-        "content": "기술 사용 시 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "5%"
-      },
-      {
-        "type": "text",
-        "content": "의 무기 공격력을 얻습니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "3회"
-      },
-      {
-        "type": "text",
-        "content": " 중첩)."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [
@@ -458,30 +225,7 @@
     ]
   },
   {
-    "name": "부스터 제트",
     "image": "5A911",
-    "description": [
-      {
-        "type": "text",
-        "content": "기술 사용 시 "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [
@@ -492,30 +236,7 @@
     ]
   },
   {
-    "name": "아마리의 해독제",
     "image": "5A90D",
-    "description": [
-      {
-        "type": "text",
-        "content": "생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 미만인 아군을 무기로 치유하는 중, 무기 치유량이 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다"
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [
@@ -530,30 +251,7 @@
     ]
   },
   {
-    "name": "엘사카 제압기",
     "image": "5A8E4",
-    "description": [
-      {
-        "type": "text",
-        "content": "치명타 시 대상에게 "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "30%"
-      },
-      {
-        "type": "text",
-        "content": "의 치유 감소를 적용합니다."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [
@@ -564,22 +262,7 @@
     ]
   },
   {
-    "name": "종결자",
     "image": "5A919",
-    "description": [
-      {
-        "type": "text",
-        "content": "치명타가 대상을 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 드러냅니다."
-      }
-    ],
     "grade": 3,
     "cost": 13000,
     "stats": [
@@ -594,30 +277,7 @@
     ]
   },
   {
-    "name": "거미의 눈",
     "image": "617DE",
-    "description": [
-      {
-        "type": "text",
-        "content": "생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "30%"
-      },
-      {
-        "type": "text",
-        "content": " 미만인 적에게 주는 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 13500,
     "stats": [

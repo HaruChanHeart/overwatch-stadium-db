@@ -1,0 +1,475 @@
+{
+  "61EF8": {
+    "name": "눈장화",
+    "description": [
+      {
+        "type": "text",
+        "content": "얼어붙은 지면에서 메이의 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EF6": {
+    "name": "집중 눈보라",
+    "description": [
+      {
+        "type": "text",
+        "content": "최대 탄약이 "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하지만 재장전이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 더 오래 걸립니다."
+      }
+    ]
+  },
+  "61EF4": {
+    "name": "히말라야 모자",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": " 안에 있을 때 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EF7": {
+    "name": "굳건한 눈 요새",
+    "description": [
+      {
+        "type": "text",
+        "content": "생성한 얼음 기둥 하나당 기술 위력이 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EF3": {
+    "name": "탐사 기지 냉동 수면실",
+    "description": [
+      {
+        "type": "text",
+        "content": "빈사 상태일 때 "
+      },
+      {
+        "type": "strong",
+        "content": "[급속 빙결]"
+      },
+      {
+        "type": "text",
+        "content": "에 들어가 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "의 궁극기 충전을 얻습니다. 이 효과는 라운드당 한 번만 발생합니다."
+      }
+    ]
+  },
+  "61EF2": {
+    "name": "얼음 핏줄",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": " 기본 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EF5": {
+    "name": "냉점",
+    "description": [
+      {
+        "type": "text",
+        "content": "기본 발사와 "
+      },
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": "로 불태우기 효과를 제거할 수 있습니다."
+      }
+    ]
+  },
+  "61EF9": {
+    "name": "메이 고드름",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[급속 빙결]"
+      },
+      {
+        "type": "text",
+        "content": " 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EF1": {
+    "name": "얼음판",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[빙벽]"
+      },
+      {
+        "type": "text",
+        "content": " 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고 생명력이 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EEF": {
+    "name": "냉기 갑옷",
+    "description": [
+      {
+        "type": "text",
+        "content": "라운드가 끝날 때까지 준 기본 발사 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 방어력을 얻습니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ]
+  },
+  "61EE7": {
+    "name": "둔화 눈뭉치",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[냉각총]"
+      },
+      {
+        "type": "text",
+        "content": " 보조 발사 시 치명타로 적중하면, 적을 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 감속시키는 눈덩이를 발사합니다."
+      }
+    ]
+  },
+  "61EE8": {
+    "name": "연장 냉각",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[냉각총]"
+      },
+      {
+        "type": "text",
+        "content": " 기본 발사 거리가 "
+      },
+      {
+        "type": "number",
+        "content": "6미터"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EE9": {
+    "name": "영구 빙결",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 위력의 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 최대 생명력이 증가합니다."
+      }
+    ]
+  },
+  "61EE5": {
+    "name": "눈싸움",
+    "description": [
+      {
+        "type": "text",
+        "content": "공중에서 점프하면 아래에 거대한 "
+      },
+      {
+        "type": "strong",
+        "content": "[빙벽]"
+      },
+      {
+        "type": "text",
+        "content": " 기둥을 만듭니다. (재사용 대기시간 "
+      },
+      {
+        "type": "number",
+        "content": "12초"
+      },
+      {
+        "type": "text",
+        "content": ")"
+      }
+    ]
+  },
+  "61EEA": {
+    "name": "빙산",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[빙벽]"
+      },
+      {
+        "type": "text",
+        "content": "이 적을 감속시키는 소형 "
+      },
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": "를 생성합니다."
+      }
+    ]
+  },
+  "61EF0": {
+    "name": "얼음 두 배로",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[급속 빙결]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[빙벽]"
+      },
+      {
+        "type": "text",
+        "content": "의 다음 재사용 대기시간이 초기화됩니다."
+      }
+    ]
+  },
+  "61EEB": {
+    "name": "냉각 사이클론",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[급속 빙결]"
+      },
+      {
+        "type": "text",
+        "content": "이 적을 감속시키는 소형 "
+      },
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": "를 생성합니다."
+      }
+    ]
+  },
+  "61EEE": {
+    "name": "서릿발",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[급속 빙결]"
+      },
+      {
+        "type": "text",
+        "content": "이 끝나면 주위의 적을 밀쳐내 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "60"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  "61EE6": {
+    "name": "차가운 바위",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[급속 빙결]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 구르는 눈덩이가 주위를 감쌉니다. 눈덩이는 적을 밀쳐내고 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  "61EED": {
+    "name": "눈보라 토네이도",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": " 안에 있을 때 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "마다 생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 치유합니다."
+      }
+    ]
+  },
+  "61EEC": {
+    "name": "눈사태",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[눈보라]"
+      },
+      {
+        "type": "text",
+        "content": " 반경 "
+      },
+      {
+        "type": "number",
+        "content": "20미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내에 있는 보이는 적이 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 감속됩니다."
+      }
+    ]
+  }
+}

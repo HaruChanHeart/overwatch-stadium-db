@@ -1,61 +1,11 @@
 [
   {
-    "name": "공중 기동기",
     "image": "60E72",
-    "description": [
-      {
-        "type": "text",
-        "content": "공중에 떠 있을 때 다음을 얻습니다. "
-      },
-      {
-        "type": "number",
-        "content": "5%"
-      },
-      {
-        "type": "text",
-        "content": " 무기 공격력, "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 공격 속도"
-      }
-    ],
     "grade": 2,
     "cost": 4000
   },
   {
-    "name": "천상의 탄창",
     "image": "60E73",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[카두세우스 블라스터]"
-      },
-      {
-        "type": "text",
-        "content": "가 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 확률로 추가 탄약을 소모하지 않고 "
-      },
-      {
-        "type": "number",
-        "content": "1회"
-      },
-      {
-        "type": "text",
-        "content": " 추가 발사합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -70,7 +20,6 @@
     ]
   },
   {
-    "name": "카두세우스 연장기",
     "image": "60E75",
     "grade": 3,
     "cost": 10000,
@@ -82,8 +31,7 @@
     ],
     "extras": [
       {
-        "value": "33%",
-        "content": "[카두세우스 지팡이] 사거리"
+        "value": "33%"
       }
     ]
   }

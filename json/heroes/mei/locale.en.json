@@ -1,0 +1,495 @@
+{
+  "61EF8": {
+    "name": "Snowboot",
+    "description": [
+      {
+        "type": "text",
+        "content": "Frozen ground increases Mei's Movement Speed by "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61EF6": {
+    "name": "Focused Flurries",
+    "description": [
+      {
+        "type": "text",
+        "content": "Max Ammo is increased by "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " but reloading takes "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " longer."
+      }
+    ]
+  },
+  "61EF4": {
+    "name": "Himalayan Hat",
+    "description": [
+      {
+        "type": "text",
+        "content": "While within "
+      },
+      {
+        "type": "strong",
+        "content": "[Blizzard]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed."
+      }
+    ]
+  },
+  "61EF7": {
+    "name": "Sturdy Snowfort",
+    "description": [
+      {
+        "type": "text",
+        "content": "Ability Power is increased by "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " per each spawned Ice Pillars."
+      }
+    ]
+  },
+  "61EF3": {
+    "name": "Ecopoint Cryobed",
+    "description": [
+      {
+        "type": "text",
+        "content": "On near death, go into "
+      },
+      {
+        "type": "strong",
+        "content": "[Cryo-Freeze]"
+      },
+      {
+        "type": "text",
+        "content": " and gain "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge. Can happen once every round."
+      }
+    ]
+  },
+  "61EF2": {
+    "name": "Icy Veins",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Blizzard]"
+      },
+      {
+        "type": "text",
+        "content": " deals "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " increased base damage."
+      }
+    ]
+  },
+  "61EF5": {
+    "name": "Coldspot",
+    "description": [
+      {
+        "type": "text",
+        "content": "Primary fire and "
+      },
+      {
+        "type": "strong",
+        "content": "[Blizzard]"
+      },
+      {
+        "type": "text",
+        "content": " can remove burn."
+      }
+    ]
+  },
+  "61EF9": {
+    "name": "Meicicle",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Cryo-Freeze]"
+      },
+      {
+        "type": "text",
+        "content": " duration is increased by "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61EF1": {
+    "name": "Ice Sheet",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Ice Wall]"
+      },
+      {
+        "type": "text",
+        "content": " Duration is increased by "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " and health is increased by "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61EEF": {
+    "name": "Frost Armor",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain Armor equal to "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " of the primary fire damage you deal, up to "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": ", until the end of the round."
+      }
+    ]
+  },
+  "61EE7": {
+    "name": "Slowball",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Endothermic Blaster]"
+      },
+      {
+        "type": "text",
+        "content": "'s secondary fire now shoots a snowball that applies "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " slow for "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " on critical hit."
+      }
+    ]
+  },
+  "61EE8": {
+    "name": "Extendothermics",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Endothermic Blaster]"
+      },
+      {
+        "type": "text",
+        "content": "'s primary fire range is increased by "
+      },
+      {
+        "type": "number",
+        "content": "6m"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61EE9": {
+    "name": "Permafrost",
+    "description": [
+      {
+        "type": "text",
+        "content": "Increase your max health by "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of your ability power."
+      }
+    ]
+  },
+  "61EE5": {
+    "name": "Snowball Flight",
+    "description": [
+      {
+        "type": "text",
+        "content": "Jumping while mid-air creates a large "
+      },
+      {
+        "type": "strong",
+        "content": "[Ice Wall]"
+      },
+      {
+        "type": "text",
+        "content": " pillar under you. ("
+      },
+      {
+        "type": "number",
+        "content": "12s"
+      },
+      {
+        "type": "text",
+        "content": " Cooldown)"
+      }
+    ]
+  },
+  "61EEA": {
+    "name": "Iceberg",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Ice Wall]"
+      },
+      {
+        "type": "text",
+        "content": " spawns a mini "
+      },
+      {
+        "type": "strong",
+        "content": "[Blizzard]"
+      },
+      {
+        "type": "text",
+        "content": " that slows enemies."
+      }
+    ]
+  },
+  "61EF0": {
+    "name": "Twice As Ice",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use "
+      },
+      {
+        "type": "strong",
+        "content": "[Cryo-Freeze]"
+      },
+      {
+        "type": "text",
+        "content": ", reset the next cooldown of "
+      },
+      {
+        "type": "strong",
+        "content": "[Ice Wall]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61EEB": {
+    "name": "Cryclone",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Cryo-Freeze]"
+      },
+      {
+        "type": "text",
+        "content": " spawns a mini "
+      },
+      {
+        "type": "strong",
+        "content": "[Blizzard]"
+      },
+      {
+        "type": "text",
+        "content": " that slows enemies."
+      }
+    ]
+  },
+  "61EEE": {
+    "name": "Frost Nova",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[Cryo-Freeze]"
+      },
+      {
+        "type": "text",
+        "content": " ends, knock back nearby enemies, dealing "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "60"
+      },
+      {
+        "type": "text",
+        "content": " damage."
+      }
+    ]
+  },
+  "61EE6": {
+    "name": "Coulder",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Cryo-Freeze]"
+      },
+      {
+        "type": "text",
+        "content": " now encases you in a rolling iceball that can knock back enemies and deal "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": " damage."
+      }
+    ]
+  },
+  "61EED": {
+    "name": "Blizznado",
+    "description": [
+      {
+        "type": "text",
+        "content": "While within "
+      },
+      {
+        "type": "strong",
+        "content": "[Blizzard]"
+      },
+      {
+        "type": "text",
+        "content": ", heal "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " of your life every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61EEC": {
+    "name": "Avalanche",
+    "description": [
+      {
+        "type": "text",
+        "content": "Visible enemies within "
+      },
+      {
+        "type": "number",
+        "content": "20m"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Blizzard]"
+      },
+      {
+        "type": "text",
+        "content": " are slowed by "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  }
+}

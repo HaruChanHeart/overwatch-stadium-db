@@ -1,0 +1,633 @@
+{
+  "61F4E": {
+    "name": "Hybrid Battery",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": " cannot be reduced below "
+      },
+      {
+        "type": "number",
+        "content": "20"
+      }
+    ]
+  },
+  "61F50": {
+    "name": "Light Launcher",
+    "description": [
+      {
+        "type": "text",
+        "content": "Consecutive "
+      },
+      {
+        "type": "strong",
+        "content": "[Particle Cannon]"
+      },
+      {
+        "type": "text",
+        "content": " secondary fire shots consume "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " less Ammo, up to "
+      },
+      {
+        "type": "number",
+        "content": "60%"
+      },
+      {
+        "type": "text",
+        "content": ", for your current magazine."
+      }
+    ]
+  },
+  "61F4B": {
+    "name": "Bigger Beam",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Particle Cannon]"
+      },
+      {
+        "type": "text",
+        "content": "'s primary fire range is increased by "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      }
+    ]
+  },
+  "61F4D": {
+    "name": "Beyond Barrier",
+    "extras": [
+      {
+        "content": "[Projected Barrier] Range"
+      }
+    ]
+  },
+  "5B229": {
+    "name": "Lynx's Datadrive",
+    "description": [
+      {
+        "type": "text",
+        "content": "Casting "
+      },
+      {
+        "type": "strong",
+        "content": "[Projected Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " on an ally refunds "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " Cooldown"
+      }
+    ]
+  },
+  "61F52": {
+    "name": "Superconductor",
+    "extras": [
+      {
+        "content": "[Barrier] Duration"
+      }
+    ]
+  },
+  "61F4C": {
+    "name": "Blastproof Boots",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Particle Cannon]"
+      },
+      {
+        "type": "text",
+        "content": "'s secondary fire self knockback is increased by "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " and no longer damages yourself."
+      }
+    ]
+  },
+  "61F51": {
+    "name": "Protein Shake",
+    "description": [
+      {
+        "type": "text",
+        "content": "While "
+      },
+      {
+        "type": "strong",
+        "content": "[Particle Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " is active, become unstoppable and "
+      },
+      {
+        "type": "strong",
+        "content": "[Quick Melee]"
+      },
+      {
+        "type": "text",
+        "content": " knocks back enemies."
+      }
+    ]
+  },
+  "61F4F": {
+    "name": "Jumper Cables",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using a "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier]"
+      },
+      {
+        "type": "text",
+        "content": ", start regenerating Shields instantly."
+      }
+    ]
+  },
+  "61F4A": {
+    "name": "Piercing Beam",
+    "description": [
+      {
+        "type": "text",
+        "content": "Above "
+      },
+      {
+        "type": "number",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Particle Cannon]"
+      },
+      {
+        "type": "text",
+        "content": "'s Primary Fire will pierce enemies."
+      }
+    ]
+  },
+  "5B228": {
+    "name": "Particle Accelerator",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "strong",
+        "content": "[Particle Cannon]"
+      },
+      {
+        "type": "text",
+        "content": "'s secondary fire. After using an ability, quadruple this bonus for "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B232": {
+    "name": "No Limits",
+    "description": [
+      {
+        "type": "text",
+        "content": "Maximum "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": " increased to "
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": ". "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": " always decays above "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": " at a "
+      },
+      {
+        "type": "number",
+        "content": "150%"
+      },
+      {
+        "type": "text",
+        "content": " faster rate."
+      }
+    ]
+  },
+  "5B22A": {
+    "name": "Pre-Workout",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain Weapon Lifesteal and Ability Lifesteal equal to "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B22F": {
+    "name": "Containment Shield",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " heals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " Life, increased by "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": ", and grants "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed while active."
+      }
+    ]
+  },
+  "5B22B": {
+    "name": "Here To Spot You",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Projected Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " pulls you to the targeted ally and heals you for "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " of Max Life over "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B22D": {
+    "name": "Barrier Benefits",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[Barriers]"
+      },
+      {
+        "type": "text",
+        "content": " expire, grant Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of remaining Barrier Health to the target for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      }
+    ]
+  },
+  "61F47": {
+    "name": "Volskaya Vortex",
+    "description": [
+      {
+        "type": "text",
+        "content": "After a "
+      },
+      {
+        "type": "strong",
+        "content": "[Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " is cast, "
+      },
+      {
+        "type": "strong",
+        "content": "[Particle Cannon]"
+      },
+      {
+        "type": "text",
+        "content": "'s next secondary fire spawns a slowing vortex that deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " damage over "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61F48": {
+    "name": "Fission Field",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Projected Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " also applies to "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " additional ally within "
+      },
+      {
+        "type": "number",
+        "content": "10m"
+      },
+      {
+        "type": "text",
+        "content": ", but has "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " reduced duration."
+      }
+    ]
+  },
+  "61F49": {
+    "name": "Lifelift",
+    "description": [
+      {
+        "type": "text",
+        "content": "+"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Particle Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " Size. Increase "
+      },
+      {
+        "type": "strong",
+        "content": "[Particle Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " Health by "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " of Bonus Max Life."
+      }
+    ]
+  },
+  "5B22C": {
+    "name": "Major Flex",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Barrier]"
+      },
+      {
+        "type": "text",
+        "content": " knocks back and deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " damage, increased by "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": ", to enemies within "
+      },
+      {
+        "type": "number",
+        "content": "5m"
+      },
+      {
+        "type": "text",
+        "content": " every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B231": {
+    "name": "Graviton Anomaly",
+    "description": [
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Cost Reduction "
+      },
+      {
+        "type": "strong",
+        "content": "[Graviton Surge]"
+      },
+      {
+        "type": "text",
+        "content": " base damage is increased to "
+      },
+      {
+        "type": "number",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " and increased by "
+      },
+      {
+        "type": "strong",
+        "content": "[Energy]"
+      },
+      {
+        "type": "text",
+        "content": ", but has "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " reduced duration."
+      }
+    ]
+  }
+}

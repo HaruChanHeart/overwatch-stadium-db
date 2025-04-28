@@ -1,30 +1,10 @@
 [
   {
-    "name": "이동역학",
     "image": "60E09",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[질풍참]"
-      },
-      {
-        "type": "text",
-        "content": "으로 피해를 주지 못하면 재사용 대기시간이 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ],
     "grade": 2,
     "cost": 3750
   },
   {
-    "name": "닌자 신발",
     "image": "60E06",
     "grade": 2,
     "cost": 4000,
@@ -36,13 +16,11 @@
     ],
     "extras": [
       {
-        "value": "15%",
-        "content": "[튕겨내기] 도중 이동 속도"
+        "value": "15%"
       }
     ]
   },
   {
-    "name": "쓸어버리기",
     "image": "60E0D",
     "grade": 3,
     "cost": 10000,
@@ -58,24 +36,12 @@
     ],
     "extras": [
       {
-        "value": "50%",
-        "content": "[질풍참] 너비"
+        "value": "50%"
       }
     ]
   },
   {
-    "name": "튕겨내는 질주",
     "image": "60E02",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[질풍참]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 중 날아오는 투사체를 조준선 방향으로 튕겨냅니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [

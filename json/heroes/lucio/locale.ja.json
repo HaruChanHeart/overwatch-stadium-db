@@ -1,0 +1,630 @@
+{
+  "61BCF": {
+    "name": "ビー・サイド・バップ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[サウンドウェーブ]"
+      },
+      {
+        "type": "text",
+        "content": "の使用後、次に当てた"
+      },
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "のダメージ"
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る。この追加ライフは、時間とともに減少する"
+      }
+    ]
+  },
+  "61BCD": {
+    "name": "リフ・リピーター",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ソニック・アンプリファイア]"
+      },
+      {
+        "type": "text",
+        "content": "の弾が、壁で"
+      },
+      {
+        "type": "number",
+        "content": "3回"
+      },
+      {
+        "type": "text",
+        "content": "まで跳ね返る"
+      }
+    ]
+  },
+  "61BD0": {
+    "name": "ナノ・プッシュ",
+    "description": [
+      {
+        "type": "text",
+        "content": "環境キルの達成後"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "strong",
+        "content": "[ナノ・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の効果を得る"
+      }
+    ]
+  },
+  "61BD2": {
+    "name": "No.1シングル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヒーリング・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "または"
+      },
+      {
+        "type": "strong",
+        "content": "[スピード・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の範囲から離れた味方に"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、ブーストを継続的に与える"
+      }
+    ]
+  },
+  "61BD1": {
+    "name": "Lo-Fiビート",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スピード・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "中に"
+      },
+      {
+        "type": "strong",
+        "content": "[サウンドウェーブ]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、自分もノックバックする"
+      }
+    ]
+  },
+  "61BD5": {
+    "name": "エアウェーブ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[サウンド・バリア]"
+      },
+      {
+        "type": "text",
+        "content": "の発動までの時間が"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "長くなるごとに、同アビリティの効果が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      }
+    ]
+  },
+  "61BD3": {
+    "name": "エクステンデッド・プレイ",
+    "extras": [
+      {
+        "content": "[アンプ・イット・アップ]持続時間"
+      }
+    ]
+  },
+  "61BD6": {
+    "name": "スピード・スケート",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ウォール・ライド]"
+      },
+      {
+        "type": "text",
+        "content": "後"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "61BD4": {
+    "name": "ヒップ・ホップ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ウォール・ライド]"
+      },
+      {
+        "type": "text",
+        "content": "後、空中でもう"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "ジャンプを繰り出せる"
+      }
+    ]
+  },
+  "5B244": {
+    "name": "早送り",
+    "description": [
+      {
+        "type": "text",
+        "content": "移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "を超えている間、与えるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B243": {
+    "name": "ソニック・ブーム",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ソニック・アンプリファイア]"
+      },
+      {
+        "type": "text",
+        "content": "で与えたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "分、"
+      },
+      {
+        "type": "strong",
+        "content": "[クロスフェード]"
+      },
+      {
+        "type": "text",
+        "content": "の効果を受けている味方のライフが回復する"
+      }
+    ]
+  },
+  "5B242": {
+    "name": "シグネチャー・シフト",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティの使用後、最初に放つ"
+      },
+      {
+        "type": "strong",
+        "content": "[ソニック・アンプリファイア]"
+      },
+      {
+        "type": "text",
+        "content": "のバースト・ショット数が"
+      },
+      {
+        "type": "number",
+        "content": "6"
+      },
+      {
+        "type": "text",
+        "content": "増え、弾のサイズが"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "大きくなる"
+      }
+    ]
+  },
+  "5B247": {
+    "name": "ミックス・テープ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヒーリング・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "に切り替えた際、"
+      },
+      {
+        "type": "strong",
+        "content": "[スピード・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "が持続した時間に応じてバースト回復が発生する。"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "当たりの回復量は、"
+      },
+      {
+        "type": "strong",
+        "content": "[ヒーリング・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の毎秒の回復量"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "に相当する"
+      }
+    ]
+  },
+  "5B24B": {
+    "name": "ラジオ・エディット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[アンプ・イット・アップ]"
+      },
+      {
+        "type": "text",
+        "content": "の使用後、追加ライフの量が"
+      },
+      {
+        "type": "number",
+        "content": "85%"
+      },
+      {
+        "type": "text",
+        "content": "少ない"
+      },
+      {
+        "type": "strong",
+        "content": "[サウンド・バリア]"
+      },
+      {
+        "type": "text",
+        "content": "が発動する"
+      }
+    ]
+  },
+  "5B24A": {
+    "name": "メガホン",
+    "description": [
+      {
+        "type": "text",
+        "content": "=+"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[アンプ・イット・アップ]"
+      },
+      {
+        "type": "text",
+        "content": "持続時間 "
+      },
+      {
+        "type": "strong",
+        "content": "[アンプ・イット・アップ]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、"
+      },
+      {
+        "type": "strong",
+        "content": "[クロスフェード]"
+      },
+      {
+        "type": "text",
+        "content": "の範囲が"
+      },
+      {
+        "type": "number",
+        "content": "150%"
+      },
+      {
+        "type": "text",
+        "content": "広がる"
+      }
+    ]
+  },
+  "5B240": {
+    "name": "ウォール・バイビング",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ウォール・ライド]"
+      },
+      {
+        "type": "text",
+        "content": "中または空中にいる間、"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "ごとに、ライフ"
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを一時的に得る。最大"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "獲得"
+      }
+    ]
+  },
+  "5B245": {
+    "name": "ヴィヴァーチェ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ウォール・ライド]"
+      },
+      {
+        "type": "text",
+        "content": "中または空中にいる間、"
+      },
+      {
+        "type": "strong",
+        "content": "[サウンドウェーブ]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "短くなり、リロードするまで"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "ごとに最大弾薬数が"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B248": {
+    "name": "ファン・サービス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[サウンドウェーブ]"
+      },
+      {
+        "type": "text",
+        "content": "を使用すると、"
+      },
+      {
+        "type": "strong",
+        "content": "[クロスフェード]"
+      },
+      {
+        "type": "text",
+        "content": "の範囲内にいる味方のライフが、"
+      },
+      {
+        "type": "strong",
+        "content": "[ヒーリング・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の回復量の"
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "5B241": {
+    "name": "リバーブ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[サウンドウェーブ]"
+      },
+      {
+        "type": "text",
+        "content": "のチャージ数が"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B246": {
+    "name": "レッツ・バウンス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[サウンドウェーブ]"
+      },
+      {
+        "type": "text",
+        "content": "のノックバックが"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "増加する。同アビリティで敵を壁に打ち付けると、"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "40"
+      },
+      {
+        "type": "text",
+        "content": "の追加ダメージを与える"
+      }
+    ]
+  },
+  "5B249": {
+    "name": "ビート・ドロップ",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメット・コストが"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "減る "
+      },
+      {
+        "type": "strong",
+        "content": "[サウンド・バリア]"
+      },
+      {
+        "type": "text",
+        "content": "で敵の頭上に着地すると、最大"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": "のダメージを与える"
+      }
+    ]
+  }
+}

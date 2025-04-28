@@ -1,0 +1,620 @@
+{
+  "61D3D": {
+    "name": "Vantage Shot",
+    "description": [
+      {
+        "type": "text",
+        "content": "While airborne, "
+      },
+      {
+        "type": "strong",
+        "content": "[Mediblaster]"
+      },
+      {
+        "type": "text",
+        "content": " deals "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " more damage."
+      }
+    ]
+  },
+  "61D3C": {
+    "name": "Pulse Spike",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Pulsar Torpedoes]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ],
+    "extras": [
+      {
+        "content": "[Pulsar Torpedoes] Projectile Speed"
+      }
+    ]
+  },
+  "61D39": {
+    "name": "Long Range Blaster",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Mediblaster]"
+      },
+      {
+        "type": "text",
+        "content": " deals "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " increased damage and healing to targets farther than "
+      },
+      {
+        "type": "number",
+        "content": "12m"
+      },
+      {
+        "type": "text",
+        "content": " away."
+      }
+    ]
+  },
+  "5B223": {
+    "name": "Gravitational Push",
+    "description": [
+      {
+        "type": "text",
+        "content": "During "
+      },
+      {
+        "type": "strong",
+        "content": "[Glide Boost]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed and your "
+      },
+      {
+        "type": "strong",
+        "content": "[Quick Melee]"
+      },
+      {
+        "type": "text",
+        "content": " knocks enemies back."
+      }
+    ]
+  },
+  "61D38": {
+    "name": "Lock-On Shield",
+    "description": [
+      {
+        "type": "text",
+        "content": "While aiming "
+      },
+      {
+        "type": "strong",
+        "content": "[Pulsar Torpedoes]"
+      },
+      {
+        "type": "text",
+        "content": ", gain Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Shields."
+      }
+    ]
+  },
+  "61D3E": {
+    "name": "Lux Loop"
+  },
+  "61D36": {
+    "name": "PulStar Destroyers",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Pulsar Torpedoes]"
+      },
+      {
+        "type": "text",
+        "content": " explode on hit, dealing "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "20"
+      },
+      {
+        "type": "text",
+        "content": " damage."
+      }
+    ]
+  },
+  "5B21D": {
+    "name": "Solar Shielding",
+    "description": [
+      {
+        "type": "text",
+        "content": "Allies affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Hyper Ring]"
+      },
+      {
+        "type": "text",
+        "content": " restore "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": " Shields every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61D3B": {
+    "name": "Red Promise Regulator",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use "
+      },
+      {
+        "type": "strong",
+        "content": "[Orbital Ray]"
+      },
+      {
+        "type": "text",
+        "content": ", reset your cooldowns."
+      }
+    ]
+  },
+  "61D37": {
+    "name": "Boosted Rockets",
+    "extras": [
+      {
+        "content": "[Glide Boost] Duration"
+      }
+    ]
+  },
+  "61D3F": {
+    "name": "Forti-Glide",
+    "description": [
+      {
+        "type": "text",
+        "content": "During "
+      },
+      {
+        "type": "strong",
+        "content": "[Glide Boost]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Damage Reduction."
+      }
+    ]
+  },
+  "61D3A": {
+    "name": "Sunburst Serum",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Orbital Ray]"
+      },
+      {
+        "type": "text",
+        "content": " gains "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " increased healing."
+      }
+    ]
+  },
+  "5B221": {
+    "name": "MediMaster",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Mediblaster]"
+      },
+      {
+        "type": "text",
+        "content": " can now critically hit both allies and enemies."
+      }
+    ]
+  },
+  "5B21F": {
+    "name": "Stinger",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Mediblaster]"
+      },
+      {
+        "type": "text",
+        "content": " deals an additional "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": " damage to enemies over "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": ". (Does not stack)."
+      }
+    ]
+  },
+  "5B227": {
+    "name": "Cosmic Coolant",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Pulsar Torpedoes]"
+      },
+      {
+        "type": "text",
+        "content": " cooldown is reduced by "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " for each target it hits."
+      }
+    ]
+  },
+  "5B21C": {
+    "name": "Medicinal Missiles",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Pulsar Torpedoes]"
+      },
+      {
+        "type": "text",
+        "content": " heal for an extra "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " life and causes allies hit to receive "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " more healing for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B222": {
+    "name": "Pulsar Plus",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Pulsar Torpedoes]"
+      },
+      {
+        "type": "text",
+        "content": " gains "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " additional charge."
+      }
+    ]
+  },
+  "5B220": {
+    "name": "Torpedo Glide",
+    "description": [
+      {
+        "type": "text",
+        "content": "During "
+      },
+      {
+        "type": "strong",
+        "content": "[Glide Boost]"
+      },
+      {
+        "type": "text",
+        "content": ", every "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " damage you deal reduces the cooldown of "
+      },
+      {
+        "type": "strong",
+        "content": "[Pulsar Torpedoes]"
+      },
+      {
+        "type": "text",
+        "content": " by "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5C307": {
+    "name": "Blink Boosts",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Glide Boost]"
+      },
+      {
+        "type": "text",
+        "content": " gains "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " additional charges and has a "
+      },
+      {
+        "type": "number",
+        "content": "65%"
+      },
+      {
+        "type": "text",
+        "content": " reduced cooldown, but has "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " reduced duration."
+      }
+    ]
+  },
+  "5B224": {
+    "name": "Black Hole",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Hyper Ring]"
+      },
+      {
+        "type": "text",
+        "content": " slows the Move Speed of enemies who pass through it by "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B226": {
+    "name": "Rally Ring",
+    "description": [
+      {
+        "type": "text",
+        "content": "Reduce "
+      },
+      {
+        "type": "strong",
+        "content": "[Hyper Ring]"
+      },
+      {
+        "type": "text",
+        "content": "'s cooldown by "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " when an ally passes through it."
+      }
+    ]
+  },
+  "5C306": {
+    "name": "Hyper Healer",
+    "description": [
+      {
+        "type": "text",
+        "content": "Allies affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Hyper Ring]"
+      },
+      {
+        "type": "text",
+        "content": " restore "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " Shields every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B225": {
+    "name": "Orbital Alignment",
+    "description": [
+      {
+        "type": "text",
+        "content": "Enemies inside of "
+      },
+      {
+        "type": "strong",
+        "content": "[Orbital Ray]"
+      },
+      {
+        "type": "text",
+        "content": " lose "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed. Allies inside of it gain "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed."
+      }
+    ]
+  },
+  "5B21E": {
+    "name": "Stellar Focus",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Orbital Ray]"
+      },
+      {
+        "type": "text",
+        "content": " now follows you and its duration is increased by "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  }
+}

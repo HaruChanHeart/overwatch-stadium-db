@@ -1,6 +1,5 @@
 [
   {
-    "name": "완벽해진 공식",
     "image": "60DD8",
     "grade": 2,
     "cost": 4000,
@@ -12,20 +11,12 @@
     ],
     "extras": [
       {
-        "value": "15%",
-        "content": "[나노 강화제] 지속 시간"
+        "value": "15%"
       }
     ]
   },
   {
-    "name": "질주 부츠",
     "image": "60DD4",
-    "description": [
-      {
-        "type": "text",
-        "content": "공중에서 점프하면 짧은 거리를 질주합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -36,26 +27,7 @@
     ]
   },
   {
-    "name": "수액 방울",
     "image": "60DD6",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[생체 수류탄]"
-      },
-      {
-        "type": "text",
-        "content": "의 효과가 적용된 상태에서 아나가 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 생명력을 얻습니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -66,26 +38,7 @@
     ]
   },
   {
-    "name": "호루스의 눈",
     "image": "60DDC",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[나노 강화제]"
-      },
-      {
-        "type": "text",
-        "content": "가 벽 저편의 아군을 대상으로 지정할 수 있으며, 사거리가 "
-      },
-      {
-        "type": "number",
-        "content": "60미터"
-      },
-      {
-        "type": "text",
-        "content": "로 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9000,
     "stats": [

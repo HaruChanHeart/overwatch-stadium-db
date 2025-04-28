@@ -1,0 +1,545 @@
+{
+  "60EB2": {
+    "name": "펄스 전환기",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 회복합니다."
+      }
+    ]
+  },
+  "60EAE": {
+    "name": "배터리 팩",
+    "extras": [
+      {
+        "content": "[생체장] 지속 시간"
+      }
+    ]
+  },
+  "60EAD": {
+    "name": "폭탄 해체 부츠",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": "으로 자신에게 피해를 주면 "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 추가로 밀려납니다."
+      }
+    ],
+    "extras": [
+      {
+        "content": "[나선 로켓] 자체 피해 감소"
+      }
+    ]
+  },
+  "60EB8": {
+    "name": "게임 종반 이퀄라이저",
+    "description": [
+      {
+        "type": "text",
+        "content": "궁극기 충전을 소모하면 모든 재사용 대기시간을 초기화합니다. "
+      },
+      {
+        "type": "strong",
+        "content": "[전술 조준경]"
+      },
+      {
+        "type": "text",
+        "content": "이 활성화되어 있는 동안 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "의 재사용 대기시간 감소를 얻습니다."
+      }
+    ]
+  },
+  "60EB0": {
+    "name": "고속 반응 반경",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": "이 생명력 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 미만인 아군을 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 추가로 치유합니다."
+      }
+    ],
+    "extras": [
+      {
+        "content": "[생체장] 반경"
+      }
+    ]
+  },
+  "60EB1": {
+    "name": "압축 피로",
+    "extras": [
+      {
+        "content": "[질주] 이동 속도"
+      }
+    ]
+  },
+  "60EB3": {
+    "name": "강철 폐",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[질주]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "마다 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 얻습니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ]
+  },
+  "5B1AB": {
+    "name": "슈퍼 조준경",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후 "
+      },
+      {
+        "type": "strong",
+        "content": "[전술 조준경]"
+      },
+      {
+        "type": "text",
+        "content": "을 "
+      },
+      {
+        "type": "number",
+        "content": "0.75초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 활성화합니다."
+      }
+    ]
+  },
+  "4FF97": {
+    "name": "주변 파동",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[전술 조준경]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 중, "
+      },
+      {
+        "type": "strong",
+        "content": "[펄스 소총]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "명의 적에게 추가로 발사해 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  "5B1AA": {
+    "name": "기관포",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[펄스 소총]"
+      },
+      {
+        "type": "text",
+        "content": "을 계속 발사하고 있는 동안 매 탄약이 "
+      },
+      {
+        "type": "number",
+        "content": "0.5%"
+      },
+      {
+        "type": "text",
+        "content": "의 무기 공격력을 부여합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "100회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ]
+  },
+  "5B1A9": {
+    "name": "도주 중인 사나이",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[질주]"
+      },
+      {
+        "type": "text",
+        "content": " 중 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "마다 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 회복하고, 재장전할 때까지 최대 탄약이 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "10회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ]
+  },
+  "5B1A4": {
+    "name": "이중 나선",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": "이 두 번째 유도 "
+      },
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": "을 발사해 "
+      },
+      {
+        "type": "number",
+        "content": "70%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 피해를 줍니다."
+      }
+    ]
+  },
+  "5B1AD": {
+    "name": "총 위에 앉기",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": "으로 피해를 주면 내 위치에 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "70%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": "을 생성합니다."
+      }
+    ]
+  },
+  "5B1A6": {
+    "name": "폭심지",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[나선 로켓]"
+      },
+      {
+        "type": "text",
+        "content": " 폭발 범위가 "
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고, 폭발 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B1A7": {
+    "name": "나에게로!",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": "이 활성화되어 있을 때 자신을 따라 움직이며, 최대 생명력이 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B1A5": {
+    "name": "물러나",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": " 안에 있는 적이 생체장 치유량의 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 피해를 받습니다."
+      }
+    ]
+  },
+  "5B1A8": {
+    "name": "생체 과녁",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": " 안에 있을 때 치명타를 적중시키면 최대 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "발 회복하고, "
+      },
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": " 지속 시간이 "
+      },
+      {
+        "type": "number",
+        "content": "0.5초"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": ")."
+      }
+    ]
+  },
+  "5B1AE": {
+    "name": "선봉대원",
+    "description": [
+      {
+        "type": "text",
+        "content": "생체장 생성 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": " 범위 내에 있는 아군이 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 내 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 얻습니다."
+      }
+    ]
+  },
+  "5B1AC": {
+    "name": "육상 경기",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[질주]"
+      },
+      {
+        "type": "text",
+        "content": " 중 "
+      },
+      {
+        "type": "strong",
+        "content": "[생체장]"
+      },
+      {
+        "type": "text",
+        "content": " 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "150%"
+      },
+      {
+        "type": "text",
+        "content": " 빠르게 충전됩니다."
+      }
+    ]
+  }
+}

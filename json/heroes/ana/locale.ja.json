@@ -1,0 +1,616 @@
+{
+  "60DD5": {
+    "name": "ターゲット・トラッカー",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵または味方"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人に"
+      },
+      {
+        "type": "strong",
+        "content": "[バイオティック・グレネード]"
+      },
+      {
+        "type": "text",
+        "content": "の影響が及ぶごとに、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "上昇"
+      }
+    ],
+    "extras": [
+      {
+        "content": "[バイオティック・グレネード]持続時間"
+      }
+    ]
+  },
+  "60DDE": {
+    "name": "改良弾",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・ライフル]"
+      },
+      {
+        "type": "text",
+        "content": "（スコープなし）の弾丸のサイズが"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "大きくなる"
+      }
+    ]
+  },
+  "60DD7": {
+    "name": "クイック・スコープ",
+    "description": [
+      {
+        "type": "text",
+        "content": "空中の敵に対するダメージが"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ],
+    "extras": [
+      {
+        "content": "スコープ速度アップ"
+      }
+    ]
+  },
+  "60DE0": {
+    "name": "リソース・マネージメント",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・ライフル]"
+      },
+      {
+        "type": "text",
+        "content": "（スコープなし）を撃つと、"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "の確率で弾を消費しない"
+      }
+    ],
+    "extras": [
+      {
+        "content": "最大弾薬数"
+      }
+    ]
+  },
+  "60DDF": {
+    "name": "ダブル・ドーズ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スリープ・ダーツ]"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "strong",
+        "content": "[バイオティック・グレネード]"
+      },
+      {
+        "type": "text",
+        "content": "の影響を受けている相手に当てると、"
+      },
+      {
+        "type": "strong",
+        "content": "[スリープ・ダーツ]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "60DDD": {
+    "name": "リーサル・ドーズ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スリープ・ダーツ]"
+      },
+      {
+        "type": "text",
+        "content": "が直撃すると、"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "のボーナス・ダメージを与える"
+      }
+    ]
+  },
+  "60DD9": {
+    "name": "トランキライザー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スリープ・ダーツ]"
+      },
+      {
+        "type": "text",
+        "content": "の当たり判定が"
+      },
+      {
+        "type": "number",
+        "content": "500%"
+      },
+      {
+        "type": "text",
+        "content": "、弾速が "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "、スリープ時間が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "アップする"
+      }
+    ]
+  },
+  "60DDA": {
+    "name": "クラスター・コア",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人に"
+      },
+      {
+        "type": "strong",
+        "content": "[バイオティック・グレネード]"
+      },
+      {
+        "type": "text",
+        "content": "がヒットするごとに、同アビリティのクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "60DDB": {
+    "name": "グレナディウス・ピン",
+    "extras": [
+      {
+        "content": "[バイオティック・グレネード]範囲"
+      }
+    ]
+  },
+  "60DD8": {
+    "name": "パーフェクト・フォーミュラ",
+    "extras": [
+      {
+        "content": "[ナノ・ブースト]持続時間"
+      }
+    ]
+  },
+  "60DD4": {
+    "name": "ダッシュ・ブーツ",
+    "description": [
+      {
+        "type": "text",
+        "content": "空中でジャンプすると、短い距離をダッシュする"
+      }
+    ]
+  },
+  "60DD6": {
+    "name": "静脈注射",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・グレネード]"
+      },
+      {
+        "type": "text",
+        "content": "の効果をアナ自身が受けると、"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "の追加ライフを得る"
+      }
+    ]
+  },
+  "60DDC": {
+    "name": "ホルスの目",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ナノ・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "が壁越しの味方を対象にできるようになり、射程が"
+      },
+      {
+        "type": "number",
+        "content": "60メートル"
+      },
+      {
+        "type": "text",
+        "content": "に長くなる"
+      }
+    ]
+  },
+  "5B1FD": {
+    "name": "タクティカル・ライフル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・ライフル]"
+      },
+      {
+        "type": "text",
+        "content": "のスコープ射撃に味方へのロックオン機能が付き、確実に命中させる"
+      }
+    ]
+  },
+  "5B1F9": {
+    "name": "ピンポイント処方",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・ライフル]"
+      },
+      {
+        "type": "text",
+        "content": "で敵と味方の両方にクリティカル・ヒットできる"
+      }
+    ]
+  },
+  "5B1FF": {
+    "name": "スコープなんて飾り",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・ライフル]"
+      },
+      {
+        "type": "text",
+        "content": "（スコープなし）のヒット後"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "3回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  },
+  "5B200": {
+    "name": "癒しのダーツ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スリープ・ダーツ]"
+      },
+      {
+        "type": "text",
+        "content": "が味方にも当たる。当たった味方は眠らず、"
+      },
+      {
+        "type": "number",
+        "content": "8秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて味方自身の最大ライフ値の"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "5B1FC": {
+    "name": "睡眠療法",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフを"
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "得る。また、敵を"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人眠らせるごとに、ライフを"
+      },
+      {
+        "type": "number",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": "得る。最大"
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": "獲得"
+      }
+    ]
+  },
+  "5B1FB": {
+    "name": "催眠ガス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スリープ・ダーツ]"
+      },
+      {
+        "type": "text",
+        "content": "が着弾時に爆発し、周囲"
+      },
+      {
+        "type": "number",
+        "content": "3メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内の敵にも当たる。ただし、スリープの持続時間は"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "短い"
+      }
+    ]
+  },
+  "5B202": {
+    "name": "家伝薬",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・グレネード]"
+      },
+      {
+        "type": "text",
+        "content": "が回復量"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを与える"
+      }
+    ]
+  },
+  "5B1FA": {
+    "name": "ヴェノム",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・グレネード]"
+      },
+      {
+        "type": "text",
+        "content": "の効果が続いている間、敵に追加で"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "5B201": {
+    "name": "タイム・アウト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・グレネード]"
+      },
+      {
+        "type": "text",
+        "content": "が敵をノックバックし、敵の移動速度を"
+      },
+      {
+        "type": "number",
+        "content": "1.5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "下げる"
+      }
+    ]
+  },
+  "5B203": {
+    "name": "私の番",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ナノ・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の効果が、通常の持続時間の"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "の間、自身にも適用される"
+      }
+    ]
+  },
+  "5B1FE": {
+    "name": "ポテンシャル最大化",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ナノ・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の対象に、アルティメット・チャージを"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "、追加ライフを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": "与える"
+      }
+    ]
+  },
+  "5B204": {
+    "name": "我らの番",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ナノ・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の効果が、射線内にいる他の味方にも及ぶ。ただし、その持続時間は"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "短い"
+      }
+    ]
+  }
+}

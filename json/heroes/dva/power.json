@@ -1,370 +1,38 @@
 [
   {
-    "name": "집중 융합",
-    "image": "5B1CD",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[융합포]"
-      },
-      {
-        "type": "text",
-        "content": " 산탄도가 "
-      },
-      {
-        "type": "number",
-        "content": "66%"
-      },
-      {
-        "type": "text",
-        "content": " 감소하고 피해 감소 거리가 "
-      },
-      {
-        "type": "number",
-        "content": "20미터"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "5B1CD"
   },
   {
-    "name": "재고 과잉",
-    "image": "5B1C5",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[마이크로 미사일]"
-      },
-      {
-        "type": "text",
-        "content": " 충전 횟수가 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "5B1C5"
   },
   {
-    "name": "전설 장비",
-    "image": "5B1CC",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[마이크로 미사일]"
-      },
-      {
-        "type": "text",
-        "content": "이 중로켓 "
-      },
-      {
-        "type": "number",
-        "content": "6발"
-      },
-      {
-        "type": "text",
-        "content": "로 대체됩니다. 중로켓은 "
-      },
-      {
-        "type": "number",
-        "content": "350%"
-      },
-      {
-        "type": "text",
-        "content": " 증가한 폭발 피해를 주고 반경이 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": " 증가됩니다."
-      }
-    ]
+    "image": "5B1CC"
   },
   {
-    "name": "대응책",
-    "image": "5B1C6",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[방어 매트릭스]"
-      },
-      {
-        "type": "text",
-        "content": "로 피해를 "
-      },
-      {
-        "type": "number",
-        "content": "150"
-      },
-      {
-        "type": "text",
-        "content": " 완화하면 자동으로 "
-      },
-      {
-        "type": "strong",
-        "content": "[마이크로 미사일]"
-      },
-      {
-        "type": "text",
-        "content": " "
-      },
-      {
-        "type": "number",
-        "content": "2발"
-      },
-      {
-        "type": "text",
-        "content": "을 발사합니다."
-      }
-    ]
+    "image": "5B1C6"
   },
   {
-    "name": "정면 돌격",
-    "image": "5B1CE",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[방어 매트릭스]"
-      },
-      {
-        "type": "text",
-        "content": "로 막은 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "30%"
-      },
-      {
-        "type": "text",
-        "content": "만큼 치유합니다."
-      }
-    ]
+    "image": "5B1CE"
   },
   {
-    "name": "초광대역 매트릭스",
-    "image": "5B1CF",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[방어 매트릭스]"
-      },
-      {
-        "type": "text",
-        "content": " 크기가 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": ", 지속 시간이 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "5B1CF"
   },
   {
-    "name": "MEKA 펀치",
-    "image": "5B1D0",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[부스터]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 중 "
-      },
-      {
-        "type": "strong",
-        "content": "[빠른 근접 공격]"
-      },
-      {
-        "type": "text",
-        "content": " 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "75%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다. MEKA 펀치로 처치 시 "
-      },
-      {
-        "type": "strong",
-        "content": "[부스터]"
-      },
-      {
-        "type": "text",
-        "content": " 재사용 대기시간이 초기화됩니다."
-      }
-    ]
+    "image": "5B1D0"
   },
   {
-    "name": "능력치 증폭",
-    "image": "5B1C7",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[부스터]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 중 첫 "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "strong",
-        "content": "[방어 매트릭스]"
-      },
-      {
-        "type": "text",
-        "content": "가 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": " 빠르게 회복됩니다."
-      }
-    ]
+    "image": "5B1C7"
   },
   {
-    "name": "점화 폭발",
-    "image": "5B1C9",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[부스터]"
-      },
-      {
-        "type": "text",
-        "content": "가 용암 흔적을 남깁니다. 흔적은 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초마다 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "30"
-      },
-      {
-        "type": "text",
-        "content": "의 피해를 줍니다."
-      }
-    ]
+    "image": "5B1C9"
   },
   {
-    "name": "토끼 강타",
-    "image": "5B1C8",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[부스터]"
-      },
-      {
-        "type": "text",
-        "content": " 중 웅크리기를 사용하면, 지면을 강타해 최대 방어력의 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": "에 해당하는 피해를 주고 적중한 적을 띄웁니다."
-      }
-    ]
+    "image": "5B1C8"
   },
   {
-    "name": "쾌속 폭발",
-    "image": "5B1CB",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[자폭]"
-      },
-      {
-        "type": "text",
-        "content": " 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 빨라집니다."
-      }
-    ]
+    "image": "5B1CB"
   },
   {
-    "name": "파티의 수호자",
-    "image": "5B1CA",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[자폭]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 시 "
-      },
-      {
-        "type": "strong",
-        "content": "[자폭]"
-      },
-      {
-        "type": "text",
-        "content": " 반경 내에 있는 아군이 "
-      },
-      {
-        "type": "number",
-        "content": "8"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "250"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 생명력을 얻습니다."
-      }
-    ]
+    "image": "5B1CA"
   }
 ]

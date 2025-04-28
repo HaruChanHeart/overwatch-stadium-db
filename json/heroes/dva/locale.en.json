@@ -1,0 +1,803 @@
+{
+  "60EE2": {
+    "name": "Multi-Task Mod",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Fusion Cannons]"
+      },
+      {
+        "type": "text",
+        "content": " can now be fired while using "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60EE1": {
+    "name": "Dae-hyun's Detonator",
+    "description": [
+      {
+        "type": "text",
+        "content": "If your "
+      },
+      {
+        "type": "strong",
+        "content": "[Mech]"
+      },
+      {
+        "type": "text",
+        "content": " detonates while mid-air, increase "
+      },
+      {
+        "type": "strong",
+        "content": "[Self-Destruct]"
+      },
+      {
+        "type": "text",
+        "content": " explosion damage and range by "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60EDE": {
+    "name": "Mastermind's Mitigator",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you mitigate "
+      },
+      {
+        "type": "number",
+        "content": "300"
+      },
+      {
+        "type": "text",
+        "content": " damage with "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": ", automatically fire "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Micro Missiles]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60EE5": {
+    "name": "Vesuvius Protocol",
+    "description": [
+      {
+        "type": "text",
+        "content": "Using "
+      },
+      {
+        "type": "strong",
+        "content": "[Self-Destruct]"
+      },
+      {
+        "type": "text",
+        "content": " drops lava nearby that deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " damage every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "612A9": {
+    "name": "Busan Blaster",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Light Gun]"
+      },
+      {
+        "type": "text",
+        "content": " gains a secondary fire, which charges up to fire a explosive piercing shot that deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": " damage."
+      }
+    ]
+  },
+  "60EE6": {
+    "name": "Macro Missile",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Micro Missiles]"
+      },
+      {
+        "type": "text",
+        "content": " deal "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " increased damage and have significantly increased knockback."
+      }
+    ]
+  },
+  "60EDD": {
+    "name": "Onslaught Ordinance",
+    "description": [
+      {
+        "type": "text",
+        "content": "The quantity and duration of "
+      },
+      {
+        "type": "strong",
+        "content": "[Micro Missiles]"
+      },
+      {
+        "type": "text",
+        "content": " is increased by "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60EDC": {
+    "name": "Solo Spec",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you mitigate damage with "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": ", gain Shields equal to "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of the damage mitigated, up to "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": ". Resets when your "
+      },
+      {
+        "type": "strong",
+        "content": "[Mech]"
+      },
+      {
+        "type": "text",
+        "content": " is destroyed."
+      }
+    ]
+  },
+  "60EDF": {
+    "name": "Galvanized Core",
+    "extras": [
+      {
+        "content": "[Boosters] Duration"
+      }
+    ]
+  },
+  "61BF0": {
+    "name": "Plot Armor",
+    "description": [
+      {
+        "type": "text",
+        "content": "While "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": " is active, gain "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " damage reduction against beams."
+      }
+    ]
+  },
+  "60EE0": {
+    "name": "APM AMP",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use "
+      },
+      {
+        "type": "strong",
+        "content": "[Boosters]"
+      },
+      {
+        "type": "text",
+        "content": ", other allies within "
+      },
+      {
+        "type": "number",
+        "content": "16m"
+      },
+      {
+        "type": "text",
+        "content": " gain "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "53FE7": {
+    "name": "Singijeon's Pulse Plating",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " of damage mitigated by "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": " as Ultimate Charge."
+      }
+    ]
+  },
+  "60EE4": {
+    "name": "Chip-Damage Diverter",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you deal damage to Barriers while in your "
+      },
+      {
+        "type": "strong",
+        "content": "[Mech]"
+      },
+      {
+        "type": "text",
+        "content": ", gain Shields equal to "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of the damage dealt, up to "
+      },
+      {
+        "type": "number",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": ". Resets when your "
+      },
+      {
+        "type": "strong",
+        "content": "[Mech]"
+      },
+      {
+        "type": "text",
+        "content": " is destroyed."
+      }
+    ]
+  },
+  "612A8": {
+    "name": "Nano Cola™ Nitrous",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you eject from your "
+      },
+      {
+        "type": "strong",
+        "content": "[Mech]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " increased max Health and gain "
+      },
+      {
+        "type": "strong",
+        "content": "[Nano Boost]"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "8s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1CD": {
+    "name": "Focused Fusion",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Fusion Cannon]"
+      },
+      {
+        "type": "text",
+        "content": "'s spread is reduced by "
+      },
+      {
+        "type": "number",
+        "content": "66%"
+      },
+      {
+        "type": "text",
+        "content": " and damage falloff range is "
+      },
+      {
+        "type": "number",
+        "content": "20m"
+      },
+      {
+        "type": "text",
+        "content": " farther."
+      }
+    ]
+  },
+  "5B1C5": {
+    "name": "Overstocked",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " extra charge of "
+      },
+      {
+        "type": "strong",
+        "content": "[Micro Missiles]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1CC": {
+    "name": "Legendary Loadout",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Micro Missiles]"
+      },
+      {
+        "type": "text",
+        "content": " are replaced with "
+      },
+      {
+        "type": "number",
+        "content": "6"
+      },
+      {
+        "type": "text",
+        "content": " Heavy Rockets, which deal "
+      },
+      {
+        "type": "number",
+        "content": "350%"
+      },
+      {
+        "type": "text",
+        "content": " more explosive damage and have "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " increased radius."
+      }
+    ]
+  },
+  "5B1C6": {
+    "name": "Countermeasures",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you mitigate "
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": " damage with "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": ", automatically fire "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Micro Missiles]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1CE": {
+    "name": "Facetanking",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": " heals you for "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " of the damage it blocks."
+      }
+    ]
+  },
+  "5B1CF": {
+    "name": "Ultrawide Matrix",
+    "description": [
+      {
+        "type": "text",
+        "content": "Increase the size of "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": " by "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " and its duration by "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1D0": {
+    "name": "MEKA Punch",
+    "description": [
+      {
+        "type": "text",
+        "content": "While using "
+      },
+      {
+        "type": "strong",
+        "content": "[Boosters]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Quick Melee]"
+      },
+      {
+        "type": "text",
+        "content": " deals "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " more damage. MEKA Punch eliminations reset the cooldown of "
+      },
+      {
+        "type": "strong",
+        "content": "[Boosters]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1C7": {
+    "name": "Stat Boost",
+    "description": [
+      {
+        "type": "text",
+        "content": "During the first "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Boosters]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Defense Matrix]"
+      },
+      {
+        "type": "text",
+        "content": " recovers "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " faster."
+      }
+    ]
+  },
+  "5B1C9": {
+    "name": "Ignition Burst",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Boosters]"
+      },
+      {
+        "type": "text",
+        "content": " leave a trail of lava that deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " damage every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1C8": {
+    "name": "Tokki Slam",
+    "description": [
+      {
+        "type": "text",
+        "content": "During "
+      },
+      {
+        "type": "strong",
+        "content": "[Boosters]"
+      },
+      {
+        "type": "text",
+        "content": ", use crouch to slam the ground, dealing damage equal to "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Armor and knocking up enemies hit."
+      }
+    ]
+  },
+  "5B1CB": {
+    "name": "Express Detonation",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Self-Destruct]"
+      },
+      {
+        "type": "text",
+        "content": " explodes "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " faster."
+      }
+    ]
+  },
+  "5B1CA": {
+    "name": "Party Protector",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use "
+      },
+      {
+        "type": "strong",
+        "content": "[Self-Destruct]"
+      },
+      {
+        "type": "text",
+        "content": ", allies within "
+      },
+      {
+        "type": "strong",
+        "content": "[Self-Destruct]"
+      },
+      {
+        "type": "text",
+        "content": " radius gain "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "250"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth for "
+      },
+      {
+        "type": "number",
+        "content": "8s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  }
+}

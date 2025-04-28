@@ -1,41 +1,6 @@
 [
   {
-    "name": "단일 사양",
     "image": "60EDC",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[방어 매트릭스]"
-      },
-      {
-        "type": "text",
-        "content": "로 피해를 완화하면 완화한 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": "에 해당하는 보호막을 얻습니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "). "
-      },
-      {
-        "type": "strong",
-        "content": "[메카]"
-      },
-      {
-        "type": "text",
-        "content": "가 파괴되면 초기화됩니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -46,7 +11,6 @@
     ]
   },
   {
-    "name": "아연 도금 핵",
     "image": "60EDF",
     "grade": 2,
     "cost": 4000,
@@ -58,32 +22,12 @@
     ],
     "extras": [
       {
-        "value": "25%",
-        "content": "[부스터] 지속 시간"
+        "value": "25%"
       }
     ]
   },
   {
-    "name": "주인공 보정",
     "image": "61BF0",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[방어 매트릭스]"
-      },
-      {
-        "type": "text",
-        "content": "가 활성화되어 있을 때 "
-      },
-      {
-        "type": "number",
-        "content": "30%"
-      },
-      {
-        "type": "text",
-        "content": "의 광선에 대한 피해 감소를 얻습니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -94,42 +38,7 @@
     ]
   },
   {
-    "name": "APM 앰프",
     "image": "60EE0",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[부스터]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 시, "
-      },
-      {
-        "type": "number",
-        "content": "16미터"
-      },
-      {
-        "type": "text",
-        "content": " 이내의 다른 아군 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9000,
     "stats": [
@@ -140,26 +49,7 @@
     ]
   },
   {
-    "name": "신기전의 펄스 판갑",
     "image": "53FE7",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[방어 매트릭스]"
-      },
-      {
-        "type": "text",
-        "content": "로 완화한 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "5%"
-      },
-      {
-        "type": "text",
-        "content": " 만큼을 궁극기 충전으로 얻습니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -170,42 +60,7 @@
     ]
   },
   {
-    "name": "잔여 피해 가감기",
     "image": "60EE4",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[메카]"
-      },
-      {
-        "type": "text",
-        "content": "가 타고 있을 때, 방벽에 피해를 주면 준 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": "에 해당하는 보호막을 얻습니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "200"
-      },
-      {
-        "type": "text",
-        "content": "). "
-      },
-      {
-        "type": "strong",
-        "content": "[메카]"
-      },
-      {
-        "type": "text",
-        "content": "가 파괴되면 초기화됩니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -216,42 +71,7 @@
     ]
   },
   {
-    "name": "나노 콜라™ 탄산",
     "image": "612A8",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[메카]"
-      },
-      {
-        "type": "text",
-        "content": "에서 비상 탈출하면 최대 생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": " 증가하고, "
-      },
-      {
-        "type": "number",
-        "content": "8"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "strong",
-        "content": "[나노 강화제]"
-      },
-      {
-        "type": "text",
-        "content": "를 얻습니다."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [

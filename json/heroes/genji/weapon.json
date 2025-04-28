@@ -1,29 +1,6 @@
 [
   {
-    "name": "가시 그립",
     "image": "60E01",
-    "description": [
-      {
-        "type": "text",
-        "content": "벽을 오르는 동안 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초마다 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 2,
     "cost": 3750,
     "stats": [
@@ -34,26 +11,7 @@
     ]
   },
   {
-    "name": "급습자 광학 탐지경",
     "image": "60E08",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[빠른 근접 공격]"
-      },
-      {
-        "type": "text",
-        "content": "이 적을 뒤에서 공격할 때 치명타로 적중할 수 있으며, 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -64,26 +22,7 @@
     ]
   },
   {
-    "name": "빠른 재장전기",
     "image": "60E0A",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[질풍참]"
-      },
-      {
-        "type": "text",
-        "content": "으로 적에게 피해를 주면 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -98,7 +37,6 @@
     ]
   },
   {
-    "name": "안내하는 칼날",
     "image": "60E05",
     "grade": 3,
     "cost": 10000,
@@ -110,8 +48,7 @@
     ],
     "extras": [
       {
-        "value": "4",
-        "content": "초 [용검] 지속 시간"
+        "value": "4"
       }
     ]
   }

@@ -1,25 +1,6 @@
 [
   {
-    "name": "더 큰 자석",
     "image": "60E0F",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[톱니칼]"
-      },
-      {
-        "type": "text",
-        "content": "의 당기기 강도가 "
-      },
-      {
-        "type": "number",
-        "content": "35%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -30,42 +11,7 @@
     ]
   },
   {
-    "name": "땜장이 운동복",
     "image": "60E10",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[도륙]"
-      },
-      {
-        "type": "text",
-        "content": "과 "
-      },
-      {
-        "type": "strong",
-        "content": "[살육]"
-      },
-      {
-        "type": "text",
-        "content": "이 적중하면 공격 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "4"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9500,
     "stats": [
@@ -80,18 +26,7 @@
     ]
   },
   {
-    "name": "우렁찬 목소리",
     "image": "60E15",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[지휘의 외침]"
-      },
-      {
-        "type": "text",
-        "content": "이 시야 밖에 있는 아군에게 영향을 줍니다."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [
@@ -102,8 +37,7 @@
     ],
     "extras": [
       {
-        "value": "50%",
-        "content": "[지휘의 외침] 반경"
+        "value": "50%"
       }
     ]
   }

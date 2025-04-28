@@ -1,21 +1,6 @@
 [
   {
-    "name": "용광로 연료",
     "image": "61EE1",
-    "description": [
-      {
-        "type": "text",
-        "content": "불태우기 효과를 정화하면 궁극기 충전을 "
-      },
-      {
-        "type": "number",
-        "content": "3%"
-      },
-      {
-        "type": "text",
-        "content": " 얻습니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -30,22 +15,7 @@
     ]
   },
   {
-    "name": "은제 라이터",
     "image": "60DE2",
-    "description": [
-      {
-        "type": "text",
-        "content": "불타는 대상에게 주는 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 궁극기 충전을 제공합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -56,7 +26,6 @@
     ]
   },
   {
-    "name": "겹겹이 쌓은 막대",
     "image": "60DF8",
     "grade": 3,
     "cost": 10000,
@@ -68,28 +37,12 @@
     ],
     "extras": [
       {
-        "value": "40%",
-        "content": "[다이너마이트] 폭발 범위"
+        "value": "40%"
       }
     ]
   },
   {
-    "name": "적외선 렌즈",
     "image": "60DEC",
-    "description": [
-      {
-        "type": "text",
-        "content": "불타는 적에게 주는 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -100,26 +53,7 @@
     ]
   },
   {
-    "name": "수제 폭발 산탄",
     "image": "5B212",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[충격 샷건]"
-      },
-      {
-        "type": "text",
-        "content": "의 자신 밀쳐내기 효과가 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [

@@ -1,0 +1,632 @@
+{
+  "62301": {
+    "name": "이중 총열",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[충격 샷건]"
+      },
+      {
+        "type": "text",
+        "content": " 충전 횟수가 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60DEB": {
+    "name": "삼각대",
+    "description": [
+      {
+        "type": "text",
+        "content": "아래에 있는 적에게 주는 "
+      },
+      {
+        "type": "strong",
+        "content": "[바이퍼]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[충격 샷건]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[다이너마이트]"
+      },
+      {
+        "type": "text",
+        "content": " 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60DEA": {
+    "name": "최대 탄창",
+    "description": [
+      {
+        "type": "text",
+        "content": "남은 탄약이 최대 탄약의 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "보다 많다면, 탄약 한 발당 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60DF6": {
+    "name": "장전기 기름칠"
+  },
+  "60DEE": {
+    "name": "기계식 조준기",
+    "description": [
+      {
+        "type": "text",
+        "content": "대상이 "
+      },
+      {
+        "type": "number",
+        "content": "10미터"
+      },
+      {
+        "type": "text",
+        "content": "보다 멀리 있으면 조준 사격 피해가 미터당 "
+      },
+      {
+        "type": "number",
+        "content": "1%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60DED": {
+    "name": "사이드와인더",
+    "description": [
+      {
+        "type": "text",
+        "content": "대상이 "
+      },
+      {
+        "type": "number",
+        "content": "10미터"
+      },
+      {
+        "type": "text",
+        "content": " 이내에 있으면 조준하지 않은 사격 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "61EE1": {
+    "name": "용광로 연료",
+    "description": [
+      {
+        "type": "text",
+        "content": "불태우기 효과를 정화하면 궁극기 충전을 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " 얻습니다."
+      }
+    ]
+  },
+  "60DE2": {
+    "name": "은제 라이터",
+    "description": [
+      {
+        "type": "text",
+        "content": "불타는 대상에게 주는 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 궁극기 충전을 제공합니다."
+      }
+    ]
+  },
+  "60DF8": {
+    "name": "겹겹이 쌓은 막대",
+    "extras": [
+      {
+        "content": "[다이너마이트] 폭발 범위"
+      }
+    ]
+  },
+  "60DEC": {
+    "name": "적외선 렌즈",
+    "description": [
+      {
+        "type": "text",
+        "content": "불타는 적에게 주는 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B212": {
+    "name": "수제 폭발 산탄",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[충격 샷건]"
+      },
+      {
+        "type": "text",
+        "content": "의 자신 밀쳐내기 효과가 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60DF7": {
+    "name": "은빛 박차",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[충격 샷건]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후, 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60DF9": {
+    "name": "B.O.B. 배선 방어",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": "이 돌진을 마치면 "
+      },
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": "의 방어력이 "
+      },
+      {
+        "type": "number",
+        "content": "300"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60DE1": {
+    "name": "방화광",
+    "description": [
+      {
+        "type": "text",
+        "content": "불태우기 효과가 "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "의 생명력 흡수를 얻습니다."
+      }
+    ]
+  },
+  "5B213": {
+    "name": "내 말 듣든가, 꺼지든가",
+    "description": [
+      {
+        "type": "text",
+        "content": "불타는 적에게 "
+      },
+      {
+        "type": "strong",
+        "content": "[바이퍼]"
+      },
+      {
+        "type": "text",
+        "content": "로 피해를 주면 기술의 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  "53FE9": {
+    "name": "우두머리",
+    "description": [
+      {
+        "type": "text",
+        "content": "비조준 사격이 적중할 때마다 다음 조준 사격 적중 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "씩 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "). 재장전 시 초기화됩니다."
+      }
+    ]
+  },
+  "5B219": {
+    "name": "재장전 테라피",
+    "description": [
+      {
+        "type": "text",
+        "content": "재장전하면 생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " 치유합니다."
+      }
+    ]
+  },
+  "5B21A": {
+    "name": "화염탄",
+    "description": [
+      {
+        "type": "text",
+        "content": "조준 중 같은 대상을 빗나가지 않고 적중하면 "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 줍니다."
+      }
+    ]
+  },
+  "5B211": {
+    "name": "재앙",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[충격 샷건]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "2발"
+      },
+      {
+        "type": "text",
+        "content": " 재장전합니다. "
+      },
+      {
+        "type": "strong",
+        "content": "[바이퍼]"
+      },
+      {
+        "type": "text",
+        "content": "의 다음 적중 "
+      },
+      {
+        "type": "number",
+        "content": "2회"
+      },
+      {
+        "type": "text",
+        "content": "가 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": "에 걸쳐 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "40"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 줍니다."
+      }
+    ]
+  },
+  "5B21B": {
+    "name": "화염 폭발",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[충격 샷건]"
+      },
+      {
+        "type": "text",
+        "content": "이 적을 불태워 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": "에 걸쳐 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다. 대상이 이미 불타고 있었다면 즉시 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "70"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 피해를 줍니다."
+      }
+    ]
+  },
+  "5B218": {
+    "name": "이른 폭발",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[다이너마이트]"
+      },
+      {
+        "type": "text",
+        "content": "를 맞히면 탄약이 "
+      },
+      {
+        "type": "number",
+        "content": "5발"
+      },
+      {
+        "type": "text",
+        "content": " 재장전되고 "
+      },
+      {
+        "type": "strong",
+        "content": "[다이너마이트]"
+      },
+      {
+        "type": "text",
+        "content": "의 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  "5B215": {
+    "name": "초고열 탄약",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[다이너마이트]"
+      },
+      {
+        "type": "text",
+        "content": "가 땅에서 폭발하면 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "마다 적을 불태워 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 주는 용암을 남깁니다."
+      }
+    ]
+  },
+  "5B217": {
+    "name": "화려하게 펑",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[다이너마이트]"
+      },
+      {
+        "type": "text",
+        "content": "가 폭발하면 "
+      },
+      {
+        "type": "number",
+        "content": "66%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 피해를 주는 점착 폭발물 "
+      },
+      {
+        "type": "number",
+        "content": "3개"
+      },
+      {
+        "type": "text",
+        "content": "를 생성합니다."
+      }
+    ]
+  },
+  "5B216": {
+    "name": "B.O.B. 주니어",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": " 궁극기 충전 비용이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소하지만 B.O.B.의 생명력이 감소하며, 공격 속도 또한 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소하고, 크기가 아주 작아집니다."
+      }
+    ]
+  },
+  "5B214": {
+    "name": "공범",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": "이 준 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유되며, 내가 준 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 "
+      },
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": "이 치유됩니다."
+      }
+    ]
+  }
+}

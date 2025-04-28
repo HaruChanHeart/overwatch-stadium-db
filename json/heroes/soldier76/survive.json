@@ -1,6 +1,5 @@
 [
   {
-    "name": "압축 피로",
     "image": "60EB1",
     "grade": 2,
     "cost": 4000,
@@ -16,56 +15,12 @@
     ],
     "extras": [
       {
-        "value": "25%",
-        "content": "[질주] 이동 속도"
+        "value": "25%"
       }
     ]
   },
   {
-    "name": "강철 폐",
     "image": "60EB3",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[질주]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 중 "
-      },
-      {
-        "type": "number",
-        "content": "5"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초마다 최대 생명력의 "
-      },
-      {
-        "type": "number",
-        "content": "5%"
-      },
-      {
-        "type": "text",
-        "content": "에 해당하는 추가 생명력을 얻습니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": ")."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [

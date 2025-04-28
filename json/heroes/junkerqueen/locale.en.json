@@ -1,0 +1,730 @@
+{
+  "60E16": {
+    "name": "Monarch's Decree",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Commanding Shout]"
+      },
+      {
+        "type": "text",
+        "content": " grants you "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed."
+      }
+    ]
+  },
+  "60E18": {
+    "name": "Gutpunch Gauntlet",
+    "description": [
+      {
+        "type": "text",
+        "content": "While not holding "
+      },
+      {
+        "type": "strong",
+        "content": "[Jagged Blade]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Quick Melee]"
+      },
+      {
+        "type": "text",
+        "content": " deals "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " more damage and knocks back."
+      }
+    ]
+  },
+  "60E14": {
+    "name": "Shred and Lead",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you "
+      },
+      {
+        "type": "strong",
+        "content": "[Wound]"
+      },
+      {
+        "type": "text",
+        "content": " an enemy, gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": ", stacking up to "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " times."
+      }
+    ]
+  },
+  "60E17": {
+    "name": "Bloodhound Mask",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Weapon Power for each enemy with a "
+      },
+      {
+        "type": "strong",
+        "content": "[Wound]"
+      },
+      {
+        "type": "text",
+        "content": " within "
+      },
+      {
+        "type": "number",
+        "content": "12m"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E0F": {
+    "name": "Bigger Magnet",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Jagged Blade]"
+      },
+      {
+        "type": "text",
+        "content": "'s pull strength is increased by "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E10": {
+    "name": "Tinker Tracksuit",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Rampage]"
+      },
+      {
+        "type": "text",
+        "content": " and "
+      },
+      {
+        "type": "strong",
+        "content": "[Carnage]"
+      },
+      {
+        "type": "text",
+        "content": " hits grant "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E15": {
+    "name": "Booming Voice",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Commanding Shout]"
+      },
+      {
+        "type": "text",
+        "content": " will affect allies that are out of line of sight."
+      }
+    ],
+    "extras": [
+      {
+        "content": "[Commanding Shout] Radius"
+      }
+    ]
+  },
+  "61EE2": {
+    "name": "Dez's Damage Dampeners",
+    "description": [
+      {
+        "type": "text",
+        "content": "When knocked back, gain "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " increased Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ],
+    "extras": [
+      {
+        "content": "Knockback Resist"
+      }
+    ]
+  },
+  "60E12": {
+    "name": "Slicing Spree",
+    "description": [
+      {
+        "type": "text",
+        "content": "While within "
+      },
+      {
+        "type": "number",
+        "content": "12m"
+      },
+      {
+        "type": "text",
+        "content": " of an enemy with a "
+      },
+      {
+        "type": "strong",
+        "content": "[Wound]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed and "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed."
+      }
+    ]
+  },
+  "61EE3": {
+    "name": "Rebellious Spirit",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[Wound]"
+      },
+      {
+        "type": "text",
+        "content": " gets removed instead of expiring, gain "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " of Max Life as Overhealth, up to "
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E0E": {
+    "name": "Undying Loyalty",
+    "description": [
+      {
+        "type": "text",
+        "content": "Allies affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Commanding Shout]"
+      },
+      {
+        "type": "text",
+        "content": " are healed for "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " of Junker Queen's life every second."
+      }
+    ],
+    "extras": [
+      {
+        "content": "Commanding Shout Overhealth"
+      }
+    ]
+  },
+  "60E11": {
+    "name": "Thick Skull",
+    "description": [
+      {
+        "type": "text",
+        "content": "While casting "
+      },
+      {
+        "type": "strong",
+        "content": "[Rampage]"
+      },
+      {
+        "type": "text",
+        "content": " or "
+      },
+      {
+        "type": "strong",
+        "content": "[Carnage]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " Damage Reduction."
+      }
+    ]
+  },
+  "60E13": {
+    "name": "Scav Scraps",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Carnage]"
+      },
+      {
+        "type": "text",
+        "content": " and "
+      },
+      {
+        "type": "strong",
+        "content": "[Jagged Blade]"
+      },
+      {
+        "type": "text",
+        "content": " impact damage grants Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": " of damage dealt."
+      }
+    ]
+  },
+  "5B23C": {
+    "name": "Thrill of Battle",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Adrenaline Rush]"
+      },
+      {
+        "type": "text",
+        "content": " also heals allies within "
+      },
+      {
+        "type": "number",
+        "content": "12m"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of the amount it heals you."
+      }
+    ]
+  },
+  "5B239": {
+    "name": "Royal Bullets",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Scattergun]"
+      },
+      {
+        "type": "text",
+        "content": " critical hits against targets within "
+      },
+      {
+        "type": "number",
+        "content": "12m"
+      },
+      {
+        "type": "text",
+        "content": " applies "
+      },
+      {
+        "type": "strong",
+        "content": "[Wound]"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " damage over "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B23B": {
+    "name": "Twist The Knife",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Scattergun]"
+      },
+      {
+        "type": "text",
+        "content": " critical hits extend the duration of all "
+      },
+      {
+        "type": "strong",
+        "content": "[Wounds]"
+      },
+      {
+        "type": "text",
+        "content": " on the target by "
+      },
+      {
+        "type": "number",
+        "content": "0.5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B23A": {
+    "name": "Cut 'Em, Gracie!",
+    "description": [
+      {
+        "type": "text",
+        "content": "Each enemy hit by "
+      },
+      {
+        "type": "strong",
+        "content": "[Jagged Blade]"
+      },
+      {
+        "type": "text",
+        "content": " while it returns to you reduces its cooldown by "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B237": {
+    "name": "Blade Parade",
+    "description": [
+      {
+        "type": "text",
+        "content": "Holding "
+      },
+      {
+        "type": "strong",
+        "content": "[Jagged Blade]"
+      },
+      {
+        "type": "text",
+        "content": " charges it, increasing its damage by up to "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " and causing it to knockback."
+      }
+    ]
+  },
+  "5B23F": {
+    "name": "Merciless Magnetism",
+    "description": [
+      {
+        "type": "text",
+        "content": "Using "
+      },
+      {
+        "type": "strong",
+        "content": "[Commanding Shout]"
+      },
+      {
+        "type": "text",
+        "content": " causes your "
+      },
+      {
+        "type": "strong",
+        "content": "[Jagged Blade]"
+      },
+      {
+        "type": "text",
+        "content": " to home to a target."
+      }
+    ]
+  },
+  "5B234": {
+    "name": "Let's Go Win",
+    "description": [
+      {
+        "type": "text",
+        "content": "Eliminations reset the cooldown of "
+      },
+      {
+        "type": "strong",
+        "content": "[Commanding Shout]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B236": {
+    "name": "Reckoner's Roar",
+    "description": [
+      {
+        "type": "text",
+        "content": "Using "
+      },
+      {
+        "type": "strong",
+        "content": "[Commanding Shout]"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Wounds]"
+      },
+      {
+        "type": "text",
+        "content": " enemies within "
+      },
+      {
+        "type": "number",
+        "content": "10m"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " damage over "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B23E": {
+    "name": "Soaring Stone",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Carnage]"
+      },
+      {
+        "type": "text",
+        "content": " becomes a leaping strike if you jump during its cast time."
+      }
+    ]
+  },
+  "5B238": {
+    "name": "Chop Chop",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Carnage]"
+      },
+      {
+        "type": "text",
+        "content": " gains an additional charge but its cooldown reduction per hit is reduced to "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B23D": {
+    "name": "Bow Down",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Rampage]"
+      },
+      {
+        "type": "text",
+        "content": " now also knocks down enemies hit for "
+      },
+      {
+        "type": "number",
+        "content": "1.5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B235": {
+    "name": "Bloodcrazed",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Rampage]"
+      },
+      {
+        "type": "text",
+        "content": " and "
+      },
+      {
+        "type": "strong",
+        "content": "[Carnage]"
+      },
+      {
+        "type": "text",
+        "content": " gives "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " of Max Life as Overhealth per hit."
+      }
+    ]
+  }
+}

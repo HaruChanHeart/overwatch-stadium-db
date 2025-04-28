@@ -1,25 +1,6 @@
 [
   {
-    "name": "방폭 부츠",
     "image": "61F4C",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[입자포]"
-      },
-      {
-        "type": "text",
-        "content": "의 보조 발사가 자신을 밀쳐내는 효과가 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": " 증가하고 자신에게 피해를 주지 않습니다."
-      }
-    ],
     "grade": 2,
     "stats": [
       {
@@ -33,26 +14,7 @@
     ]
   },
   {
-    "name": "단백질 셰이크",
     "image": "61F51",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[입자 방벽]"
-      },
-      {
-        "type": "text",
-        "content": "이 활성화되어 있는 동안 저지 불가 상태가 되며 "
-      },
-      {
-        "type": "strong",
-        "content": "[빠른 근접 공격]"
-      },
-      {
-        "type": "text",
-        "content": "이 적을 밀쳐냅니다."
-      }
-    ],
     "grade": 2,
     "stats": [
       {
@@ -66,18 +28,7 @@
     ]
   },
   {
-    "name": "점퍼 케이블",
     "image": "61F4F",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[방벽]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 후 즉시 보호막 재생을 시작합니다."
-      }
-    ],
     "grade": 2,
     "stats": [
       {

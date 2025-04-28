@@ -1,0 +1,645 @@
+{
+  "60E1A": {
+    "name": "Asa's Armaments",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Kunai]"
+      },
+      {
+        "type": "text",
+        "content": " bounce off surfaces "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " time."
+      }
+    ]
+  },
+  "60E25": {
+    "name": "Farsight Focus Sash",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you deal damage, gain "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Healing Ofuda]"
+      },
+      {
+        "type": "text",
+        "content": " Projectile Speed for "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E23": {
+    "name": "Teamwork Toolkit",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you heal an ally, grant them "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E24": {
+    "name": "Ryōta's Reloader",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using an ability, restore "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " of your ammo."
+      }
+    ]
+  },
+  "60E19": {
+    "name": "Spirits' Guidance",
+    "extras": [
+      {
+        "content": "[Healing Ofuda] Projectile Speed"
+      }
+    ]
+  },
+  "60E1B": {
+    "name": "Eye Of The Yokai",
+    "extras": [
+      {
+        "content": "[Kitsune Rush] Duration"
+      }
+    ]
+  },
+  "60E20": {
+    "name": "Cyclist Gloves",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use an ability, gain "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E1C": {
+    "name": "Donut Delivery",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Swift Step]"
+      },
+      {
+        "type": "text",
+        "content": " heals nearby allies by "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": " Life over "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E1D": {
+    "name": "Our Bikes",
+    "description": [
+      {
+        "type": "text",
+        "content": "Allies affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Kitsune Rush]"
+      },
+      {
+        "type": "text",
+        "content": " are healed for "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": " every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E1E": {
+    "name": "Talisman of Velocity",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Protection Suzu]"
+      },
+      {
+        "type": "text",
+        "content": " grants "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed and "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E21": {
+    "name": "Kitsune Kicks",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain the ability to "
+      },
+      {
+        "type": "strong",
+        "content": "[Double Jump]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E22": {
+    "name": "Goddess's Aura",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Swift Step]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E1F": {
+    "name": "Talisman of Life",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Protection Suzu]"
+      },
+      {
+        "type": "text",
+        "content": " grants "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth for "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1F4": {
+    "name": "Triple Threat",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Swift Step]"
+      },
+      {
+        "type": "text",
+        "content": ", for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": ", your secondary fire throws "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " additional "
+      },
+      {
+        "type": "strong",
+        "content": "[Kunai]"
+      },
+      {
+        "type": "text",
+        "content": " in a spread that deal "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " less damage."
+      }
+    ]
+  },
+  "5B1EE": {
+    "name": "Foxy Fireworks",
+    "description": [
+      {
+        "type": "text",
+        "content": "After reloading, your next "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " thrown "
+      },
+      {
+        "type": "strong",
+        "content": "[Kunai]"
+      },
+      {
+        "type": "text",
+        "content": " explode on contact, dealing "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "20"
+      },
+      {
+        "type": "text",
+        "content": " damage to nearby enemies."
+      }
+    ]
+  },
+  "5B1F0": {
+    "name": "Keen Kunai",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Kunai]"
+      },
+      {
+        "type": "text",
+        "content": " critical hits decrease active ability cooldowns by "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " and refund "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " ammo."
+      }
+    ]
+  },
+  "5B1F6": {
+    "name": "Leaf On The Wind",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Healing Ofuda]"
+      },
+      {
+        "type": "text",
+        "content": " bounces to another ally up to "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " times, healing for "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " of the normal amount."
+      }
+    ]
+  },
+  "5B1F1": {
+    "name": "Self-Care",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use "
+      },
+      {
+        "type": "strong",
+        "content": "[Healing Ofuda]"
+      },
+      {
+        "type": "text",
+        "content": ", heal yourself for "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Life."
+      }
+    ]
+  },
+  "5B1F5": {
+    "name": "Supported Shooting",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[Healing Ofuda]"
+      },
+      {
+        "type": "text",
+        "content": " heals allies, grant them "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " increased Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1F8": {
+    "name": "Clone Conjuration",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Swift Step]"
+      },
+      {
+        "type": "text",
+        "content": ", create a clone of yourself that lasts for "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1EF": {
+    "name": "Fleet Foot",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Swift Step]"
+      },
+      {
+        "type": "text",
+        "content": " can be used directionally without a target."
+      }
+    ]
+  },
+  "5B1ED": {
+    "name": "Two-Zu",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Protection Suzu]"
+      },
+      {
+        "type": "text",
+        "content": " gains an additional charge."
+      }
+    ]
+  },
+  "5B1F7": {
+    "name": "Cleansing Charge",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you cleanse negative effects with "
+      },
+      {
+        "type": "strong",
+        "content": "[Protection Suzu]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge for each hero cleansed."
+      }
+    ]
+  },
+  "5B1F3": {
+    "name": "Spirit Veil",
+    "description": [
+      {
+        "type": "text",
+        "content": "Using "
+      },
+      {
+        "type": "strong",
+        "content": "[Kitsune Rush]"
+      },
+      {
+        "type": "text",
+        "content": " cleanses Kiriko of negative effects, and makes her Invulnerable for "
+      },
+      {
+        "type": "number",
+        "content": "4s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1F2": {
+    "name": "Crossing Guard",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Kitsune Rush]"
+      },
+      {
+        "type": "text",
+        "content": " now also reduces enemies Move Speed by "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  }
+}

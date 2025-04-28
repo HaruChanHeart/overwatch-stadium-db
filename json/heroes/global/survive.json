@@ -1,29 +1,6 @@
 [
   {
-    "name": "러닝화",
     "image": "610D7",
-    "description": [
-      {
-        "type": "text",
-        "content": "라운드 시작 시와 처음 부활할 때, 전투 중이 아닐 경우 "
-      },
-      {
-        "type": "number",
-        "content": "10"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 1,
     "cost": 1000,
     "stats": [
@@ -34,38 +11,7 @@
     ]
   },
   {
-    "name": "아드레날린 주사",
     "image": "616BE",
-    "description": [
-      {
-        "type": "text",
-        "content": "생명력 팩이 "
-      },
-      {
-        "type": "number",
-        "content": "5"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 이동 속도를 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가시키고 "
-      },
-      {
-        "type": "number",
-        "content": "50"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 생명력을 부여합니다."
-      }
-    ],
     "grade": 1,
     "cost": 1000,
     "stats": [
@@ -76,70 +22,17 @@
     ]
   },
   {
-    "name": "전투식량",
     "image": "610D3",
-    "description": [
-      {
-        "type": "text",
-        "content": "거점에 있을 때 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초마다 생명력을 "
-      },
-      {
-        "type": "number",
-        "content": "8"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 1,
     "cost": 1000
   },
   {
-    "name": "전해액",
     "image": "610D5",
-    "description": [
-      {
-        "type": "text",
-        "content": "라운드 시작 시 회복할 수 없는 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 생명력을 얻습니다."
-      }
-    ],
     "grade": 1,
     "cost": 1000
   },
   {
-    "name": "심장 박동 센서",
     "image": "610D6",
-    "description": [
-      {
-        "type": "text",
-        "content": "생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "30%"
-      },
-      {
-        "type": "text",
-        "content": " 미만인 적이 드러납니다."
-      }
-    ],
     "grade": 1,
     "cost": 1500,
     "stats": [
@@ -150,22 +43,7 @@
     ]
   },
   {
-    "name": "응급 치료 키트",
     "image": "55E8E",
-    "description": [
-      {
-        "type": "text",
-        "content": "내 영웅의 생명력을 재생하기까지 걸리는 시간이 "
-      },
-      {
-        "type": "number",
-        "content": "33%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ],
     "grade": 1,
     "cost": 1500,
     "stats": [
@@ -176,7 +54,6 @@
     ]
   },
   {
-    "name": "장갑 조끼",
     "image": "616C1",
     "grade": 1,
     "cost": 1500,
@@ -188,26 +65,7 @@
     ]
   },
   {
-    "name": "흡수 장갑",
     "image": "616BF",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[빠른 근접 공격]"
-      },
-      {
-        "type": "text",
-        "content": "으로 피해를 주면 생명력을 "
-      },
-      {
-        "type": "number",
-        "content": "25"
-      },
-      {
-        "type": "text",
-        "content": " 치유합니다."
-      }
-    ],
     "grade": 1,
     "cost": 1500,
     "stats": [
@@ -218,22 +76,7 @@
     ]
   },
   {
-    "name": "강화 티타늄",
     "image": "5A8EE",
-    "description": [
-      {
-        "type": "text",
-        "content": "보호막이 있을 때 기술 피해를 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 덜 받습니다."
-      }
-    ],
     "grade": 2,
     "cost": 3750,
     "stats": [
@@ -244,18 +87,7 @@
     ]
   },
   {
-    "name": "E생명력",
     "image": "5A8F5",
-    "description": [
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "의 생명력을 방어력으로 전환합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -270,18 +102,7 @@
     ]
   },
   {
-    "name": "비슈카르 콘덴서",
     "image": "5A8F1",
-    "description": [
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "의 생명력을 보호막으로 전환합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -296,30 +117,7 @@
     ]
   },
   {
-    "name": "완충재",
     "image": "5A8F3",
-    "description": [
-      {
-        "type": "text",
-        "content": "기절하거나, 잠에 들거나, 방해받으면, "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초에 걸쳐 최대 생명력을 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -330,36 +128,12 @@
     ],
     "extras": [
       {
-        "value": "-40%",
-        "content": "받는 해로운 효과 지속 시간"
+        "value": "-40%"
       }
     ]
   },
   {
-    "name": "철갑 배기구",
     "image": "5A8F2",
-    "description": [
-      {
-        "type": "text",
-        "content": "기술 사용 시 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "25"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 생명력을 얻습니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -370,22 +144,7 @@
     ]
   },
   {
-    "name": "강철 눈",
     "image": "5A90A",
-    "description": [
-      {
-        "type": "text",
-        "content": "치명타로 받는 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4500,
     "stats": [
@@ -396,22 +155,7 @@
     ]
   },
   {
-    "name": "성전사 유압 시스템",
     "image": "5A8F7",
-    "description": [
-      {
-        "type": "text",
-        "content": "방어력이 있을 때 받는 무기 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4500,
     "stats": [
@@ -422,7 +166,6 @@
     ]
   },
   {
-    "name": "메카 Z 시리즈",
     "image": "5A8FA",
     "grade": 2,
     "cost": 5000,
@@ -442,30 +185,7 @@
     ]
   },
   {
-    "name": "유전학자의 약병",
     "image": "5A908",
-    "description": [
-      {
-        "type": "text",
-        "content": "매 라운드에서 처음으로 사망할 때마다 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 후 "
-      },
-      {
-        "type": "number",
-        "content": "200"
-      },
-      {
-        "type": "text",
-        "content": "의 생명력을 갖고 부활합니다"
-      }
-    ],
     "grade": 3,
     "cost": 9000,
     "stats": [
@@ -476,30 +196,7 @@
     ]
   },
   {
-    "name": "신성한 개입",
     "image": "5A90B",
-    "description": [
-      {
-        "type": "text",
-        "content": "한 번에 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "보다 많은 피해를 받으면, 받은 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": "를 회복하고 보호막 재생을 시작합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9500,
     "stats": [
@@ -510,42 +207,7 @@
     ]
   },
   {
-    "name": "어둠의 건틀릿",
     "image": "617E2",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[근접 공격]"
-      },
-      {
-        "type": "text",
-        "content": " 시 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 증가하고, "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": "초에 걸쳐 최대 생명력의 "
-      },
-      {
-        "type": "number",
-        "content": "5%"
-      },
-      {
-        "type": "text",
-        "content": "만큼 회복합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9500,
     "stats": [
@@ -560,30 +222,7 @@
     ]
   },
   {
-    "name": "피의 구속",
     "image": "610D2",
-    "description": [
-      {
-        "type": "text",
-        "content": "내 영웅에게 마지막으로 결정타를 날린 적이 근처에 있으면 해당 적이 드러납니다. 해당 적에게 주는 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 증가하고 받는 피해는 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ],
     "grade": 3,
     "cost": 9500,
     "stats": [
@@ -594,30 +233,7 @@
     ]
   },
   {
-    "name": "뤼스퉁 폰 빌헬름",
     "image": "5A910",
-    "description": [
-      {
-        "type": "text",
-        "content": "생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "30%"
-      },
-      {
-        "type": "text",
-        "content": " 미만일 때, "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 피해 감소를 얻습니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -636,70 +252,7 @@
     ]
   },
   {
-    "name": "바나듐 주사",
     "image": "5A914",
-    "description": [
-      {
-        "type": "text",
-        "content": "궁극기 충전 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": "일 때, 다음을 얻습니다. "
-      },
-      {
-        "type": "number",
-        "content": "50"
-      },
-      {
-        "type": "text",
-        "content": " 생명력, "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 무기 공격력, "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 기술 위력, "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 공격 속도, "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 재사용 대기 시간 감소, "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 이동 속도"
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -710,26 +263,7 @@
     ]
   },
   {
-    "name": "화성의 수리공",
     "image": "5A90E",
-    "description": [
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초마다 생명력을 "
-      },
-      {
-        "type": "number",
-        "content": "3%"
-      },
-      {
-        "type": "text",
-        "content": " 회복합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -744,22 +278,7 @@
     ]
   },
   {
-    "name": "환영 유입",
     "image": "5A90F",
-    "description": [
-      {
-        "type": "text",
-        "content": "생명력이 가득 차 있을 때, 생명력 흡수로 최대 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 생명력을 얻습니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -782,30 +301,7 @@
     ]
   },
   {
-    "name": "성운 전도",
     "image": "610D1",
-    "description": [
-      {
-        "type": "text",
-        "content": "받는 피해를 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 막는 대신, 막은 피해를 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초에 걸쳐 나눠서 받습니다."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [
@@ -820,38 +316,7 @@
     ]
   },
   {
-    "name": "오군디무 감소장",
     "image": "5A91A",
-    "description": [
-      {
-        "type": "text",
-        "content": "피해를 받으면 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "0.5%"
-      },
-      {
-        "type": "text",
-        "content": "의 피해 감소를 얻습니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "20회"
-      },
-      {
-        "type": "text",
-        "content": " 중첩)."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [

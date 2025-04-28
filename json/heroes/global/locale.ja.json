@@ -1,0 +1,1303 @@
+{
+  "55E91": {
+    "name": "武器用グリース"
+  },
+  "616BC": {
+    "name": "コンペンセイター"
+  },
+  "616BD": {
+    "name": "プラズマ・コンバーター"
+  },
+  "610BD": {
+    "name": "アドレナリン増幅",
+    "description": [
+      {
+        "type": "text",
+        "content": "キルの達成後"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "616B9": {
+    "name": "予備弾薬"
+  },
+  "5A900": {
+    "name": "カスタム撃針"
+  },
+  "5A91D": {
+    "name": "次世代ナノバイオティクス",
+    "description": [
+      {
+        "type": "text",
+        "content": "味方の回復後"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "5A8F8": {
+    "name": "シールド・バスター",
+    "description": [
+      {
+        "type": "text",
+        "content": "シールドまたはアーマーにダメージを与えてから"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "617BA": {
+    "name": "追加ストック"
+  },
+  "617BC": {
+    "name": "ライフ吸引ユニット"
+  },
+  "610CD": {
+    "name": "氷冷クーラント"
+  },
+  "5A8FF": {
+    "name": "タロン製強化モジュール"
+  },
+  "5A912": {
+    "name": "コード・ブレイカー",
+    "description": [
+      {
+        "type": "text",
+        "content": "アーマーのダメージ軽減効果を"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "無視する"
+      }
+    ]
+  },
+  "5A913": {
+    "name": "ヴォルスカヤ製ヘビー・ウェポン",
+    "description": [
+      {
+        "type": "text",
+        "content": "最大ライフ値が自分よりも多い敵への武器ダメージが、差分"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "ごとに"
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大値は"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      }
+    ]
+  },
+  "5A909": {
+    "name": "弾薬回収",
+    "description": [
+      {
+        "type": "text",
+        "content": "武器でバリアにダメージを与えると、"
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": "の確率で弾薬が"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ],
+    "extras": [
+      {
+        "content": "対バリア・ダメージ増加"
+      }
+    ]
+  },
+  "5A8E5": {
+    "name": "ウェポン・ジャミング",
+    "description": [
+      {
+        "type": "text",
+        "content": "武器で敵にダメージを与えてから"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、その敵が得ている攻撃速度のボーナスが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "減り、自分の攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5A905": {
+    "name": "指揮官用予備弾薬",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、弾薬が最大弾薬数の"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "617E1": {
+    "name": "ハードライト・アクセラレーター",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、武器パワーが"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大"
+      },
+      {
+        "type": "number",
+        "content": "3回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  },
+  "5A911": {
+    "name": "ブースター・ジェット",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "5A90D": {
+    "name": "バステトの回復剤",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "未満の味方を武器で回復している間、武器の回復量が"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5A8E4": {
+    "name": "アル-サイカ・サプレッサー",
+    "description": [
+      {
+        "type": "text",
+        "content": "武器のクリティカル・ヒットでダメージを与えた敵に"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "の回復阻害を与える"
+      }
+    ]
+  },
+  "5A919": {
+    "name": "索敵強化",
+    "description": [
+      {
+        "type": "text",
+        "content": "クリティカル・ヒットした敵の居場所が"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間明らかになる"
+      }
+    ]
+  },
+  "617DE": {
+    "name": "蜘蛛の眼差し",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "を下回る敵へのダメージが"
+      },
+      {
+        "type": "number",
+        "content": "0"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "616C0": {
+    "name": "闇の住人"
+  },
+  "610D4": {
+    "name": "アルティメット・アーマー",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメット・チャージを消費すると、"
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "のアーマーと"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "のアビリティ・パワーをラウンドの終了時まで得る"
+      }
+    ]
+  },
+  "55E8C": {
+    "name": "パワー・ブースト"
+  },
+  "5A8E7": {
+    "name": "勝利への熱意",
+    "description": [
+      {
+        "type": "text",
+        "content": "倒れた際に、アルティメット・チャージを"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "5A8F4": {
+    "name": "カスタム・ストック"
+  },
+  "5A8FC": {
+    "name": "バイオライト・オーバーフロー",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメット・チャージの消費後"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、付近の味方が追加ライフを"
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "610CC": {
+    "name": "ハンド・ラップ"
+  },
+  "617BB": {
+    "name": "ジャンカー・マジック",
+    "extras": [
+      {
+        "content": "開始時のアルティメット・チャージ率"
+      }
+    ]
+  },
+  "617BD": {
+    "name": "精気の腕甲"
+  },
+  "5A91B": {
+    "name": "マルチ・ツール"
+  },
+  "5A8F0": {
+    "name": "ナノ・コーラ"
+  },
+  "617E0": {
+    "name": "シカゴ・タイプライター",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、次に"
+      },
+      {
+        "type": "number",
+        "content": "3回"
+      },
+      {
+        "type": "text",
+        "content": "与える武器のダメージが、ターゲットのライフ値"
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "分増える"
+      }
+    ]
+  },
+  "5A917": {
+    "name": "ルメリコ・フュージョン・ドライブ",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけてアーマーまたはシールドが"
+      },
+      {
+        "type": "number",
+        "content": "50回"
+      },
+      {
+        "type": "text",
+        "content": "復する"
+      }
+    ]
+  },
+  "610CE": {
+    "name": "バイオ・テクノロジー最適化",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティで回復した味方"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人ごとに、そのアビリティのクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "617E4": {
+    "name": "筋力増加",
+    "description": [
+      {
+        "type": "text",
+        "content": "武器でダメージまたは回復を与えてから"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、アビリティ・パワーが"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大"
+      },
+      {
+        "type": "number",
+        "content": "5回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  },
+  "610CF": {
+    "name": "強化クリスタル",
+    "description": [
+      {
+        "type": "text",
+        "content": "アビリティでダメージまたは回復を与えると、アルティメット・チャージを"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "追加で得る"
+      }
+    ]
+  },
+  "5A904": {
+    "name": "サイバー・ヴェノム",
+    "description": [
+      {
+        "type": "text",
+        "content": "アビリティでダメージを与えると、"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "の回復阻害が"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間発生する"
+      }
+    ]
+  },
+  "617E3": {
+    "name": "虹彩の輝き",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメット・チャージの消費後"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、追加ライフを"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "5A902": {
+    "name": "液体窒素",
+    "description": [
+      {
+        "type": "text",
+        "content": "アビリティでダメージを与えた敵の移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "下がる"
+      }
+    ]
+  },
+  "5A906": {
+    "name": "お狐様のご加護",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティの使用後、武器で最初に与えたダメージ/回復に、"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "のボーナスが付く"
+      }
+    ]
+  },
+  "5A901": {
+    "name": "チャンピオン・セット"
+  },
+  "610D7": {
+    "name": "ランニング・シューズ",
+    "description": [
+      {
+        "type": "text",
+        "content": "ラウンド開始後と最初のリスポーン後"
+      },
+      {
+        "type": "number",
+        "content": "10秒"
+      },
+      {
+        "type": "text",
+        "content": "間、移動速度が非交戦中に限り"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "616BE": {
+    "name": "アドレナリン注入",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフ・パックを入手すると、追加ライフを"
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "得る。また"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "610D3": {
+    "name": "コンバット・レーション",
+    "description": [
+      {
+        "type": "text",
+        "content": "目標にいる間、ライフが"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "ごとに"
+      },
+      {
+        "type": "number",
+        "content": "8回"
+      },
+      {
+        "type": "text",
+        "content": "復する"
+      }
+    ]
+  },
+  "610D5": {
+    "name": "イオン・ブースト",
+    "description": [
+      {
+        "type": "text",
+        "content": "ラウンド開始時に、追加ライフを"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "得る。ただし、この追加ライフは回復しない"
+      }
+    ]
+  },
+  "610D6": {
+    "name": "心拍センサー",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "を下回る敵の居場所を把握できる"
+      }
+    ]
+  },
+  "55E8E": {
+    "name": "救急キット",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフの回復が始まるまでの時間が"
+      },
+      {
+        "type": "number",
+        "content": "33%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "616C1": {
+    "name": "防弾ベスト"
+  },
+  "616BF": {
+    "name": "ライフ吸引グローブ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えると、ライフが"
+      },
+      {
+        "type": "number",
+        "content": "25回"
+      },
+      {
+        "type": "text",
+        "content": "復する"
+      }
+    ]
+  },
+  "5A8EE": {
+    "name": "強化チタニウム",
+    "description": [
+      {
+        "type": "text",
+        "content": "シールドを保っている間、受けるアビリティ・ダメージが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "5A8F5": {
+    "name": "バイタル変換",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフを"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "、アーマーに変換する"
+      }
+    ]
+  },
+  "5A8F1": {
+    "name": "ヴィシュカー製集光レンズ",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフを"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "、シールドに変換する"
+      }
+    ]
+  },
+  "5A8F3": {
+    "name": "衝撃吸収材",
+    "description": [
+      {
+        "type": "text",
+        "content": "スタン、スリープ、または妨害を受けると、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけてライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ],
+    "extras": [
+      {
+        "content": "受けた状態異常の持続時間"
+      }
+    ]
+  },
+  "5A8F2": {
+    "name": "アイアンクラッド・エグゾースト",
+    "description": [
+      {
+        "type": "text",
+        "content": "いずれかのアビリティを使用すると、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、追加ライフを"
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "5A90A": {
+    "name": "鋼鉄の眼差し",
+    "description": [
+      {
+        "type": "text",
+        "content": "クリティカル・ヒットを受けた際のダメージが"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "5A8F7": {
+    "name": "クルセイダー・アクチュエーター",
+    "description": [
+      {
+        "type": "text",
+        "content": "アーマーを保っている間、受ける武器ダメージが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "5A8FA": {
+    "name": "MEKA Zシリーズ"
+  },
+  "5A908": {
+    "name": "遺伝学者の秘薬",
+    "description": [
+      {
+        "type": "text",
+        "content": "各ラウンドで最初にキルされてから"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "後にライフが"
+      },
+      {
+        "type": "number",
+        "content": "200回"
+      },
+      {
+        "type": "text",
+        "content": "復して復活する"
+      }
+    ]
+  },
+  "5A90B": {
+    "name": "神聖なる救済",
+    "description": [
+      {
+        "type": "text",
+        "content": "ダメージを一度に"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "より多く受けると、受けたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "分のライフが回復し、シールドの回復が即座に始まる"
+      }
+    ]
+  },
+  "617E2": {
+    "name": "闇のガントレット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えると、"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がり、ライフ最大値の"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "分回復する"
+      }
+    ]
+  },
+  "610D2": {
+    "name": "血の復讐",
+    "description": [
+      {
+        "type": "text",
+        "content": "最後に自分にトドメを刺した敵から受けるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "減り、その敵に与えるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "増える また、自分の付近にいる場合に限り、その敵の居場所を把握できる"
+      }
+    ]
+  },
+  "5A910": {
+    "name": "不屈の獅子",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "を下回っている間、受けるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "5A914": {
+    "name": "バナジウム注入",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメット・チャージが"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "溜まっている間、次の効果を得る: "
+      },
+      {
+        "type": "health",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "attackSpeed",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "cooldownReduction",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " / "
+      },
+      {
+        "type": "movementSpeed",
+        "content": "10%"
+      }
+    ]
+  },
+  "5A90E": {
+    "name": "赤い星のメディック",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "ごとに"
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "5A90F": {
+    "name": "ファンタズミック・フラックス",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフがフルの間、ライフ吸収で追加ライフを最大"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "610D1": {
+    "name": "ナノ・コーティング",
+    "description": [
+      {
+        "type": "text",
+        "content": "受けたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間の継続ダメージに変換する"
+      }
+    ]
+  },
+  "5A91A": {
+    "name": "オグンディム式防御フィールド",
+    "description": [
+      {
+        "type": "text",
+        "content": "ダメージを受けてから"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "間、受けるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "0.5%"
+      },
+      {
+        "type": "text",
+        "content": "減る。最大"
+      },
+      {
+        "type": "number",
+        "content": "20回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  }
+}

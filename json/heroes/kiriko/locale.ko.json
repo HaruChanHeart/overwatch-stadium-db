@@ -1,0 +1,617 @@
+{
+  "60E1A": {
+    "name": "아사의 병기",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[쿠나이]"
+      },
+      {
+        "type": "text",
+        "content": "가 표면에서 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "번 튕깁니다."
+      }
+    ]
+  },
+  "60E25": {
+    "name": "원경 집중의 띠",
+    "description": [
+      {
+        "type": "text",
+        "content": "피해를 주면 "
+      },
+      {
+        "type": "strong",
+        "content": "[치유의 부적]"
+      },
+      {
+        "type": "text",
+        "content": " 투사체 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E23": {
+    "name": "팀워크 수단",
+    "description": [
+      {
+        "type": "text",
+        "content": "아군을 치유하면 아군의 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E24": {
+    "name": "료타의 재장전기",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 후 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " 회복합니다."
+      }
+    ]
+  },
+  "60E19": {
+    "name": "혼령의 인도",
+    "extras": [
+      {
+        "content": "[치유의 부적] 투사체 속도"
+      }
+    ]
+  },
+  "60E1B": {
+    "name": "요괴의 눈",
+    "extras": [
+      {
+        "content": "[여우길] 지속 시간"
+      }
+    ]
+  },
+  "60E20": {
+    "name": "자전거 장갑",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 시 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E1C": {
+    "name": "도넛 배달",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[순보]"
+      },
+      {
+        "type": "text",
+        "content": "가 주위 아군의 생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "2초"
+      },
+      {
+        "type": "text",
+        "content": "에 걸쳐 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  "60E1D": {
+    "name": "우리 자전거",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[여우길]"
+      },
+      {
+        "type": "text",
+        "content": "의 영향을 받는 아군이 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "마다 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유됩니다."
+      }
+    ]
+  },
+  "60E1E": {
+    "name": "속도의 부적",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[정화의 방울]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "4초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 공격 속도를 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": ", 이동 속도를 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 부여합니다."
+      }
+    ]
+  },
+  "60E21": {
+    "name": "여우 발차기",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[2단 점프]"
+      },
+      {
+        "type": "text",
+        "content": "를 할 수 있게 됩니다."
+      }
+    ]
+  },
+  "60E22": {
+    "name": "여신의 오라",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[순보]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후 "
+      },
+      {
+        "type": "number",
+        "content": "4초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 생명력을 얻습니다."
+      }
+    ]
+  },
+  "60E1F": {
+    "name": "생명의 부적",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[정화의 방울]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "의 추가 생명력을 부여합니다."
+      }
+    ]
+  },
+  "5B1F4": {
+    "name": "3단 변신",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[순보]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후 "
+      },
+      {
+        "type": "number",
+        "content": "4초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 보조 발사 시 "
+      },
+      {
+        "type": "number",
+        "content": "2개"
+      },
+      {
+        "type": "text",
+        "content": "의 "
+      },
+      {
+        "type": "strong",
+        "content": "[쿠나이]"
+      },
+      {
+        "type": "text",
+        "content": "를 추가로 흩뿌려 던집니다. 해당 쿠나이로 주는 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  "5B1EE": {
+    "name": "여우 폭죽",
+    "description": [
+      {
+        "type": "text",
+        "content": "재장전 후 다음으로 던지는 "
+      },
+      {
+        "type": "strong",
+        "content": "[쿠나이]"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "number",
+        "content": "3개"
+      },
+      {
+        "type": "text",
+        "content": "가 닿으면 폭발하여 주위 적에게 "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "20"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  "5B1F0": {
+    "name": "예리한 쿠나이",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[쿠나이]"
+      },
+      {
+        "type": "text",
+        "content": " 치명타 적중 시 진행 중인 기술 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " 감소하고, 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "3발"
+      },
+      {
+        "type": "text",
+        "content": " 돌려받습니다."
+      }
+    ]
+  },
+  "5B1F6": {
+    "name": "바람에 실린 나뭇잎",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[치유의 부적]"
+      },
+      {
+        "type": "text",
+        "content": "이 다른 아군 한 명에게 최대 "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": "번 튕겨, 원래 치유량의 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  "5B1F1": {
+    "name": "자가관리",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[치유의 부적]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 스스로를 치유합니다."
+      }
+    ]
+  },
+  "5B1F5": {
+    "name": "지원 사격",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[치유의 부적]"
+      },
+      {
+        "type": "text",
+        "content": "이 아군을 치유하면 아군의 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B1F8": {
+    "name": "분신술",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[순보]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 유지되는 분신을 생성합니다."
+      }
+    ]
+  },
+  "5B1EF": {
+    "name": "재빠른 발",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[순보]"
+      },
+      {
+        "type": "text",
+        "content": "를 대상 없이 방향을 지정해 사용할 수 있습니다."
+      }
+    ]
+  },
+  "5B1ED": {
+    "name": "쌍방울",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[정화의 방울]"
+      },
+      {
+        "type": "text",
+        "content": " 충전 횟수가 "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B1F7": {
+    "name": "정화 충전",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[정화의 방울]"
+      },
+      {
+        "type": "text",
+        "content": "로 부정적인 효과를 정화하면, 정화한 영웅 하나당 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "의 궁극기 충전을 얻습니다."
+      }
+    ]
+  },
+  "5B1F3": {
+    "name": "영혼 베일",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[여우길]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 키리코에게서 부정적인 효과가 제거되며, 키리코가 "
+      },
+      {
+        "type": "number",
+        "content": "4초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 무적이 됩니다."
+      }
+    ]
+  },
+  "5B1F2": {
+    "name": "횡단보도 안전요원",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[여우길]"
+      },
+      {
+        "type": "text",
+        "content": "이 적의 이동 속도도 "
+      },
+      {
+        "type": "number",
+        "content": "2초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소시킵니다."
+      }
+    ]
+  }
+}

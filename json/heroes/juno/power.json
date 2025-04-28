@@ -1,334 +1,38 @@
 [
   {
-    "name": "메디마스터",
-    "image": "5B221",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[메디블라스터]"
-      },
-      {
-        "type": "text",
-        "content": "가 아군과 적군 모두에게 치명타로 적중합니다."
-      }
-    ]
+    "image": "5B221"
   },
   {
-    "name": "바늘 쏘기",
-    "image": "5B21F",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[메디블라스터]"
-      },
-      {
-        "type": "text",
-        "content": "가 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초에 걸쳐 적에게 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "10"
-      },
-      {
-        "type": "text",
-        "content": "의 피해를 줍니다 (중첩되지 않음)."
-      }
-    ]
+    "image": "5B21F"
   },
   {
-    "name": "우주적 냉각제",
-    "image": "5B227",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[펄사 어뢰]"
-      },
-      {
-        "type": "text",
-        "content": " 재사용 대기시간이 명중한 대상 하나당 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초 감소합니다."
-      }
-    ]
+    "image": "5B227"
   },
   {
-    "name": "의료용 미사일",
-    "image": "5B21C",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[펄사 어뢰]"
-      },
-      {
-        "type": "text",
-        "content": "가 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "30"
-      },
-      {
-        "type": "text",
-        "content": "의 생명력을 추가로 치유하고, 적중한 아군이 받는 치유량이 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "5B21C"
   },
   {
-    "name": "펄사 플러스",
-    "image": "5B222",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[펄사 어뢰]"
-      },
-      {
-        "type": "text",
-        "content": " 충전 횟수가 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "5B222"
   },
   {
-    "name": "어뢰 글라이드",
-    "image": "5B220",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[글라이드 부스터]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 중 피해를 "
-      },
-      {
-        "type": "number",
-        "content": "50"
-      },
-      {
-        "type": "text",
-        "content": " 줄 때마다 "
-      },
-      {
-        "type": "strong",
-        "content": "[펄사 어뢰]"
-      },
-      {
-        "type": "text",
-        "content": " 재사용 대기시간이 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초씩 감소합니다."
-      }
-    ]
+    "image": "5B220"
   },
   {
-    "name": "점멸 부스터",
-    "image": "5C307",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[글라이드 부스터]"
-      },
-      {
-        "type": "text",
-        "content": " 충전 횟수가 "
-      },
-      {
-        "type": "number",
-        "content": "2"
-      },
-      {
-        "type": "text",
-        "content": " 증가하고 재사용 대기시간이 "
-      },
-      {
-        "type": "number",
-        "content": "65%"
-      },
-      {
-        "type": "text",
-        "content": " 감소하지만, 지속 시간이 "
-      },
-      {
-        "type": "number",
-        "content": "75%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ]
+    "image": "5C307"
   },
   {
-    "name": "블랙홀",
-    "image": "5B224",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[하이퍼 링]"
-      },
-      {
-        "type": "text",
-        "content": "이 링을 통과하는 적의 이동 속도를 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초 동안 "
-      },
-      {
-        "type": "number",
-        "content": "35%"
-      },
-      {
-        "type": "text",
-        "content": " 감소시킵니다."
-      }
-    ]
+    "image": "5B224"
   },
   {
-    "name": "집결의 고리",
-    "image": "5B226",
-    "description": [
-      {
-        "type": "text",
-        "content": "아군이 "
-      },
-      {
-        "type": "strong",
-        "content": "[하이퍼 링]"
-      },
-      {
-        "type": "text",
-        "content": "을 지나면 재사용 대기시간이 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초 감소합니다."
-      }
-    ]
+    "image": "5B226"
   },
   {
-    "name": "하이퍼 치유사",
-    "image": "5C306",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[하이퍼 링]"
-      },
-      {
-        "type": "text",
-        "content": "의 영향을 받는 아군이 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "50"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 생명력을 얻습니다."
-      }
-    ]
+    "image": "5C306"
   },
   {
-    "name": "궤도 정렬",
-    "image": "5B225",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[궤도 광선]"
-      },
-      {
-        "type": "text",
-        "content": " 안에 있는 적의 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "35%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다. 내부 아군의 이동 속도는 "
-      },
-      {
-        "type": "number",
-        "content": "25%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "5B225"
   },
   {
-    "name": "별의 집중",
-    "image": "5B21E",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[궤도 광선]"
-      },
-      {
-        "type": "text",
-        "content": "이 내 위치를 따라다니며, 지속 시간이 "
-      },
-      {
-        "type": "number",
-        "content": "35%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "5B21E"
   }
 ]

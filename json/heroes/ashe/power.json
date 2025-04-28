@@ -1,370 +1,38 @@
 [
   {
-    "name": "내 말 듣든가, 꺼지든가",
-    "image": "5B213",
-    "description": [
-      {
-        "type": "text",
-        "content": "불타는 적에게 "
-      },
-      {
-        "type": "strong",
-        "content": "[바이퍼]"
-      },
-      {
-        "type": "text",
-        "content": "로 피해를 주면 기술의 재사용 대기시간이 "
-      },
-      {
-        "type": "number",
-        "content": "10%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ]
+    "image": "5B213"
   },
   {
-    "name": "우두머리",
-    "image": "53FE9",
-    "description": [
-      {
-        "type": "text",
-        "content": "비조준 사격이 적중할 때마다 다음 조준 사격 적중 피해가 "
-      },
-      {
-        "type": "number",
-        "content": "3%"
-      },
-      {
-        "type": "text",
-        "content": "씩 증가합니다 (최대 "
-      },
-      {
-        "type": "number",
-        "content": "30%"
-      },
-      {
-        "type": "text",
-        "content": "). 재장전 시 초기화됩니다."
-      }
-    ]
+    "image": "53FE9"
   },
   {
-    "name": "재장전 테라피",
-    "image": "5B219",
-    "description": [
-      {
-        "type": "text",
-        "content": "재장전하면 생명력을 "
-      },
-      {
-        "type": "number",
-        "content": "3%"
-      },
-      {
-        "type": "text",
-        "content": " 치유합니다."
-      }
-    ]
+    "image": "5B219"
   },
   {
-    "name": "화염탄",
-    "image": "5B21A",
-    "description": [
-      {
-        "type": "text",
-        "content": "조준 중 같은 대상을 빗나가지 않고 적중하면 무기 공격력 "
-      },
-      {
-        "type": "number",
-        "content": "30"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 피해를 줍니다."
-      }
-    ]
+    "image": "5B21A"
   },
   {
-    "name": "이중 총열",
-    "image": "62301",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[충격 샷건]"
-      },
-      {
-        "type": "text",
-        "content": " 충전 횟수가 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ]
+    "image": "62301"
   },
   {
-    "name": "재앙",
-    "image": "5B211",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[충격 샷건]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 시 탄약을 "
-      },
-      {
-        "type": "number",
-        "content": "2발"
-      },
-      {
-        "type": "text",
-        "content": " 재장전합니다. "
-      },
-      {
-        "type": "strong",
-        "content": "[바이퍼]"
-      },
-      {
-        "type": "text",
-        "content": "의 다음 적중 "
-      },
-      {
-        "type": "number",
-        "content": "2회"
-      },
-      {
-        "type": "text",
-        "content": "가 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초에 걸쳐 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "40"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 피해를 줍니다."
-      }
-    ]
+    "image": "5B211"
   },
   {
-    "name": "화염 폭발",
-    "image": "5B21B",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[충격 샷건]"
-      },
-      {
-        "type": "text",
-        "content": "이 적을 불태워 "
-      },
-      {
-        "type": "number",
-        "content": "5"
-      },
-      {
-        "type": "text",
-        "content": "초에 걸쳐 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "의 피해를 줍니다. 대상이 이미 불타고 있었다면 즉시 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "75"
-      },
-      {
-        "type": "text",
-        "content": "의 추가 피해를 줍니다."
-      }
-    ]
+    "image": "5B21B"
   },
   {
-    "name": "이른 폭발",
-    "image": "5B218",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[다이너마이트]"
-      },
-      {
-        "type": "text",
-        "content": "를 맞히면 탄약이 "
-      },
-      {
-        "type": "number",
-        "content": "5발"
-      },
-      {
-        "type": "text",
-        "content": " 재장전되고 "
-      },
-      {
-        "type": "strong",
-        "content": "[다이너마이트]"
-      },
-      {
-        "type": "text",
-        "content": "의 재사용 대기시간이 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "초 감소합니다."
-      }
-    ]
+    "image": "5B218"
   },
   {
-    "name": "초고열 탄약",
-    "image": "5B215",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[다이너마이트]"
-      },
-      {
-        "type": "text",
-        "content": "가 땅에서 폭발하면 "
-      },
-      {
-        "type": "number",
-        "content": "1"
-      },
-      {
-        "type": "text",
-        "content": "초마다 적을 불태워 기술 위력 "
-      },
-      {
-        "type": "number",
-        "content": "50"
-      },
-      {
-        "type": "text",
-        "content": "의 피해를 주는 용암을 남깁니다."
-      }
-    ]
+    "image": "5B215"
   },
   {
-    "name": "화려하게 펑",
-    "image": "5B217",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[다이너마이트]"
-      },
-      {
-        "type": "text",
-        "content": "가 폭발하면 "
-      },
-      {
-        "type": "number",
-        "content": "66%"
-      },
-      {
-        "type": "text",
-        "content": " 감소한 피해를 주는 점착 폭발물 "
-      },
-      {
-        "type": "number",
-        "content": "3"
-      },
-      {
-        "type": "text",
-        "content": "개를 생성합니다."
-      }
-    ]
+    "image": "5B217"
   },
   {
-    "name": "B.O.B. 주니어",
-    "image": "5B216",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[B.O.B.]"
-      },
-      {
-        "type": "text",
-        "content": " 궁극기 충전 비용이 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 감소하지만 B.O.B.의 생명력이 감소하며, 공격 속도 또한 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 감소하고, 크기가 아주 작아집니다."
-      }
-    ]
+    "image": "5B216"
   },
   {
-    "name": "공범",
-    "image": "5B214",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[B.O.B.]"
-      },
-      {
-        "type": "text",
-        "content": "이 준 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": "만큼 치유되며, 내가 준 피해의 "
-      },
-      {
-        "type": "number",
-        "content": "100%"
-      },
-      {
-        "type": "text",
-        "content": "만큼 "
-      },
-      {
-        "type": "strong",
-        "content": "[B.O.B.]"
-      },
-      {
-        "type": "text",
-        "content": "이 치유됩니다."
-      }
-    ]
+    "image": "5B214"
   }
 ]

@@ -1,0 +1,546 @@
+{
+  "61BBC": {
+    "name": "Quickload Chamber",
+    "description": [
+      {
+        "type": "text",
+        "content": "Reloading within "
+      },
+      {
+        "type": "number",
+        "content": "6m"
+      },
+      {
+        "type": "text",
+        "content": " of an enemy adds "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of Max Ammo as extra Ammo."
+      }
+    ]
+  },
+  "61BBB": {
+    "name": "Competitive Analysis",
+    "description": [
+      {
+        "type": "text",
+        "content": "Deal "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " increased primary fire damage to enemies in the Damage role."
+      }
+    ]
+  },
+  "61BBE": {
+    "name": "Blackwatch Tech",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Deadeye]"
+      },
+      {
+        "type": "text",
+        "content": " eliminations reduce "
+      },
+      {
+        "type": "strong",
+        "content": "[Flashbang]"
+      },
+      {
+        "type": "text",
+        "content": " max cooldown by "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": ", up to "
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": " for the round."
+      }
+    ]
+  },
+  "61BBF": {
+    "name": "Streamlined Poncho",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": " reduces "
+      },
+      {
+        "type": "strong",
+        "content": "[Flashbang]"
+      },
+      {
+        "type": "text",
+        "content": " cooldown by "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BB9": {
+    "name": "Improvised Dynamite",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Flashbang]"
+      },
+      {
+        "type": "text",
+        "content": " explosion radius is increased by "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BBA": {
+    "name": "Wanted Poster",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Deadeye]"
+      },
+      {
+        "type": "text",
+        "content": " eliminations reward extra "
+      },
+      {
+        "type": "number",
+        "content": "500"
+      },
+      {
+        "type": "text",
+        "content": " Stadium Cash each."
+      }
+    ]
+  },
+  "61BC0": {
+    "name": "Frankie's Fixer",
+    "description": [
+      {
+        "type": "text",
+        "content": "Heal "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": " Life for each Ammo loaded using "
+      },
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BBD": {
+    "name": "Eagle Eye",
+    "description": [
+      {
+        "type": "text",
+        "content": "Take "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " less damage from enemies farther than "
+      },
+      {
+        "type": "number",
+        "content": "12m"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BB8": {
+    "name": "Bullseye",
+    "description": [
+      {
+        "type": "text",
+        "content": "Critical hit reduces "
+      },
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": "'s cooldown by "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B206": {
+    "name": "Dead Man Walking",
+    "description": [
+      {
+        "type": "text",
+        "content": "Eliminating an enemy you've recently critically hit grants "
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": " Max Ammo for the round."
+      }
+    ]
+  },
+  "5B207": {
+    "name": "Quick Draw",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Peacekeeper]"
+      },
+      {
+        "type": "text",
+        "content": "'s next primary fire can auto-aim within "
+      },
+      {
+        "type": "number",
+        "content": "9m"
+      },
+      {
+        "type": "text",
+        "content": " while under cooldown."
+      }
+    ]
+  },
+  "5B210": {
+    "name": "Think Flasht",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you start a "
+      },
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": ", leave a "
+      },
+      {
+        "type": "strong",
+        "content": "[Flashbang]"
+      },
+      {
+        "type": "text",
+        "content": " behind."
+      }
+    ]
+  },
+  "61BB6": {
+    "name": "Full House",
+    "description": [
+      {
+        "type": "text",
+        "content": "For each Ammo available, "
+      },
+      {
+        "type": "strong",
+        "content": "[Peacekeeper]"
+      },
+      {
+        "type": "text",
+        "content": "'s primary fire gains "
+      },
+      {
+        "type": "number",
+        "content": "1%"
+      },
+      {
+        "type": "text",
+        "content": " increased damage, up to "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "61BB7": {
+    "name": "Just Roll With It",
+    "description": [
+      {
+        "type": "text",
+        "content": "During "
+      },
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": ", prevent all incoming damage. After "
+      },
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": " ends, heal "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " of your Life over "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B205": {
+    "name": "Barrel Roll",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Combat Roll]"
+      },
+      {
+        "type": "text",
+        "content": " takes you "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " further and deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "65"
+      },
+      {
+        "type": "text",
+        "content": " damage to enemies."
+      }
+    ]
+  },
+  "5B209": {
+    "name": "Hot Potato",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Flashbang]"
+      },
+      {
+        "type": "text",
+        "content": " adds "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " extra Ammo on hit until "
+      },
+      {
+        "type": "strong",
+        "content": "[Peacekeeper]"
+      },
+      {
+        "type": "text",
+        "content": " is reloaded."
+      }
+    ]
+  },
+  "5B20C": {
+    "name": "Flash In The Pan",
+    "description": [
+      {
+        "type": "text",
+        "content": "Eliminating an enemy recently damaged by "
+      },
+      {
+        "type": "strong",
+        "content": "[Flashbang]"
+      },
+      {
+        "type": "text",
+        "content": " grants "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge."
+      }
+    ]
+  },
+  "5B20F": {
+    "name": "Sunset",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Deadeye]"
+      },
+      {
+        "type": "text",
+        "content": " eliminations grant "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge each."
+      }
+    ]
+  },
+  "5B20E": {
+    "name": "Sunrise",
+    "description": [
+      {
+        "type": "text",
+        "content": "Using "
+      },
+      {
+        "type": "strong",
+        "content": "[Deadeye]"
+      },
+      {
+        "type": "text",
+        "content": " slows all visible enemies by "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "1.5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B20A": {
+    "name": "Easy Rider",
+    "description": [
+      {
+        "type": "text",
+        "content": "While using "
+      },
+      {
+        "type": "strong",
+        "content": "[Deadeye]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth and "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed."
+      }
+    ]
+  }
+}

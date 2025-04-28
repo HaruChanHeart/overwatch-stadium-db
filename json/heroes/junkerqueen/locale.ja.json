@@ -1,0 +1,734 @@
+{
+  "60E16": {
+    "name": "リーダーの大号令",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コマンディング・シャウト]"
+      },
+      {
+        "type": "text",
+        "content": "を使用すると、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E18": {
+    "name": "ガット・パンチ・ガントレット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ギザギザブレード]"
+      },
+      {
+        "type": "text",
+        "content": "が手元にない状態で"
+      },
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "を敵に当てると、"
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": "の追加ダメージとノックバックが発生する"
+      }
+    ]
+  },
+  "60E14": {
+    "name": "スラッシュ・アンド・ショット",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵に"
+      },
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "を与えてから"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "3回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積"
+      }
+    ]
+  },
+  "60E17": {
+    "name": "ブラッド・ハウンド",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "の付いている敵が"
+      },
+      {
+        "type": "number",
+        "content": "12メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内に"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人いるごとに、武器パワーが"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "60E0F": {
+    "name": "ビッグ・マグネット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ギザギザブレード]"
+      },
+      {
+        "type": "text",
+        "content": "の引き込み力が"
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E10": {
+    "name": "ティンカーズ・トラックスーツ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ランペイジ]"
+      },
+      {
+        "type": "text",
+        "content": "または"
+      },
+      {
+        "type": "strong",
+        "content": "[カーネイジ]"
+      },
+      {
+        "type": "text",
+        "content": "がヒットしてから"
+      },
+      {
+        "type": "number",
+        "content": "4秒"
+      },
+      {
+        "type": "text",
+        "content": "間、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E15": {
+    "name": "爆音シャウト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コマンディング・シャウト]"
+      },
+      {
+        "type": "text",
+        "content": "の効果が、範囲外の味方にも及ぶ"
+      }
+    ],
+    "extras": [
+      {
+        "content": "[コマンディング・シャウト]範囲"
+      }
+    ]
+  },
+  "61EE2": {
+    "name": "不動のデズ",
+    "description": [
+      {
+        "type": "text",
+        "content": "ノックバックを受けると、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ],
+    "extras": [
+      {
+        "content": "ノックバック抵抗力"
+      }
+    ]
+  },
+  "60E12": {
+    "name": "切り裂きの女王",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "付いている敵が"
+      },
+      {
+        "type": "number",
+        "content": "12メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内にいる間、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "、攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "61EE3": {
+    "name": "飽くなき反抗心",
+    "description": [
+      {
+        "type": "text",
+        "content": "与えた"
+      },
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "の効果が切れる前に解除されると、ライフ最大値"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る。最大"
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": "獲得"
+      }
+    ]
+  },
+  "60E0E": {
+    "name": "不滅の忠誠心",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コマンディング・シャウト]"
+      },
+      {
+        "type": "text",
+        "content": "の効果を得た味方のライフが、ジャンカー・クイーンのライフの"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "分、毎秒回復する"
+      }
+    ],
+    "extras": [
+      {
+        "content": "[コマンディング・シャウト]追加ライフ"
+      }
+    ]
+  },
+  "60E11": {
+    "name": "肉体強化",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ランペイジ]"
+      },
+      {
+        "type": "text",
+        "content": "または"
+      },
+      {
+        "type": "strong",
+        "content": "[カーネイジ]"
+      },
+      {
+        "type": "text",
+        "content": "の発動中に受けるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "60E13": {
+    "name": "スカベンジャー・スクレイプ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[カーネイジ]"
+      },
+      {
+        "type": "text",
+        "content": "または"
+      },
+      {
+        "type": "strong",
+        "content": "[ギザギザブレード]"
+      },
+      {
+        "type": "text",
+        "content": "を直撃させると、与えたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る"
+      }
+    ]
+  },
+  "5B23C": {
+    "name": "闘いのスリル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[アドレナリンラッシュ]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "12メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内の味方も、ジャンカー・クイーンの回復量"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "分、回復する"
+      }
+    ]
+  },
+  "5B239": {
+    "name": "統率者の一撃",
+    "description": [
+      {
+        "type": "number",
+        "content": "12メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内の敵に対して"
+      },
+      {
+        "type": "strong",
+        "content": "[スキャッターガン]"
+      },
+      {
+        "type": "text",
+        "content": "でクリティカル・ヒットすると、"
+      },
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "を付与し、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて"
+      },
+      {
+        "type": "weaponDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "5B23B": {
+    "name": "ナイフ・ツイスト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "が付いている敵に"
+      },
+      {
+        "type": "strong",
+        "content": "[スキャッターガン]"
+      },
+      {
+        "type": "text",
+        "content": "がクリティカル・ヒットすると、その敵の"
+      },
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "の持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "0.5秒"
+      },
+      {
+        "type": "text",
+        "content": "長くなる"
+      }
+    ]
+  },
+  "5B23A": {
+    "name": "グレーシー、切り刻め！",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ギザギザブレード]"
+      },
+      {
+        "type": "text",
+        "content": "の呼び戻しで敵にダメージを与えると、同アビリティのクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "ヒットにつき"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "5B237": {
+    "name": "ブレード・パレード",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ギザギザブレード]"
+      },
+      {
+        "type": "text",
+        "content": "を長押しでチャージし、最大"
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "の追加ダメージとノックバックを発生させる"
+      }
+    ]
+  },
+  "5B23F": {
+    "name": "慈悲なき刃",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コマンディング・シャウト]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、"
+      },
+      {
+        "type": "strong",
+        "content": "[ギザギザブレード]"
+      },
+      {
+        "type": "text",
+        "content": "がターゲット"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人にホーミングする"
+      }
+    ]
+  },
+  "5B234": {
+    "name": "勝利あるのみ",
+    "description": [
+      {
+        "type": "text",
+        "content": "敵をキルすると、"
+      },
+      {
+        "type": "strong",
+        "content": "[コマンディング・シャウト]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンがリセットされる"
+      }
+    ]
+  },
+  "5B236": {
+    "name": "覇者の咆哮",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[コマンディング・シャウト]"
+      },
+      {
+        "type": "text",
+        "content": "で"
+      },
+      {
+        "type": "number",
+        "content": "10メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内の敵に"
+      },
+      {
+        "type": "strong",
+        "content": "[傷]"
+      },
+      {
+        "type": "text",
+        "content": "を付けて、"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間かけて"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "5B23E": {
+    "name": "ソアリング・アックス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[カーネイジ]"
+      },
+      {
+        "type": "text",
+        "content": "の入力から攻撃までの間にジャンプすると、ダイビング攻撃になる"
+      }
+    ]
+  },
+  "5B238": {
+    "name": "ダブル・スラッシュ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[カーネイジ]"
+      },
+      {
+        "type": "text",
+        "content": "のチャージが"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "増える。ただし、ヒット時のクールダウンの短縮時間は"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "に縮まる"
+      }
+    ]
+  },
+  "5B23D": {
+    "name": "女王にひれ伏せ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ランペイジ]"
+      },
+      {
+        "type": "text",
+        "content": "が当たった敵を"
+      },
+      {
+        "type": "number",
+        "content": "1.5秒"
+      },
+      {
+        "type": "text",
+        "content": "間ノックダウンする"
+      }
+    ]
+  },
+  "5B235": {
+    "name": "血の歓喜",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ランペイジ]"
+      },
+      {
+        "type": "text",
+        "content": "または"
+      },
+      {
+        "type": "strong",
+        "content": "[カーネイジ]"
+      },
+      {
+        "type": "text",
+        "content": "がヒットするたび、ライフ最大値"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る"
+      }
+    ]
+  }
+}

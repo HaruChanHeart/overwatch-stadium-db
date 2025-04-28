@@ -1,0 +1,574 @@
+{
+  "60E7E": {
+    "name": "High Capacity Tubing"
+  },
+  "60E82": {
+    "name": "Bio-Needles",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Grasp]"
+      },
+      {
+        "type": "text",
+        "content": "'s secondary fire restores "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " more "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Energy]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E7D": {
+    "name": "Alternative Energy",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use "
+      },
+      {
+        "type": "strong",
+        "content": "[Fade]"
+      },
+      {
+        "type": "text",
+        "content": ", refill your "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Energy]"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60E81": {
+    "name": "Subatomic Splitter"
+  },
+  "60E7C": {
+    "name": "Smart Orbs",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Orb]"
+      },
+      {
+        "type": "text",
+        "content": " moves "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " slower while it is healing or dealing damage."
+      }
+    ]
+  },
+  "60E7F": {
+    "name": "Levitation Shawl",
+    "description": [
+      {
+        "type": "text",
+        "content": "During "
+      },
+      {
+        "type": "strong",
+        "content": "[Coalescence]"
+      },
+      {
+        "type": "text",
+        "content": ", gain free flight."
+      }
+    ]
+  },
+  "60E83": {
+    "name": "Coalegion",
+    "description": [
+      {
+        "type": "text",
+        "content": "Allies healed by "
+      },
+      {
+        "type": "strong",
+        "content": "[Coalescence]"
+      },
+      {
+        "type": "text",
+        "content": " deal "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " increased damage."
+      }
+    ]
+  },
+  "60E7B": {
+    "name": "Extendrils",
+    "extras": [
+      {
+        "content": "[Biotic Orb] Tendril Range"
+      }
+    ]
+  },
+  "60E80": {
+    "name": "Abyss Boots",
+    "description": [
+      {
+        "type": "text",
+        "content": "While using "
+      },
+      {
+        "type": "strong",
+        "content": "[Fade]"
+      },
+      {
+        "type": "text",
+        "content": ", you jump "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " higher."
+      }
+    ]
+  },
+  "5B1B9": {
+    "name": "Empowering You",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Grasp]"
+      },
+      {
+        "type": "text",
+        "content": "'s secondary fire can target allies, increasing their damage by "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1BB": {
+    "name": "Precarious Potency",
+    "description": [
+      {
+        "type": "text",
+        "content": "Allies healed by your "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Grasp]"
+      },
+      {
+        "type": "text",
+        "content": " are healed for an additional "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Grasp]"
+      },
+      {
+        "type": "text",
+        "content": "'s healing over "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1BC": {
+    "name": "Chain Grasp",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Orb]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Grasp]"
+      },
+      {
+        "type": "text",
+        "content": "'s secondary fire chains to "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " additional targets within "
+      },
+      {
+        "type": "number",
+        "content": "10m"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1BE": {
+    "name": "Ethereal Excision",
+    "description": [
+      {
+        "type": "text",
+        "content": "While aiming at an enemy's head with "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Grasp]"
+      },
+      {
+        "type": "text",
+        "content": "'s secondary fire, gain "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed, "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " Lifesteal, and restore "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " more Biotic Energy."
+      }
+    ]
+  },
+  "5B1C3": {
+    "name": "Optimal Overflow",
+    "description": [
+      {
+        "type": "text",
+        "content": "After you spend "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Energy]"
+      },
+      {
+        "type": "text",
+        "content": ", launch the last selected "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Orb]"
+      },
+      {
+        "type": "text",
+        "content": " with "
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": " reduced duration."
+      }
+    ]
+  },
+  "5B1BA": {
+    "name": "Deconstruction",
+    "description": [
+      {
+        "type": "text",
+        "content": "After you spend "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Energy]"
+      },
+      {
+        "type": "text",
+        "content": ", deal "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " increased damage for "
+      },
+      {
+        "type": "number",
+        "content": "6s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1C4": {
+    "name": "Multiball",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Orb]"
+      },
+      {
+        "type": "text",
+        "content": " launches "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " additional orbs of the chosen type with "
+      },
+      {
+        "type": "number",
+        "content": "85%"
+      },
+      {
+        "type": "text",
+        "content": " reduced effectiveness."
+      }
+    ]
+  },
+  "5B1BF": {
+    "name": "Cross-Orbal",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Orb]"
+      },
+      {
+        "type": "text",
+        "content": " launches an additional "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Orb]"
+      },
+      {
+        "type": "text",
+        "content": " of the other type with "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " reduced capacity."
+      }
+    ]
+  },
+  "5B1C2": {
+    "name": "Phantasm",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you use "
+      },
+      {
+        "type": "strong",
+        "content": "[Fade]"
+      },
+      {
+        "type": "text",
+        "content": ", spawn a stationary copy of the last selected "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Orb]"
+      },
+      {
+        "type": "text",
+        "content": " with "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " reduced duration."
+      }
+    ]
+  },
+  "5B1C1": {
+    "name": "Voidhoppers",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Fade]"
+      },
+      {
+        "type": "text",
+        "content": " also phases other allies within "
+      },
+      {
+        "type": "number",
+        "content": "8m"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "0.25s"
+      },
+      {
+        "type": "text",
+        "content": " and grants them Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Life."
+      }
+    ]
+  },
+  "5B1C0": {
+    "name": "Scientific Deathod",
+    "description": [
+      {
+        "type": "text",
+        "content": "While using "
+      },
+      {
+        "type": "strong",
+        "content": "[Fade]"
+      },
+      {
+        "type": "text",
+        "content": ", passing through enemies grants "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge and Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " of your max Life."
+      }
+    ]
+  },
+  "5B1BD": {
+    "name": "Destruction's Divide",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Coalescence]"
+      },
+      {
+        "type": "text",
+        "content": " can be toggled between pure healing or pure damage, with "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " greater effect."
+      }
+    ]
+  }
+}

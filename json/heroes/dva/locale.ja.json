@@ -1,0 +1,735 @@
+{
+  "60EE2": {
+    "name": "マルチ・タスクMod",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フュージョン・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "の展開中に撃てる"
+      }
+    ]
+  },
+  "60EE1": {
+    "name": "デヒョン・デトネーター",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[メック]"
+      },
+      {
+        "type": "text",
+        "content": "を空中で自爆させると、"
+      },
+      {
+        "type": "strong",
+        "content": "[自爆]"
+      },
+      {
+        "type": "text",
+        "content": "の爆発ダメージと範囲が"
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "アップする"
+      }
+    ]
+  },
+  "60EDE": {
+    "name": "Mastermind軽減デバイス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを"
+      },
+      {
+        "type": "number",
+        "content": "300"
+      },
+      {
+        "type": "text",
+        "content": "軽減するたびに、"
+      },
+      {
+        "type": "strong",
+        "content": "[マイクロ・ミサイル]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "、自動で発射される"
+      }
+    ]
+  },
+  "60EE5": {
+    "name": "ベスビオ・プロトコル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[自爆]"
+      },
+      {
+        "type": "text",
+        "content": "時、付近にマグマが広がり、"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "あたり"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "612A9": {
+    "name": "プサン・ブラスター",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ライト・ガン]"
+      },
+      {
+        "type": "text",
+        "content": "にチャージ式のサブ攻撃が追加される。チャージすると、"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "80"
+      },
+      {
+        "type": "text",
+        "content": "のダメージを与える爆発性の貫通弾を"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "放つ"
+      }
+    ]
+  },
+  "60EE6": {
+    "name": "マクロ・ミサイル",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[マイクロ・ミサイル]"
+      },
+      {
+        "type": "text",
+        "content": "のダメージが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増え、ノックバックが大幅に増える"
+      }
+    ]
+  },
+  "60EDD": {
+    "name": "弾幕ユニット",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[マイクロ・ミサイル]"
+      },
+      {
+        "type": "text",
+        "content": "の弾数と持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "アップする"
+      }
+    ]
+  },
+  "60EDC": {
+    "name": "プロテクション・マトリックス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "で軽減したダメージの"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分、シールドを得る。最大"
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "獲得でき、"
+      },
+      {
+        "type": "strong",
+        "content": "[メック]"
+      },
+      {
+        "type": "text",
+        "content": "の破壊でリセットされる"
+      }
+    ]
+  },
+  "60EDF": {
+    "name": "導電コア",
+    "extras": [
+      {
+        "content": "[ブースター]持続時間"
+      }
+    ]
+  },
+  "61BF0": {
+    "name": "プロット・アーマー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "でビームのダメージを"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "軽減できる"
+      }
+    ]
+  },
+  "60EE0": {
+    "name": "APM AMP",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブースター]"
+      },
+      {
+        "type": "text",
+        "content": "の使用時、"
+      },
+      {
+        "type": "number",
+        "content": "16メートル"
+      },
+      {
+        "type": "text",
+        "content": "以内にいる味方の移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "53FE7": {
+    "name": "パルス・プレーティング",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "で軽減したダメージの"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "分、アルティメット・チャージを得る"
+      }
+    ]
+  },
+  "60EE4": {
+    "name": "ダメージ軽減変換",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[メック]"
+      },
+      {
+        "type": "text",
+        "content": "搭乗中に敵のバリアへ攻撃すると、与えたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "分のシールドを得る。最大"
+      },
+      {
+        "type": "number",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": "獲得でき、"
+      },
+      {
+        "type": "strong",
+        "content": "[メック]"
+      },
+      {
+        "type": "text",
+        "content": "の破壊でリセットされる"
+      }
+    ]
+  },
+  "612A8": {
+    "name": "ナノ・コーラ・ニトロ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[メック]"
+      },
+      {
+        "type": "text",
+        "content": "からの脱出時、ライフ最大値が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増え、"
+      },
+      {
+        "type": "strong",
+        "content": "[ナノ・ブースト]"
+      },
+      {
+        "type": "text",
+        "content": "の効果を"
+      },
+      {
+        "type": "number",
+        "content": "8秒"
+      },
+      {
+        "type": "text",
+        "content": "間得る"
+      }
+    ]
+  },
+  "5B1CD": {
+    "name": "チョーク交換",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[フュージョン・キャノン]"
+      },
+      {
+        "type": "text",
+        "content": "の拡散が"
+      },
+      {
+        "type": "number",
+        "content": "66%"
+      },
+      {
+        "type": "text",
+        "content": "減り、減衰距離が"
+      },
+      {
+        "type": "number",
+        "content": "20メートル"
+      },
+      {
+        "type": "text",
+        "content": "長くなる"
+      }
+    ]
+  },
+  "5B1C5": {
+    "name": "オーバーストック",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[マイクロ・ミサイル]"
+      },
+      {
+        "type": "text",
+        "content": "のチャージが"
+      },
+      {
+        "type": "number",
+        "content": "1回"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B1CC": {
+    "name": "レジェンダリー・ロードアウト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[マイクロ・ミサイル]"
+      },
+      {
+        "type": "text",
+        "content": "がヘビー・ロケット"
+      },
+      {
+        "type": "number",
+        "content": "6発"
+      },
+      {
+        "type": "text",
+        "content": "に置き換わる。ヘビー・ロケットの爆風ダメージは"
+      },
+      {
+        "type": "number",
+        "content": "350%"
+      },
+      {
+        "type": "text",
+        "content": "多く、爆風の範囲も"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "広い"
+      }
+    ]
+  },
+  "5B1C6": {
+    "name": "自動カウンター・システム",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを"
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": "軽減するたびに、"
+      },
+      {
+        "type": "strong",
+        "content": "[マイクロ・ミサイル]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "2発"
+      },
+      {
+        "type": "text",
+        "content": "、自動で発射される"
+      }
+    ]
+  },
+  "5B1CE": {
+    "name": "メディカル・マトリックス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "でブロックしたダメージの"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "分、ライフが回復する"
+      }
+    ]
+  },
+  "5B1CF": {
+    "name": "ワイド・マトリックス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "のサイズが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "増え、持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "伸びる"
+      }
+    ]
+  },
+  "5B1D0": {
+    "name": "MEKAパンチ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブースター]"
+      },
+      {
+        "type": "text",
+        "content": "使用中の"
+      },
+      {
+        "type": "strong",
+        "content": "[クイック近接攻撃]"
+      },
+      {
+        "type": "text",
+        "content": "がMEKAパンチとなり、ダメージが"
+      },
+      {
+        "type": "number",
+        "content": "75%"
+      },
+      {
+        "type": "text",
+        "content": "増える。MEKAパンチでキルすると"
+      },
+      {
+        "type": "strong",
+        "content": "[ブースター]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンがリセットされる"
+      }
+    ]
+  },
+  "5B1C7": {
+    "name": "スタッツ・ブースト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブースター]"
+      },
+      {
+        "type": "text",
+        "content": "の開始後"
+      },
+      {
+        "type": "number",
+        "content": "2秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "strong",
+        "content": "[ディフェンス・マトリックス]"
+      },
+      {
+        "type": "text",
+        "content": "のリカバリー速度が"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "5B1C9": {
+    "name": "イグニッション・バースト",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブースター]"
+      },
+      {
+        "type": "text",
+        "content": "の軌道に沿ってマグマが広がり、"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "あたり"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": "の継続ダメージを与える"
+      }
+    ]
+  },
+  "5B1C8": {
+    "name": "トッキ・スラム",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ブースター]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中にしゃがむと、地面に向かってスラム攻撃を繰り出し、アーマー最大値"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "分のダメージを与えて敵を上方向にノックバックする"
+      }
+    ]
+  },
+  "5B1CB": {
+    "name": "高速起爆",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[自爆]"
+      },
+      {
+        "type": "text",
+        "content": "が"
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "速く発動する"
+      }
+    ]
+  },
+  "5B1CA": {
+    "name": "パイロット・プロテクター",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[自爆]"
+      },
+      {
+        "type": "text",
+        "content": "後"
+      },
+      {
+        "type": "number",
+        "content": "8秒"
+      },
+      {
+        "type": "text",
+        "content": "間、爆風の範囲内にいた味方に追加ライフを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "250"
+      },
+      {
+        "type": "text",
+        "content": "与える"
+      }
+    ]
+  }
+}

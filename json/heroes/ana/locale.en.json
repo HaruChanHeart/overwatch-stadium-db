@@ -1,0 +1,604 @@
+{
+  "60DD5": {
+    "name": "Target Tracker",
+    "description": [
+      {
+        "type": "text",
+        "content": "For each enemy or ally affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Grenade]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed, up to "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ],
+    "extras": [
+      {
+        "content": "Biotic Grenade Duration"
+      }
+    ]
+  },
+  "60DDE": {
+    "name": "Potent Projectiles",
+    "description": [
+      {
+        "type": "text",
+        "content": "Unscoped "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Rifle]"
+      },
+      {
+        "type": "text",
+        "content": " projectiles are "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " larger."
+      }
+    ]
+  },
+  "60DD7": {
+    "name": "Quick Scope",
+    "description": [
+      {
+        "type": "text",
+        "content": "Deal "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " more damage to airborne enemies."
+      }
+    ],
+    "extras": [
+      {
+        "content": "Faster Scope Speed"
+      }
+    ]
+  },
+  "60DE0": {
+    "name": "Unscoped Resources",
+    "description": [
+      {
+        "type": "text",
+        "content": "Unscoped "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Rifle]"
+      },
+      {
+        "type": "text",
+        "content": " shots have a "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " chance not to consume ammo."
+      }
+    ],
+    "extras": [
+      {
+        "content": "Max Ammo"
+      }
+    ]
+  },
+  "60DDF": {
+    "name": "Double Dosage",
+    "description": [
+      {
+        "type": "text",
+        "content": "Landing a "
+      },
+      {
+        "type": "strong",
+        "content": "[Sleep Dart]"
+      },
+      {
+        "type": "text",
+        "content": " on target affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Grenade]"
+      },
+      {
+        "type": "text",
+        "content": " reduces its cooldown by "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60DDD": {
+    "name": "Lethal Dose",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sleep Dart]"
+      },
+      {
+        "type": "text",
+        "content": " direct hit deals "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " bonus damage."
+      }
+    ]
+  },
+  "60DD9": {
+    "name": "Tranquilizer",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sleep Dart]"
+      },
+      {
+        "type": "text",
+        "content": " gains: "
+      },
+      {
+        "type": "number",
+        "content": "500%"
+      },
+      {
+        "type": "text",
+        "content": " Collision Size "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " Projectile Speed "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Sleep Duration"
+      }
+    ]
+  },
+  "60DDA": {
+    "name": "Cluster Core",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Grenade]"
+      },
+      {
+        "type": "text",
+        "content": " cooldown is reduced by "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": " for each target it hits."
+      }
+    ]
+  },
+  "60DDB": {
+    "name": "Grenadius Pin",
+    "extras": [
+      {
+        "content": "[Biotic Grenade] Radius"
+      }
+    ]
+  },
+  "60DD8": {
+    "name": "Perfected Formula",
+    "extras": [
+      {
+        "content": "[Nano Boost] Duration"
+      }
+    ]
+  },
+  "60DD4": {
+    "name": "Dash Boots",
+    "description": [
+      {
+        "type": "text",
+        "content": "Jumping in mid-air will dash you a short distance."
+      }
+    ]
+  },
+  "60DD6": {
+    "name": "I.V. Drip",
+    "description": [
+      {
+        "type": "text",
+        "content": "While affected by "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Grenade]"
+      },
+      {
+        "type": "text",
+        "content": ", Ana gains "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth."
+      }
+    ]
+  },
+  "60DDC": {
+    "name": "Eye of Horus",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Nano Boost]"
+      },
+      {
+        "type": "text",
+        "content": " can target allies through walls and its range is increased to "
+      },
+      {
+        "type": "number",
+        "content": "60m"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1FD": {
+    "name": "Tactical Rifle",
+    "description": [
+      {
+        "type": "text",
+        "content": "While scoped, "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Rifle]"
+      },
+      {
+        "type": "text",
+        "content": " will lock-on to allies for guaranteed hits."
+      }
+    ]
+  },
+  "5B1F9": {
+    "name": "Pinpoint Prescription",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Rifle]"
+      },
+      {
+        "type": "text",
+        "content": " can now critically hit both allies and enemies."
+      }
+    ]
+  },
+  "5B1FF": {
+    "name": "No Scope Needed",
+    "description": [
+      {
+        "type": "text",
+        "content": "Landing unscoped shots with "
+      },
+      {
+        "type": "strong",
+        "content": "[Biotic Rifle]"
+      },
+      {
+        "type": "text",
+        "content": " grants "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for "
+      },
+      {
+        "type": "number",
+        "content": "2s"
+      },
+      {
+        "type": "text",
+        "content": ", stacking up to "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " times."
+      }
+    ]
+  },
+  "5B200": {
+    "name": "Dreamy",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sleep Dart]"
+      },
+      {
+        "type": "text",
+        "content": " can hit allies, healing "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " of their max Life over "
+      },
+      {
+        "type": "number",
+        "content": "8s"
+      },
+      {
+        "type": "text",
+        "content": " instead of putting them to sleep."
+      }
+    ]
+  },
+  "5B1FC": {
+    "name": "Sleep Regimen",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " Health. When you apply Sleep to an enemy, gain "
+      },
+      {
+        "type": "number",
+        "content": "10"
+      },
+      {
+        "type": "text",
+        "content": " Health, up to "
+      },
+      {
+        "type": "number",
+        "content": "150"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B1FB": {
+    "name": "Comfy Cloud",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Sleep Dart]"
+      },
+      {
+        "type": "text",
+        "content": " explodes on contact, hitting targets within "
+      },
+      {
+        "type": "number",
+        "content": "3m"
+      },
+      {
+        "type": "text",
+        "content": ", but Sleep has a "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " reduced duration."
+      }
+    ]
+  },
+  "5B202": {
+    "name": "Home Remedy",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Grenade]"
+      },
+      {
+        "type": "text",
+        "content": " grants Overhealth equal to "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " of its healing."
+      }
+    ]
+  },
+  "5B1FA": {
+    "name": "Venomous",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Grenade]"
+      },
+      {
+        "type": "text",
+        "content": " deals an additional "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " damage over its duration to enemies affected."
+      }
+    ]
+  },
+  "5B201": {
+    "name": "Time Out",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Biotic Grenade]"
+      },
+      {
+        "type": "text",
+        "content": " now knocks enemies back and reduces their Move Speed by "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " for "
+      },
+      {
+        "type": "number",
+        "content": "1.5s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B203": {
+    "name": "My Turn",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Nano Boost]"
+      },
+      {
+        "type": "text",
+        "content": " also applies to yourself for "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of its duration."
+      }
+    ]
+  },
+  "5B1FE": {
+    "name": "Your Full Potential",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Nano Boost]"
+      },
+      {
+        "type": "text",
+        "content": " also grants the target "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge and "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "200"
+      },
+      {
+        "type": "text",
+        "content": " Overhealth."
+      }
+    ]
+  },
+  "5B204": {
+    "name": "Our Turn",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Nano Boost]"
+      },
+      {
+        "type": "text",
+        "content": " also affects other allies in your line of sight, but it has a "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " reduced duration on them."
+      }
+    ]
+  }
+}

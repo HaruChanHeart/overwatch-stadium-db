@@ -1,0 +1,538 @@
+{
+  "60EB2": {
+    "name": "パルス変換",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘリックス・ロケット]"
+      },
+      {
+        "type": "text",
+        "content": "を使うと、弾薬が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60EAE": {
+    "name": "バッテリー・パック"
+  },
+  "60EAD": {
+    "name": "ボム・ブラスト・ブーツ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘリックス・ロケット]"
+      },
+      {
+        "type": "text",
+        "content": "で自爆ダメージを受けた際のノックバック距離が"
+      },
+      {
+        "type": "number",
+        "content": "200%"
+      },
+      {
+        "type": "text",
+        "content": "長くなる"
+      }
+    ]
+  },
+  "60EB8": {
+    "name": "エンドゲーム・イコライザー",
+    "description": [
+      {
+        "type": "text",
+        "content": "アルティメット・チャージを消費すると、すべてのクールダウンがリセットされる。"
+      },
+      {
+        "type": "strong",
+        "content": "[タクティカル・バイザー]"
+      },
+      {
+        "type": "text",
+        "content": "の発動中、クールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "短くなる"
+      }
+    ]
+  },
+  "60EB0": {
+    "name": "緊急回復",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "を下回る味方に対する"
+      },
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "の回復量が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "増える（自身を含む）"
+      }
+    ]
+  },
+  "60EB1": {
+    "name": "脚部疲労/脚力系雑務",
+    "extras": [
+      {
+        "content": "[スプリント]移動速度"
+      }
+    ]
+  },
+  "60EB3": {
+    "name": "脚力の鉄人",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スプリント]"
+      },
+      {
+        "type": "text",
+        "content": "を行うと、毎秒ライフ最大値"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを得る。最大"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "、"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間"
+      }
+    ]
+  },
+  "5B1AB": {
+    "name": "スーパー・バイザー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘリックス・ロケット]"
+      },
+      {
+        "type": "text",
+        "content": "の使用後"
+      },
+      {
+        "type": "number",
+        "content": "0.75秒"
+      },
+      {
+        "type": "text",
+        "content": "間、"
+      },
+      {
+        "type": "strong",
+        "content": "[タクティカル・バイザー]"
+      },
+      {
+        "type": "text",
+        "content": "が発動する"
+      }
+    ]
+  },
+  "4FF97": {
+    "name": "ダブル・パルス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[タクティカル・バイザー]"
+      },
+      {
+        "type": "text",
+        "content": "の発動中、もう"
+      },
+      {
+        "type": "number",
+        "content": "1"
+      },
+      {
+        "type": "text",
+        "content": "人の敵に"
+      },
+      {
+        "type": "strong",
+        "content": "[パルス・ライフル]"
+      },
+      {
+        "type": "text",
+        "content": "で"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "のダメージを与える"
+      }
+    ]
+  },
+  "5B1AA": {
+    "name": "チェイン・ガン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[パルス・ライフル]"
+      },
+      {
+        "type": "text",
+        "content": "を連続で撃つと、"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "ごとに武器パワーが"
+      },
+      {
+        "type": "number",
+        "content": "0.5%"
+      },
+      {
+        "type": "text",
+        "content": "増える。"
+      },
+      {
+        "type": "number",
+        "content": "100回"
+      },
+      {
+        "type": "text",
+        "content": "まで蓄積"
+      }
+    ]
+  },
+  "5B1A9": {
+    "name": "ランニング・マン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スプリント]"
+      },
+      {
+        "type": "text",
+        "content": "中、弾薬が毎秒"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "回復し、最大弾薬数が"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "増える。最大"
+      },
+      {
+        "type": "number",
+        "content": "10回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積し、リロードでリセットされる"
+      }
+    ]
+  },
+  "5B1A4": {
+    "name": "ダブル・ヘリックス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘリックス・ロケット]"
+      },
+      {
+        "type": "text",
+        "content": "をもう"
+      },
+      {
+        "type": "number",
+        "content": "1発"
+      },
+      {
+        "type": "text",
+        "content": "発射する。"
+      },
+      {
+        "type": "number",
+        "content": "2発"
+      },
+      {
+        "type": "text",
+        "content": "目にはホーミング機能が付いているが、与えるダメージは"
+      },
+      {
+        "type": "number",
+        "content": "70%"
+      },
+      {
+        "type": "text",
+        "content": "少ない"
+      }
+    ]
+  },
+  "5B1AD": {
+    "name": "ハンカー・ダウン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘリックス・ロケット]"
+      },
+      {
+        "type": "text",
+        "content": "でダメージを与えると、持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "70%"
+      },
+      {
+        "type": "text",
+        "content": "短い"
+      },
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "をその場に展開する"
+      }
+    ]
+  },
+  "5B1A6": {
+    "name": "クレーテッド",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヘリックス・ロケット]"
+      },
+      {
+        "type": "text",
+        "content": "の爆風の範囲が"
+      },
+      {
+        "type": "number",
+        "content": "40%"
+      },
+      {
+        "type": "text",
+        "content": "広がり、爆発ダメージが"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B1A7": {
+    "name": "俺に続け！",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "が自身の動きにあわせて移動する。発動中、最大ライフが"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  },
+  "5B1A5": {
+    "name": "ここから失せろ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "内の敵に、回復量"
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": "分のダメージを与える"
+      }
+    ]
+  },
+  "5B1A8": {
+    "name": "バイオティック・ブルズアイ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "の範囲内でクリティカル・ヒットするごとに弾薬が"
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "回復し、"
+      },
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "の持続時間が"
+      },
+      {
+        "type": "number",
+        "content": "0.5秒"
+      },
+      {
+        "type": "text",
+        "content": "伸びる。最大"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "延長"
+      }
+    ]
+  },
+  "5B1AE": {
+    "name": "前線兵",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "展開時にフィールド内にいた味方に対して"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、ソルジャー"
+      },
+      {
+        "type": "number",
+        "content": "76"
+      },
+      {
+        "type": "text",
+        "content": "自身の最大ライフ値"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "分の追加ライフを与える"
+      }
+    ]
+  },
+  "5B1AC": {
+    "name": "トラック・アンド・フィールド",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[スプリント]"
+      },
+      {
+        "type": "text",
+        "content": "中、"
+      },
+      {
+        "type": "strong",
+        "content": "[バイオティック・フィールド]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが"
+      },
+      {
+        "type": "number",
+        "content": "150%"
+      },
+      {
+        "type": "text",
+        "content": "速くなる"
+      }
+    ]
+  }
+}

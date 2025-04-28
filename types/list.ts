@@ -1,6 +1,6 @@
 export interface HeroList {
     hero: HeroInfo[];
-    language: { [key: string]: string };
+    language: { [key: string]: string } | null;
 }
 
 export interface HeroInfo {

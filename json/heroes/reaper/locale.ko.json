@@ -1,0 +1,606 @@
+{
+  "60E91": {
+    "name": "망령 산탄",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[그림자 밟기]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " 회복합니다."
+      }
+    ]
+  },
+  "60E90": {
+    "name": "맹공",
+    "description": [
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "번째 사격할 때마다 양손의 "
+      },
+      {
+        "type": "strong",
+        "content": "[헬파이어 샷건]"
+      },
+      {
+        "type": "text",
+        "content": "을 모두 발사합니다. 추가 사격 시 탄약을 소모하지 않지만 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "80%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  "60E99": {
+    "name": "밤의 엄습자",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[망령화]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 "
+      },
+      {
+        "type": "strong",
+        "content": "[그림자 밟기]"
+      },
+      {
+        "type": "text",
+        "content": "의 재사용 대기시간이 "
+      },
+      {
+        "type": "number",
+        "content": "2초"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ],
+    "extras": [
+      {
+        "content": "[그림자 밟기] 시전 속도"
+      }
+    ]
+  },
+  "60E94": {
+    "name": "파괴의 화환",
+    "extras": [
+      {
+        "content": "[죽음의 꽃] 반경"
+      },
+      {
+        "content": "[죽음의 꽃] 도중 이동 속도"
+      }
+    ]
+  },
+  "60E95": {
+    "name": "군중 제어",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[죽음의 꽃]"
+      },
+      {
+        "type": "text",
+        "content": "이 사거리 내에 있는 적 하나당 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": "의 기술 위력을 얻습니다."
+      }
+    ]
+  },
+  "61EE0": {
+    "name": "영구 결빙 방지",
+    "description": [
+      {
+        "type": "text",
+        "content": "적 감속 효과 효율이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  },
+  "60E98": {
+    "name": "주머니 안개",
+    "description": [
+      {
+        "type": "text",
+        "content": "생명력이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 미만일 때 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E96": {
+    "name": "파멸",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[죽음의 꽃]"
+      },
+      {
+        "type": "text",
+        "content": "으로 처치할 때마다 라운드가 종료될 때까지 생명력이 "
+      },
+      {
+        "type": "number",
+        "content": "25"
+      },
+      {
+        "type": "text",
+        "content": "만큼, 최대 "
+      },
+      {
+        "type": "number",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": "까지 증가합니다."
+      }
+    ]
+  },
+  "60E92": {
+    "name": "끔찍한 날개",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[망령화]"
+      },
+      {
+        "type": "text",
+        "content": " 상태일 때 비행할 수 있게 되며 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "60E93": {
+    "name": "담대한 바람",
+    "extras": [
+      {
+        "content": "[망령화] 도중 이동 속도"
+      },
+      {
+        "content": "[망령화] 지속 시간"
+      }
+    ]
+  },
+  "60E97": {
+    "name": "진홍빛 망토",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[죽음의 꽃]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 시 최대 생명력의 "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": "에 해당하는 추가 생명력을 얻습니다."
+      }
+    ]
+  },
+  "5B19B": {
+    "name": "공유 흡수",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[영혼 수확]"
+      },
+      {
+        "type": "text",
+        "content": "이 "
+      },
+      {
+        "type": "number",
+        "content": "10미터"
+      },
+      {
+        "type": "text",
+        "content": " 내에 있는 가장 가까운 아군 또한 리퍼가 준 피해의 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "만큼 치유합니다."
+      }
+    ]
+  },
+  "5B198": {
+    "name": "기습자",
+    "description": [
+      {
+        "type": "text",
+        "content": "기술 사용 후, 다음에 적을 뒤에서 사격하면 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": "에 걸쳐 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "의 피해를 줍니다."
+      }
+    ]
+  },
+  "5B19D": {
+    "name": "살육의 혼",
+    "description": [
+      {
+        "type": "text",
+        "content": "처치 시 재사용 대기시간이 초기화됩니다."
+      }
+    ]
+  },
+  "5B19F": {
+    "name": "수확제",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[헬파이어 샷건]"
+      },
+      {
+        "type": "text",
+        "content": " 적중 시 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " 확률로 영혼 구슬 하나를 생성합니다. 구슬을 주우면 생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 회복하고, 탄약을 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 얻으며, "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 이동 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B1A0": {
+    "name": "장막의 유산탄",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[망령화]"
+      },
+      {
+        "type": "text",
+        "content": "를 사용하면 다음 탄창의 한 발당 산탄 개수가 "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " 증가하고, 산탄 범위가 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다."
+      }
+    ]
+  },
+  "5B1A3": {
+    "name": "회전식 파멸",
+    "description": [
+      {
+        "type": "text",
+        "content": "근거리("
+      },
+      {
+        "type": "number",
+        "content": "7미터"
+      },
+      {
+        "type": "text",
+        "content": ")에서 "
+      },
+      {
+        "type": "strong",
+        "content": "[헬파이어 샷건]"
+      },
+      {
+        "type": "text",
+        "content": "을 명중시키면 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 증가합니다 (최대 "
+      },
+      {
+        "type": "number",
+        "content": "8회"
+      },
+      {
+        "type": "text",
+        "content": " 중첩)."
+      }
+    ]
+  },
+  "5B1A1": {
+    "name": "흡혈의 손길",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[빠른 근접 공격]"
+      },
+      {
+        "type": "text",
+        "content": " 시 "
+      },
+      {
+        "type": "number",
+        "content": "5초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 적에게 징표를 남깁니다. 아군이 징표가 찍힌 적에 대해 "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "의 생명력 흡수를 얻습니다."
+      }
+    ]
+  },
+  "5B19E": {
+    "name": "무덤처럼 조용히",
+    "description": [
+      {
+        "type": "text",
+        "content": "발걸음과 "
+      },
+      {
+        "type": "strong",
+        "content": "[그림자 밟기]"
+      },
+      {
+        "type": "text",
+        "content": " 소리가 크게 줄어듭니다."
+      }
+    ]
+  },
+  "5B199": {
+    "name": "조르는 걸음",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[그림자 밟기]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 생명력 흡수량이 두 배가 됩니다."
+      }
+    ]
+  },
+  "5B19A": {
+    "name": "죽음의 걸음",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[그림자 밟기]"
+      },
+      {
+        "type": "text",
+        "content": " 사용 후, "
+      },
+      {
+        "type": "number",
+        "content": "1.5초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 피해가 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 감소한 "
+      },
+      {
+        "type": "strong",
+        "content": "[죽음의 꽃]"
+      },
+      {
+        "type": "text",
+        "content": "을 시전합니다."
+      }
+    ]
+  },
+  "5B1A2": {
+    "name": "망령 갱신",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[망령화]"
+      },
+      {
+        "type": "text",
+        "content": " 상태에서 "
+      },
+      {
+        "type": "number",
+        "content": "1초"
+      },
+      {
+        "type": "text",
+        "content": "마다 생명력을 "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "씩 회복합니다. 생명력이 "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " 미만일 경우 두 배로 회복합니다."
+      }
+    ]
+  },
+  "5B19C": {
+    "name": "유령의 추적",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[망령화]"
+      },
+      {
+        "type": "text",
+        "content": " 상태에서 적을 통과하면 적의 이동 속도와 공격 속도가 "
+      },
+      {
+        "type": "number",
+        "content": "3초"
+      },
+      {
+        "type": "text",
+        "content": " 동안 "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": " 감소합니다."
+      }
+    ]
+  }
+}

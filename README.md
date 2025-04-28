@@ -4,9 +4,11 @@
 ## 기능
 1. 영웅 별 스킬 정리
 2. HeroUI 기반 디자인 제작
+3. 다국어 지원 (한국어, English, Japanese)
 
 ### 사용된 리소스 및 라이브러리
 * [HeroUI (NextUI)](https://heroui.com)
 * [Tailwind CSS](https://tailwindcss.com)
 * [Font Awesome](https://fontawesome.com)
 * [Wanted Sans](https://github.com/wanteddev/wanted-sans)
+* [M plus](https://mplusfonts.github.io)

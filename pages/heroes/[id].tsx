@@ -8,6 +8,7 @@ import { GetStaticProps, GetStaticPaths } from "next";
 interface HeroPageProps {
   id: string;
   skills: Hero;
+  language: Record<string, SkillData>;
 }
 
 import {
@@ -36,7 +37,7 @@ import { Tabs, Tab } from "@heroui/tabs";
 import Footer from "@/components/footer";
 import CustomNavBar from "@/components/navbar";
 
-export default function HeroPage({ id, skills }: HeroPageProps) {
+export default function HeroPage({ id, skills, language }: HeroPageProps) {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
   const {
     isOpen: isPowerOpen,
@@ -72,7 +73,7 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
             />
             <div className="text-3xl font-bold">{id}</div>
           </div>
-          <div className="grid grid-cols-2 gap-2 mt-4 items-center">
+          <div className="grid grid-cols-2 gap-2 mt-4 items-center opacity-50">
             <strong>Health</strong>
             <span className="text-zinc-200">
               <span>300</span> <span className="text-green-300">+ 300</span>
@@ -106,16 +107,18 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
                                 <div className="flex flex-row justify-start items-end w-full">
                                   <Image
                                     src={`/assets/skills/${power.image}.webp`}
-                                    alt={power.name}
+                                    alt={language[power.image].name}
                                     className="h-10, w-10 rounded-full mr-3"
                                   />
                                   <div className="power-name font-bold text-2xl text-white mr-auto">
-                                    {power.name}
+                                    {language[power.image].name}
                                   </div>
                                 </div>
                                 {power.description ? (
                                   <SkillDescription
-                                    description={power.description}
+                                    description={
+                                      language[power.image].description || []
+                                    }
                                   />
                                 ) : null}
                               </div>
@@ -155,7 +158,10 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
                 <Tab key={key} title={key} className="w-full">
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
                     {[1, 2, 3].map((grade: number) => (
-                      <div key={grade} className="grid grid-cols-3 mx-auto gap-4 h-max">
+                      <div
+                        key={grade}
+                        className="grid grid-cols-3 mx-auto gap-4 h-max"
+                      >
                         {data
                           .filter(
                             (value) => "grade" in value && value.grade === grade
@@ -169,11 +175,11 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
                                     <div className="flex flex-row justify-start items-end w-full">
                                       <Image
                                         src={`/assets/skills/${value.image}.webp`}
-                                        alt={value.name}
+                                        alt={language[value.image].name}
                                         className="h-10, w-10 rounded-full mr-3"
                                       />
                                       <div className="power-name font-bold text-2xl text-white mr-auto">
-                                        {value.name}
+                                        {language[value.image].name}
                                       </div>
                                     </div>
                                     <div className="flex flex-col gap-1 font-bold text-white">
@@ -187,18 +193,27 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
                                         : null}
                                       {"extras" in value && value.extras
                                         ? value.extras.map(
-                                            (extra: ItemExtra) => (
+                                            (
+                                              extra: ItemExtra,
+                                              _idx: number
+                                            ) => (
                                               <ExtraDescription
-                                                key={extra.content}
-                                                description={[extra]}
+                                                key={_idx}
+                                                value={[extra.value]}
+                                                description={
+                                                  language[value.image].extras
+                                                }
                                               />
                                             )
                                           )
                                         : null}
                                     </div>
-                                    {value.description ? (
+                                    {language[value.image].description ? (
                                       <SkillDescription
-                                        description={value.description}
+                                        description={
+                                          language[value.image].description ||
+                                          []
+                                        }
                                       />
                                     ) : null}
                                     <div className="flex flex-row justify-center items-center gap-1 font-bold text-white">
@@ -281,11 +296,11 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
                       <div className="flex flex-row justify-start items-end w-full">
                         <Image
                           src={`/assets/skills/${selectedSkill?.image}.webp`}
-                          alt={selectedSkill?.name}
+                          alt={language[selectedSkill?.image].name}
                           className="h-10, w-10 rounded-full mr-3"
                         />
                         <div className="power-name font-bold text-2xl text-white mr-auto">
-                          {selectedSkill?.name}
+                          {language[selectedSkill?.image].name}
                         </div>
                       </div>
                       <div className="flex flex-col gap-1 font-bold text-white">
@@ -298,17 +313,24 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
                             ))
                           : null}
                         {selectedSkill?.extras
-                          ? selectedSkill?.extras?.map((extra) => (
-                              <ExtraDescription
-                                key={extra.content}
-                                description={[extra]}
-                              />
-                            ))
+                          ? selectedSkill?.extras?.map(
+                              (extra) => (
+                                <ExtraDescription
+                                  key={extra.content}
+                                  value={[extra.value]}
+                                  description={
+                                    language[selectedSkill?.image].extras
+                                  }
+                                />
+                              )
+                            )
                           : null}
                       </div>
-                      {selectedSkill?.description ? (
+                      {language[selectedSkill?.image].description ? (
                         <SkillDescription
-                          description={selectedSkill?.description}
+                          description={
+                            language[selectedSkill?.image].description || []
+                          }
                         />
                       ) : null}
                       <div className="flex flex-row justify-center items-center gap-1 font-bold text-white">
@@ -358,16 +380,18 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
                       <div className="flex flex-row justify-start items-end w-full">
                         <Image
                           src={`/assets/skills/${selectedPower?.image}.webp`}
-                          alt={selectedPower?.name}
+                          alt={language[selectedPower?.image].name}
                           className="h-10, w-10 rounded-full mr-3"
                         />
                         <div className="power-name font-bold text-2xl text-white mr-auto">
-                          {selectedPower?.name}
+                          {language[selectedPower?.image].name}
                         </div>
                       </div>
-                      {selectedPower?.description ? (
+                      {language[selectedPower?.image].description ? (
                         <SkillDescription
-                          description={selectedPower?.description}
+                          description={
+                            language[selectedPower?.image].description || []
+                          }
                         />
                       ) : null}
                     </div>
@@ -392,18 +416,24 @@ export default function HeroPage({ id, skills }: HeroPageProps) {
   );
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
+export const getStaticPaths: GetStaticPaths = async ({ locales }) => {
   const heroDir = path.join(process.cwd(), "json", "heroes");
   const allDirs = await fs.readdir(heroDir);
 
-  // Filter .DS_Store
   const heroIds = allDirs.filter(
     (name) => !name.startsWith(".") && !name.endsWith(".DS_Store")
   );
 
-  const paths = heroIds.map((id) => ({
-    params: { id },
-  }));
+  const paths = locales
+    ? locales.flatMap((locale) =>
+        heroIds.map((id) => ({
+          params: { id },
+          locale,
+        }))
+      )
+    : heroIds.map((id) => ({
+        params: { id },
+      }));
 
   return { paths, fallback: false };
 };
@@ -448,6 +478,31 @@ export const getStaticProps: GetStaticProps = async (context) => {
     ];
   };
 
+  const getLanguageJson = async (
+    heroId: string,
+    locale: string
+  ): Promise<Record<string, string>> => {
+    const baseDir = path.join(process.cwd(), "json", "heroes");
+    const heroPath = path.join(baseDir, heroId);
+    const globalPath = path.join(baseDir, "global");
+
+    const tryRead = async (folder: string) => {
+      const localized = path.join(folder, `locale.${locale}.json`);
+      const fallback = path.join(folder, `locale.json`);
+      return (await getJson(localized)) ?? (await getJson(fallback)) ?? {};
+    };
+
+    const globalLang = await tryRead(globalPath);
+    const heroLang = await tryRead(heroPath);
+
+    return {
+      ...(globalLang ?? {}),
+      ...(heroLang ?? {}),
+    };
+  };
+
+  const language = await getLanguageJson(id, locale);
+
   const skills: Hero = {
     ability: (await getMergedJson(id, "ability", locale)) as SkillData[],
     power: (await getMergedJson(id, "power", locale)) as PowerData[],
@@ -459,6 +514,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
     props: {
       id,
       skills,
+      language,
     },
   };
 };

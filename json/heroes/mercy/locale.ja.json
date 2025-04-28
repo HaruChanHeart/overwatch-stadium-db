@@ -1,0 +1,517 @@
+{
+  "62205": {
+    "name": "カデュケウス・ヘイロー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ヴァルキリー]"
+      },
+      {
+        "type": "text",
+        "content": "の発動中、"
+      },
+      {
+        "type": "strong",
+        "content": "[カデュケウス・スタッフ]"
+      },
+      {
+        "type": "text",
+        "content": "の回復とダメージ・ブーストが近くの味方全員に自動で付与される"
+      }
+    ]
+  },
+  "62206": {
+    "name": "エクストラ・ヒーリング",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフがフルの味方に"
+      },
+      {
+        "type": "strong",
+        "content": "[カデュケウス・スタッフ]"
+      },
+      {
+        "type": "text",
+        "content": "で回復すると、その味方に追加ライフを最大"
+      },
+      {
+        "type": "number",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": "与える"
+      }
+    ]
+  },
+  "62207": {
+    "name": "空飛ぶお医者様",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ガーディアン・エンジェル]"
+      },
+      {
+        "type": "text",
+        "content": "の発動終了時、移動した距離"
+      },
+      {
+        "type": "number",
+        "content": "1メートル"
+      },
+      {
+        "type": "text",
+        "content": "ごとに対象のライフを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "4"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60E72": {
+    "name": "エリアル・コンバット",
+    "description": [
+      {
+        "type": "text",
+        "content": "空中にいる間、以下の効果を得る: 武器パワー: "
+      },
+      {
+        "type": "number",
+        "content": "5%"
+      },
+      {
+        "type": "text",
+        "content": " 攻撃速度: "
+      },
+      {
+        "type": "attackSpeed",
+        "content": "10%"
+      }
+    ]
+  },
+  "60E73": {
+    "name": "エンジェル・マガジン",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[カデュケウス・ブラスター]"
+      },
+      {
+        "type": "text",
+        "content": "から"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "の確率で、追加弾（追加消費なし）を発射する"
+      }
+    ]
+  },
+  "60E75": {
+    "name": "カデュケウス・エクステンダー"
+  },
+  "60E6D": {
+    "name": "ウィング効率アップ"
+  },
+  "60E3C": {
+    "name": "リザレクト拡大"
+  },
+  "60E71": {
+    "name": "天使の舞",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ガーディアン・エンジェル]"
+      },
+      {
+        "type": "text",
+        "content": "のクールダウンが、ジャンプするかしゃがむとすぐに始まる"
+      }
+    ]
+  },
+  "60E6E": {
+    "name": "空力アップデート",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エンジェリック・ディセント]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、移動速度が"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "ごとに"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "60%"
+      },
+      {
+        "type": "text",
+        "content": "上昇"
+      }
+    ]
+  },
+  "60E6F": {
+    "name": "エンジェル・レジャー・ウェア",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[エンジェリック・ディセント]"
+      },
+      {
+        "type": "text",
+        "content": "または"
+      },
+      {
+        "type": "strong",
+        "content": "[ガーディアン・エンジェル]"
+      },
+      {
+        "type": "text",
+        "content": "の使用中、ライフが毎秒"
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": "回復する"
+      }
+    ]
+  },
+  "60E70": {
+    "name": "エンジェル・ブースター",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[ガーディアン・エンジェル]"
+      },
+      {
+        "type": "text",
+        "content": "をしゃがみまたはジャンプでキャンセルした際の上昇速度が"
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": "上がる"
+      }
+    ]
+  },
+  "60E74": {
+    "name": "ブースト・チェイン",
+    "extras": [
+      {
+        "content": "アルティメット・チャージ（ダメージ・ブースト由来）"
+      }
+    ]
+  },
+  "5B1B6": {
+    "name": "セレニティ",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[シンパセティック・リカバリー]"
+      },
+      {
+        "type": "text",
+        "content": "の回復量が"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "増え、ライフがフルの味方を回復しても自己回復の効果を得る"
+      }
+    ]
+  },
+  "5B1B5": {
+    "name": "庇護の光",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "80%"
+      },
+      {
+        "type": "text",
+        "content": "を上回る味方に"
+      },
+      {
+        "type": "strong",
+        "content": "[カデュケウス・スタッフ]"
+      },
+      {
+        "type": "text",
+        "content": "を繋げると、その味方の受けるダメージが"
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "減る"
+      }
+    ]
+  },
+  "5B1B7": {
+    "name": "ディストーション",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[カデュケウス・スタッフ]"
+      },
+      {
+        "type": "text",
+        "content": "でブーストした味方が、"
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": "のライフ吸収能力を得る"
+      }
+    ]
+  },
+  "5B1B4": {
+    "name": "運命の糸",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[カデュケウス・スタッフ]"
+      },
+      {
+        "type": "text",
+        "content": "を直前に繋げていた相手へ、同アビリティが"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間リンクする。ただし性能は"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "に抑えられる"
+      }
+    ]
+  },
+  "5B1B3": {
+    "name": "バトル・メディック",
+    "description": [
+      {
+        "type": "text",
+        "content": "スタッフを"
+      },
+      {
+        "type": "number",
+        "content": "1秒"
+      },
+      {
+        "type": "text",
+        "content": "接続するたびに、"
+      },
+      {
+        "type": "strong",
+        "content": "[カデュケウス・ブラスター]"
+      },
+      {
+        "type": "text",
+        "content": "の攻撃速度が"
+      },
+      {
+        "type": "number",
+        "content": "4%"
+      },
+      {
+        "type": "text",
+        "content": "上がる。最大"
+      },
+      {
+        "type": "number",
+        "content": "10回"
+      },
+      {
+        "type": "text",
+        "content": "蓄積し、リロードするかスタッフに持ち替えると効果はリセットされる"
+      }
+    ]
+  },
+  "5B1B8": {
+    "name": "ファースト・レスポンダー",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[リザレクト]"
+      },
+      {
+        "type": "text",
+        "content": "で蘇生した味方とマーシーの両方が"
+      },
+      {
+        "type": "number",
+        "content": "6秒"
+      },
+      {
+        "type": "text",
+        "content": "間、追加ライフを"
+      },
+      {
+        "type": "abilityDamage",
+        "content": "250"
+      },
+      {
+        "type": "text",
+        "content": "得る"
+      }
+    ]
+  },
+  "5B1B2": {
+    "name": "対価と報酬",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[リザレクト]"
+      },
+      {
+        "type": "text",
+        "content": "のチャージ数が"
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": "増え、発動にかかる時間が"
+      },
+      {
+        "type": "number",
+        "content": "33%"
+      },
+      {
+        "type": "text",
+        "content": "縮まる。ただし、クールダウンのリセットは各ラウンドの開始時に限定される"
+      }
+    ]
+  },
+  "5B1B1": {
+    "name": "ルネッサンス",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[リザレクト]"
+      },
+      {
+        "type": "text",
+        "content": "の使用に成功すると、"
+      },
+      {
+        "type": "strong",
+        "content": "[ヴァルキリー]"
+      },
+      {
+        "type": "text",
+        "content": "を"
+      },
+      {
+        "type": "number",
+        "content": "5秒"
+      },
+      {
+        "type": "text",
+        "content": "間発動する"
+      }
+    ]
+  },
+  "5B1AF": {
+    "name": "トリアージ・ユニット",
+    "description": [
+      {
+        "type": "text",
+        "content": "ライフが"
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": "未満の味方のもとに"
+      },
+      {
+        "type": "strong",
+        "content": "[ガーディアン・エンジェル]"
+      },
+      {
+        "type": "text",
+        "content": "で駆けつけてから"
+      },
+      {
+        "type": "number",
+        "content": "3秒"
+      },
+      {
+        "type": "text",
+        "content": "間、その味方に対する"
+      },
+      {
+        "type": "strong",
+        "content": "[カデュケウス・スタッフ]"
+      },
+      {
+        "type": "text",
+        "content": "の回復量が"
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": "増える"
+      }
+    ]
+  }
+}

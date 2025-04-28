@@ -1,25 +1,6 @@
 [
   {
-    "name": "스마트 구슬",
     "image": "60E7C",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[생체 구슬]"
-      },
-      {
-        "type": "text",
-        "content": "이 대상을 치유하거나 피해를 주는 중에는 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 느리게 움직입니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -30,18 +11,7 @@
     ]
   },
   {
-    "name": "공중부양 숄",
     "image": "60E7F",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[융화]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 중 자유롭게 비행할 수 있습니다."
-      }
-    ],
     "grade": 2,
     "cost": 4500,
     "stats": [
@@ -52,26 +22,7 @@
     ]
   },
   {
-    "name": "융화 군단",
     "image": "60E83",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[융화]"
-      },
-      {
-        "type": "text",
-        "content": "로 치유된 아군이 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": " 증가한 피해를 줍니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -86,7 +37,6 @@
     ]
   },
   {
-    "name": "늘어난 덩굴손",
     "image": "60E7B",
     "grade": 3,
     "cost": 11000,
@@ -98,8 +48,7 @@
     ],
     "extras": [
       {
-        "value": "30%",
-        "content": "[생체 구슬] 촉수 사거리"
+        "value": "30%"
       }
     ]
   }

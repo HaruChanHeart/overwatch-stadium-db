@@ -1,21 +1,6 @@
 [
   {
-    "name": "영구 결빙 방지",
     "image": "61EE0",
-    "description": [
-      {
-        "type": "text",
-        "content": "적 감속 효과 효율이 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 감소합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -30,30 +15,7 @@
     ]
   },
   {
-    "name": "주머니 안개",
     "image": "60E98",
-    "description": [
-      {
-        "type": "text",
-        "content": "생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "50%"
-      },
-      {
-        "type": "text",
-        "content": " 미만일 때 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -64,34 +26,7 @@
     ]
   },
   {
-    "name": "파멸",
     "image": "60E96",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[죽음의 꽃]"
-      },
-      {
-        "type": "text",
-        "content": "으로 처치할 때마다 라운드가 종료될 때까지 생명력이 "
-      },
-      {
-        "type": "number",
-        "content": "25"
-      },
-      {
-        "type": "text",
-        "content": "만큼, 최대 "
-      },
-      {
-        "type": "number",
-        "content": "100"
-      },
-      {
-        "type": "text",
-        "content": "까지 증가합니다."
-      }
-    ],
     "grade": 2,
     "cost": 4000,
     "stats": [
@@ -102,26 +37,7 @@
     ]
   },
   {
-    "name": "끔찍한 날개",
     "image": "60E92",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[망령화]"
-      },
-      {
-        "type": "text",
-        "content": " 상태일 때 비행할 수 있게 되며 이동 속도가 "
-      },
-      {
-        "type": "number",
-        "content": "20%"
-      },
-      {
-        "type": "text",
-        "content": " 증가합니다."
-      }
-    ],
     "grade": 3,
     "cost": 10000,
     "stats": [
@@ -132,7 +48,6 @@
     ]
   },
   {
-    "name": "담대한 바람",
     "image": "60E93",
     "grade": 3,
     "cost": 10000,
@@ -144,36 +59,15 @@
     ],
     "extras": [
       {
-        "value": "15%",
-        "content": "[망령화] 도중 이동 속도"
+        "value": "15%"
       },
       {
-        "value": "33%",
-        "content": "[망령화] 지속 시간"
+        "value": "33%"
       }
     ]
   },
   {
-    "name": "진홍빛 망토",
     "image": "60E97",
-    "description": [
-      {
-        "type": "strong",
-        "content": "[죽음의 꽃]"
-      },
-      {
-        "type": "text",
-        "content": " 사용 시 최대 생명력의 "
-      },
-      {
-        "type": "number",
-        "content": "15%"
-      },
-      {
-        "type": "text",
-        "content": "에 해당하는 추가 생명력을 얻습니다."
-      }
-    ],
     "grade": 3,
     "cost": 11000,
     "stats": [

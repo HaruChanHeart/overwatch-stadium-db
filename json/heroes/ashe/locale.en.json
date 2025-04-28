@@ -1,0 +1,648 @@
+{
+  "62301": {
+    "name": "Double Barreled",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Coach Gun]"
+      },
+      {
+        "type": "text",
+        "content": " gains an additional charge."
+      }
+    ]
+  },
+  "60DEB": {
+    "name": "Tripod",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[The Viper]"
+      },
+      {
+        "type": "text",
+        "content": ", "
+      },
+      {
+        "type": "strong",
+        "content": "[Coach Gun]"
+      },
+      {
+        "type": "text",
+        "content": ", and "
+      },
+      {
+        "type": "strong",
+        "content": "[Dynamite]"
+      },
+      {
+        "type": "text",
+        "content": " deal "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": " more damage to enemies that are below you."
+      }
+    ]
+  },
+  "60DEA": {
+    "name": "Maxed Mag",
+    "description": [
+      {
+        "type": "text",
+        "content": "Gain "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " Attack Speed for each remaining Ammo above "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " of your Max Ammo."
+      }
+    ]
+  },
+  "60DF6": {
+    "name": "Greased Loader"
+  },
+  "60DEE": {
+    "name": "Ironsights",
+    "description": [
+      {
+        "type": "text",
+        "content": "When the target is further than "
+      },
+      {
+        "type": "number",
+        "content": "10m"
+      },
+      {
+        "type": "text",
+        "content": ", scoped shot gains "
+      },
+      {
+        "type": "number",
+        "content": "1%"
+      },
+      {
+        "type": "text",
+        "content": " damage for each meter."
+      }
+    ]
+  },
+  "60DED": {
+    "name": "Sidewinder",
+    "description": [
+      {
+        "type": "text",
+        "content": "When the target is within "
+      },
+      {
+        "type": "number",
+        "content": "10m"
+      },
+      {
+        "type": "text",
+        "content": ", unscoped shot gains "
+      },
+      {
+        "type": "number",
+        "content": "15%"
+      },
+      {
+        "type": "text",
+        "content": " increased damage."
+      }
+    ]
+  },
+  "61EE1": {
+    "name": "Furnace Fuel",
+    "description": [
+      {
+        "type": "text",
+        "content": "Cleansed Burns grant "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " Ultimate Charge."
+      }
+    ]
+  },
+  "60DE2": {
+    "name": "Silver Lighter",
+    "description": [
+      {
+        "type": "text",
+        "content": "Damage dealt to Burning targets grants "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " more Ultimate Charge."
+      }
+    ]
+  },
+  "60DF8": {
+    "name": "Stacked Sticks",
+    "extras": [
+      {
+        "content": "[Dynamite] Explosion Radius"
+      }
+    ]
+  },
+  "60DEC": {
+    "name": "Infrared Lenses",
+    "description": [
+      {
+        "type": "text",
+        "content": "Deal "
+      },
+      {
+        "type": "number",
+        "content": "25%"
+      },
+      {
+        "type": "text",
+        "content": " increased damage to Burning enemies."
+      }
+    ]
+  },
+  "5B212": {
+    "name": "Build-A-Blast Buckshot",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Coach Gun]"
+      },
+      {
+        "type": "text",
+        "content": " has "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " increased self knockback."
+      }
+    ]
+  },
+  "60DF7": {
+    "name": "Silver Spurs",
+    "description": [
+      {
+        "type": "text",
+        "content": "After using "
+      },
+      {
+        "type": "strong",
+        "content": "[Coach Gun]"
+      },
+      {
+        "type": "text",
+        "content": ", gain "
+      },
+      {
+        "type": "number",
+        "content": "20%"
+      },
+      {
+        "type": "text",
+        "content": " Move Speed for "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "60DF9": {
+    "name": "B.O.B. Wire Defense",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": " finishes charging, "
+      },
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": " gains "
+      },
+      {
+        "type": "number",
+        "content": "300"
+      },
+      {
+        "type": "text",
+        "content": " Armor."
+      }
+    ]
+  },
+  "60DE1": {
+    "name": "Firestarter",
+    "description": [
+      {
+        "type": "text",
+        "content": "Your Burning effects gain "
+      },
+      {
+        "type": "number",
+        "content": "35%"
+      },
+      {
+        "type": "text",
+        "content": " Lifesteal."
+      }
+    ]
+  },
+  "5B213": {
+    "name": "My Business, My Rules",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you deal damage to a Burning enemy with "
+      },
+      {
+        "type": "strong",
+        "content": "[The Viper]"
+      },
+      {
+        "type": "text",
+        "content": ", reduce the cooldown of your abilities by "
+      },
+      {
+        "type": "number",
+        "content": "10%"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "53FE9": {
+    "name": "Head Honcho",
+    "description": [
+      {
+        "type": "text",
+        "content": "Each unscoped shot you land increases the damage of the next scoped shot you land by "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": ", up to "
+      },
+      {
+        "type": "number",
+        "content": "30%"
+      },
+      {
+        "type": "text",
+        "content": ". Resets on reload."
+      }
+    ]
+  },
+  "5B219": {
+    "name": "Reload Therapy",
+    "description": [
+      {
+        "type": "text",
+        "content": "When you reload a shot, heal "
+      },
+      {
+        "type": "number",
+        "content": "3%"
+      },
+      {
+        "type": "text",
+        "content": " of your Life."
+      }
+    ]
+  },
+  "5B21A": {
+    "name": "Incendiary Rounds",
+    "description": [
+      {
+        "type": "text",
+        "content": "While scoped, hitting the same target without missing deals "
+      },
+      {
+        "type": "weaponDamage",
+        "content": "30"
+      },
+      {
+        "type": "text",
+        "content": " extra damage."
+      }
+    ]
+  },
+  "5B211": {
+    "name": "Calamity",
+    "description": [
+      {
+        "type": "text",
+        "content": "Using "
+      },
+      {
+        "type": "strong",
+        "content": "[Coach Gun]"
+      },
+      {
+        "type": "text",
+        "content": " reloads "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " Ammo. "
+      },
+      {
+        "type": "strong",
+        "content": "[The Viper]"
+      },
+      {
+        "type": "text",
+        "content": "'s next "
+      },
+      {
+        "type": "number",
+        "content": "2"
+      },
+      {
+        "type": "text",
+        "content": " hits deal "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "40"
+      },
+      {
+        "type": "text",
+        "content": " additional damage over "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B21B": {
+    "name": "Incendiary Blast",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[Coach Gun]"
+      },
+      {
+        "type": "text",
+        "content": " applies Burning, dealing "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "100"
+      },
+      {
+        "type": "text",
+        "content": " damage over "
+      },
+      {
+        "type": "number",
+        "content": "5s"
+      },
+      {
+        "type": "text",
+        "content": ". If the target was Burning, deal "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "70"
+      },
+      {
+        "type": "text",
+        "content": " additional damage instantly."
+      }
+    ]
+  },
+  "5B218": {
+    "name": "Early Detonation",
+    "description": [
+      {
+        "type": "text",
+        "content": "Shooting "
+      },
+      {
+        "type": "strong",
+        "content": "[Dynamite]"
+      },
+      {
+        "type": "text",
+        "content": " reloads "
+      },
+      {
+        "type": "number",
+        "content": "5"
+      },
+      {
+        "type": "text",
+        "content": " Ammo and reduces the cooldown of "
+      },
+      {
+        "type": "strong",
+        "content": "[Dynamite]"
+      },
+      {
+        "type": "text",
+        "content": " by "
+      },
+      {
+        "type": "number",
+        "content": "3s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B215": {
+    "name": "Molten Munitions",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[Dynamite]"
+      },
+      {
+        "type": "text",
+        "content": " explodes on the ground, it leaves lava that Burns enemies for "
+      },
+      {
+        "type": "abilityDamage",
+        "content": "50"
+      },
+      {
+        "type": "text",
+        "content": " every "
+      },
+      {
+        "type": "number",
+        "content": "1s"
+      },
+      {
+        "type": "text",
+        "content": "."
+      }
+    ]
+  },
+  "5B217": {
+    "name": "Out with a Bang",
+    "description": [
+      {
+        "type": "text",
+        "content": "When "
+      },
+      {
+        "type": "strong",
+        "content": "[Dynamite]"
+      },
+      {
+        "type": "text",
+        "content": " explodes, it spawns "
+      },
+      {
+        "type": "number",
+        "content": "3"
+      },
+      {
+        "type": "text",
+        "content": " sticky explosives that deal "
+      },
+      {
+        "type": "number",
+        "content": "66%"
+      },
+      {
+        "type": "text",
+        "content": " reduced damage."
+      }
+    ]
+  },
+  "5B216": {
+    "name": "B.O.B. Jr.",
+    "description": [
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": " costs "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " less Ultimate Charge but has reduced Life, "
+      },
+      {
+        "type": "number",
+        "content": "50%"
+      },
+      {
+        "type": "text",
+        "content": " reduced Attack Speed, and is significantly smaller."
+      }
+    ]
+  },
+  "5B214": {
+    "name": "Partners in Crime",
+    "description": [
+      {
+        "type": "text",
+        "content": "You are healed for "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " of "
+      },
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": "'s damage dealt and "
+      },
+      {
+        "type": "strong",
+        "content": "[B.O.B.]"
+      },
+      {
+        "type": "text",
+        "content": " is healed for "
+      },
+      {
+        "type": "number",
+        "content": "100%"
+      },
+      {
+        "type": "text",
+        "content": " of your damage dealt."
+      }
+    ]
+  }
+}
