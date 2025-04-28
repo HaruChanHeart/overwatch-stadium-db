@@ -114,13 +114,11 @@ export default function HeroPage({ id, skills, language }: HeroPageProps) {
                                     {language[power.image].name}
                                   </div>
                                 </div>
-                                {power.description ? (
-                                  <SkillDescription
-                                    description={
-                                      language[power.image].description || []
-                                    }
-                                  />
-                                ) : null}
+                                <SkillDescription
+                                  description={
+                                    language[power.image].description || []
+                                  }
+                                />
                               </div>
                             }
                             classNames={{
